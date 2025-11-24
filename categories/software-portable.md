@@ -13,17 +13,23 @@ canonical: "https://panbox.cc/categories/software-portable"
 permalink: "/categories/software-portable/"
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<div class="main-content">
+
 # 绿色软件
 
-提供海量绿色软件、便携版软件、单文件版及去广告版软件下载。涵盖Windows、Mac平台
+<p>提供海量绿色软件、便携版软件、单文件版及去广告版软件下载。涵盖Windows、Mac平台</p>
 
----
-
+<div class="cta-section">
 ## 🌐 访问完整分类
 
-**📌 提示**: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。
+<p><strong>📌 提示</strong>: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。</p>
 
-👉 **[访问主站 https://panbox.cc 查看完整分类](https://panbox.cc/categories/software-portable)** 👈
+<a href="https://panbox.cc/categories/software-portable" class="btn-primary-large">👉 访问主站查看完整分类</a>
+</div>
+
+</div>
 
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json">

@@ -66,26 +66,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://LoneKingCode.github.io/panbox/categories/ai/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://LoneKingCode.github.io/panbox/categories/software/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://LoneKingCode.github.io/panbox/categories/source-code/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://LoneKingCode.github.io/panbox/categories/courses/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://LoneKingCode.github.io/panbox/resources/courses-side-business/189/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

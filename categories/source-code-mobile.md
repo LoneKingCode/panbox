@@ -13,35 +13,43 @@ canonical: "https://panbox.cc/categories/source-code-mobile"
 permalink: "/categories/source-code-mobile/"
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<div class="main-content">
+
 # 移动/App源码
 
-汇集移动应用开发源码，包括微信小程序、支付宝小程序和跨平台App项目代码
+<p>汇集移动应用开发源码，包括微信小程序、支付宝小程序和跨平台App项目代码</p>
 
 ## 📦 资源列表（共 15 个）
 
-- [小程序直播带货](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/135/)
-- [小程序客服聊天](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/134/)
-- [小程序预约系统](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/133/)
-- [小程序投票系统](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/132/)
-- [小程序抽奖活动](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/131/)
-- [小程序打卡签到](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/130/)
-- [小程序记账本](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/129/)
-- [小程序聊天室](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/128/)
-- [小程序图片编辑器](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/127/)
-- [小程序音乐播放器](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/126/)
-- [小程序天气预报](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/125/)
-- [美团小程序点餐系统](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/124/)
-- [Taro 京东小程序](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/123/)
-- [uni-app 跨平台商城](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/122/)
-- [微信小程序商城](https://LoneKingCode.github.io/panbox/resources/source-code-mobile/121/)
+<ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/135/">小程序直播带货</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/134/">小程序客服聊天</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/133/">小程序预约系统</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/132/">小程序投票系统</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/131/">小程序抽奖活动</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/130/">小程序打卡签到</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/129/">小程序记账本</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/128/">小程序聊天室</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/127/">小程序图片编辑器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/126/">小程序音乐播放器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/125/">小程序天气预报</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/124/">美团小程序点餐系统</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/123/">Taro 京东小程序</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/122/">uni-app 跨平台商城</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/121/">微信小程序商城</a></li>
+</ul>
 
----
-
+<div class="cta-section">
 ## 🌐 访问完整分类
 
-**📌 提示**: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。
+<p><strong>📌 提示</strong>: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。</p>
 
-👉 **[访问主站 https://panbox.cc 查看完整分类](https://panbox.cc/categories/source-code-mobile)** 👈
+<a href="https://panbox.cc/categories/source-code-mobile" class="btn-primary-large">👉 访问主站查看完整分类</a>
+</div>
+
+</div>
 
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json">

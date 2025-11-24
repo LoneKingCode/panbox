@@ -1,0 +1,77 @@
+---
+layout: default
+title: 盘盒子 - 资源索引平台
+description: 资源索引和导航平台，完整功能和下载请访问主站
+canonical: {{SITE_URL}}
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<div class="hero">
+  <div class="container">
+    <div class="hero-notice">
+      <p>📌 <strong>这是资源索引平台</strong>，完整功能和下载请访问主站</p>
+      <a href="{{SITE_URL}}" class="btn-primary">👉 访问主站获取完整功能</a>
+    </div>
+    <h1 class="hero-title">盘盒子 - 资源索引平台</h1>
+    <p class="hero-description">专业的网盘资源索引平台，提供海量免费AI资源、源码下载、软件工具、学习课程等优质内容的索引和导航</p>
+    
+  </div>
+</div>
+
+<div class="stats">
+  <div class="container">
+    <div class="stats-grid">
+      <div class="stat-item">
+        <div class="stat-number">{{ site.data.stats.total_resources }}</div>
+        <div class="stat-label">资源总数</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">{{ site.data.stats.total_categories }}</div>
+        <div class="stat-label">分类数量</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">{{ site.data.stats.today_updates }}</div>
+        <div class="stat-label">今日更新</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="categories">
+  <div class="container">
+    <h2 class="section-title">资源分类</h2>
+    <div class="categories-grid">
+{{CATEGORIES_LOOP}}
+    </div>
+  </div>
+</div>
+
+<div class="latest-resources">
+  <div class="container">
+    <h2 class="section-title">最新资源</h2>
+    <div class="resources-grid">
+{{RESOURCES_LOOP}}
+    </div>
+    <div class="more-link">
+      <a href="{% if site.github_pages_url %}{{ site.github_pages_url }}{% else %}{{ site.url }}{% endif %}/resources">查看全部资源索引 →</a>
+      <a href="{{SITE_URL}}/resources" class="btn-primary">访问主站获取完整功能 →</a>
+    </div>
+  </div>
+</div>
+
+<div class="main-site-cta">
+  <div class="container">
+    <h2>🎯 完整功能在主站</h2>
+    <p>GitHub 站点提供资源索引和导航，完整功能请访问主站：</p>
+    <ul>
+      <li>✅ 完整资源描述和预览</li>
+      <li>✅ 多网盘下载链接</li>
+      <li>✅ 用户评论和评分系统</li>
+      <li>✅ 高级搜索和筛选</li>
+      <li>✅ 用户系统和个性化推荐</li>
+    </ul>
+    <a href="{{SITE_URL}}" class="btn-primary-large">立即访问主站</a>
+  </div>
+</div>
+

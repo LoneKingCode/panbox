@@ -13,35 +13,43 @@ canonical: "https://panbox.cc/categories/software-mac"
 permalink: "/categories/software-mac/"
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<div class="main-content">
+
 # Mac软件
 
-精选Mac平台办公软件和生产力工具，提高工作效率的macOS应用程序下载
+<p>精选Mac平台办公软件和生产力工具，提高工作效率的macOS应用程序下载</p>
 
 ## 📦 资源列表（共 15 个）
 
-- [语雀文档工具](https://LoneKingCode.github.io/panbox/resources/software-mac/75/)
-- [Typora Markdown编辑器](https://LoneKingCode.github.io/panbox/resources/software-mac/74/)
-- [Obsidian 知识管理](https://LoneKingCode.github.io/panbox/resources/software-mac/73/)
-- [Notion AI 智能笔记](https://LoneKingCode.github.io/panbox/resources/software-mac/72/)
-- [Word 排版模板库](https://LoneKingCode.github.io/panbox/resources/software-mac/71/)
-- [PPT 模板精品合集](https://LoneKingCode.github.io/panbox/resources/software-mac/70/)
-- [Excel 高级函数大全](https://LoneKingCode.github.io/panbox/resources/software-mac/69/)
-- [Project 项目管理工具](https://LoneKingCode.github.io/panbox/resources/software-mac/68/)
-- [Visio 流程图制作](https://LoneKingCode.github.io/panbox/resources/software-mac/67/)
-- [XMind ZEN 专业版](https://LoneKingCode.github.io/panbox/resources/software-mac/66/)
-- [MindMaster 思维导图](https://LoneKingCode.github.io/panbox/resources/software-mac/65/)
-- [福昕PDF编辑器](https://LoneKingCode.github.io/panbox/resources/software-mac/64/)
-- [Adobe Acrobat DC](https://LoneKingCode.github.io/panbox/resources/software-mac/63/)
-- [WPS Office 会员版](https://LoneKingCode.github.io/panbox/resources/software-mac/62/)
-- [Office 2024 专业激活版](https://LoneKingCode.github.io/panbox/resources/software-mac/61/)
+<ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/75/">语雀文档工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/74/">Typora Markdown编辑器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/73/">Obsidian 知识管理</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/72/">Notion AI 智能笔记</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/71/">Word 排版模板库</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/70/">PPT 模板精品合集</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/69/">Excel 高级函数大全</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/68/">Project 项目管理工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/67/">Visio 流程图制作</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/66/">XMind ZEN 专业版</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/65/">MindMaster 思维导图</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/64/">福昕PDF编辑器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/63/">Adobe Acrobat DC</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/62/">WPS Office 会员版</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/61/">Office 2024 专业激活版</a></li>
+</ul>
 
----
-
+<div class="cta-section">
 ## 🌐 访问完整分类
 
-**📌 提示**: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。
+<p><strong>📌 提示</strong>: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。</p>
 
-👉 **[访问主站 https://panbox.cc 查看完整分类](https://panbox.cc/categories/software-mac)** 👈
+<a href="https://panbox.cc/categories/software-mac" class="btn-primary-large">👉 访问主站查看完整分类</a>
+</div>
+
+</div>
 
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json">

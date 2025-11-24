@@ -13,35 +13,43 @@ canonical: "https://panbox.cc/categories/software-apps"
 permalink: "/categories/software-apps/"
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<div class="main-content">
+
 # 手机APP
 
-收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏
+<p>收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏</p>
 
 ## 📦 资源列表（共 15 个）
 
-- [Logic Pro X 音乐制作](https://LoneKingCode.github.io/panbox/resources/software-apps/90/)
-- [Motion 动画制作](https://LoneKingCode.github.io/panbox/resources/software-apps/89/)
-- [HandBrake 视频压缩](https://LoneKingCode.github.io/panbox/resources/software-apps/88/)
-- [PotPlayer 高级播放器](https://LoneKingCode.github.io/panbox/resources/software-apps/87/)
-- [VLC 媒体播放器](https://LoneKingCode.github.io/panbox/resources/software-apps/86/)
-- [格式工厂万能转换器](https://LoneKingCode.github.io/panbox/resources/software-apps/85/)
-- [OBS Studio 直播推流](https://LoneKingCode.github.io/panbox/resources/software-apps/84/)
-- [剪映专业版桌面端](https://LoneKingCode.github.io/panbox/resources/software-apps/83/)
-- [Camtasia 录屏软件](https://LoneKingCode.github.io/panbox/resources/software-apps/82/)
-- [Audition 音频编辑](https://LoneKingCode.github.io/panbox/resources/software-apps/81/)
-- [After Effects 特效制作](https://LoneKingCode.github.io/panbox/resources/software-apps/80/)
-- [Photoshop 2024 激活版](https://LoneKingCode.github.io/panbox/resources/software-apps/79/)
-- [DaVinci Resolve 调色软件](https://LoneKingCode.github.io/panbox/resources/software-apps/78/)
-- [Final Cut Pro X](https://LoneKingCode.github.io/panbox/resources/software-apps/77/)
-- [Adobe Premiere Pro CC](https://LoneKingCode.github.io/panbox/resources/software-apps/76/)
+<ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/90/">Logic Pro X 音乐制作</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/89/">Motion 动画制作</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/88/">HandBrake 视频压缩</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/87/">PotPlayer 高级播放器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/86/">VLC 媒体播放器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/85/">格式工厂万能转换器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/84/">OBS Studio 直播推流</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/83/">剪映专业版桌面端</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/82/">Camtasia 录屏软件</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/81/">Audition 音频编辑</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/80/">After Effects 特效制作</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/79/">Photoshop 2024 激活版</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/78/">DaVinci Resolve 调色软件</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/77/">Final Cut Pro X</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/76/">Adobe Premiere Pro CC</a></li>
+</ul>
 
----
-
+<div class="cta-section">
 ## 🌐 访问完整分类
 
-**📌 提示**: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。
+<p><strong>📌 提示</strong>: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。</p>
 
-👉 **[访问主站 https://panbox.cc 查看完整分类](https://panbox.cc/categories/software-apps)** 👈
+<a href="https://panbox.cc/categories/software-apps" class="btn-primary-large">👉 访问主站查看完整分类</a>
+</div>
+
+</div>
 
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json">

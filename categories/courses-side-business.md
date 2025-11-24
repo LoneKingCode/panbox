@@ -13,37 +13,45 @@ canonical: "https://panbox.cc/categories/courses-side-business"
 permalink: "/categories/courses-side-business/"
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<div class="main-content">
+
 # 副业/创业
 
-提供副业项目和创业相关的学习资料、实战教程和成功案例，助力实现额外收入和创业梦想
+<p>提供副业项目和创业相关的学习资料、实战教程和成功案例，助力实现额外收入和创业梦想</p>
 
 ## 📦 资源列表（共 17 个）
 
-- [治愈系视频情感赛道项目 - 小白轻松上手 日入1000+](https://LoneKingCode.github.io/panbox/resources/courses-side-business/189/)
-- [mp42130期-【广告打金】蓝牙全自动新玩法，当天见结果，可矩阵单机30-50+](https://LoneKingCode.github.io/panbox/resources/courses-side-business/188/)
-- [嵌入式系统开发](https://LoneKingCode.github.io/panbox/resources/courses-side-business/165/)
-- [物联网IoT开发](https://LoneKingCode.github.io/panbox/resources/courses-side-business/164/)
-- [大数据处理技术](https://LoneKingCode.github.io/panbox/resources/courses-side-business/163/)
-- [区块链技术白皮书](https://LoneKingCode.github.io/panbox/resources/courses-side-business/162/)
-- [云计算技术文档](https://LoneKingCode.github.io/panbox/resources/courses-side-business/161/)
-- [微服务架构指南](https://LoneKingCode.github.io/panbox/resources/courses-side-business/160/)
-- [分布式系统设计](https://LoneKingCode.github.io/panbox/resources/courses-side-business/159/)
-- [计算机组成原理](https://LoneKingCode.github.io/panbox/resources/courses-side-business/158/)
-- [编译原理详解](https://LoneKingCode.github.io/panbox/resources/courses-side-business/157/)
-- [设计模式实战指南](https://LoneKingCode.github.io/panbox/resources/courses-side-business/156/)
-- [软件工程方法论](https://LoneKingCode.github.io/panbox/resources/courses-side-business/155/)
-- [数据库系统概论](https://LoneKingCode.github.io/panbox/resources/courses-side-business/154/)
-- [操作系统概念精讲](https://LoneKingCode.github.io/panbox/resources/courses-side-business/153/)
-- [计算机网络原理](https://LoneKingCode.github.io/panbox/resources/courses-side-business/152/)
-- [算法数据结构教程](https://LoneKingCode.github.io/panbox/resources/courses-side-business/151/)
+<ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/189/">治愈系视频情感赛道项目 - 小白轻松上手 日入1000+</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/188/">mp42130期-【广告打金】蓝牙全自动新玩法，当天见结果，可矩阵单机30-50+</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/165/">嵌入式系统开发</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/164/">物联网IoT开发</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/163/">大数据处理技术</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/162/">区块链技术白皮书</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/161/">云计算技术文档</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/160/">微服务架构指南</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/159/">分布式系统设计</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/158/">计算机组成原理</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/157/">编译原理详解</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/156/">设计模式实战指南</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/155/">软件工程方法论</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/154/">数据库系统概论</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/153/">操作系统概念精讲</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/152/">计算机网络原理</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/151/">算法数据结构教程</a></li>
+</ul>
 
----
-
+<div class="cta-section">
 ## 🌐 访问完整分类
 
-**📌 提示**: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。
+<p><strong>📌 提示</strong>: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。</p>
 
-👉 **[访问主站 https://panbox.cc 查看完整分类](https://panbox.cc/categories/courses-side-business)** 👈
+<a href="https://panbox.cc/categories/courses-side-business" class="btn-primary-large">👉 访问主站查看完整分类</a>
+</div>
+
+</div>
 
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json">

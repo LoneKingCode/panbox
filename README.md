@@ -5,13 +5,13 @@
 > 专业的网盘资源索引平台，提供海量免费AI资源、源码下载、软件工具、学习课程等优质内容的索引和导航
 
 ![资源总数](https://img.shields.io/badge/资源总数-170-blue)
-![分类数量](https://img.shields.io/badge/分类数量-16-green)
+![分类数量](https://img.shields.io/badge/分类数量-12-green)
 ![最后更新](https://img.shields.io/badge/最后更新-2025-11-24-orange)
 
 ## ✨ 特色功能
 
 - 🎯 **海量资源**: 超过 170 个免费资源
-- 📂 **分类清晰**: 16 个专业分类
+- 📂 **分类清晰**: 12 个专业分类
 - 🔍 **搜索便捷**: 支持全文搜索
 - 📱 **移动友好**: 完美适配移动端
 - 🚀 **每日更新**: 自动同步最新资源
@@ -39,14 +39,6 @@
 <td><a href="https://LoneKingCode.github.io/panbox/categories/source-code-mobile/">📁 移动/App源码</a></td>
 <td><a href="https://LoneKingCode.github.io/panbox/categories/software-portable/">📁 绿色软件</a></td>
 </tr>
-<tr>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/ai/">📁 AI资源</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/software/">📁 软件工具</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/source-code/">📁 源码下载</a></td>
-</tr>
-<tr>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/courses/">📁 学习课程</a></td>
-</tr>
 </table>
 
 ## 🔗 快速链接
@@ -59,8 +51,8 @@
 ## 📊 统计信息
 
 - **总资源数**: 170
-- **分类数量**: 16
-- **最后更新**: 2025-11-24 11:25:49
+- **分类数量**: 12
+- **最后更新**: 2025-11-24 11:50:19
 
 ## 📝 使用说明
 
@@ -82,5 +74,5 @@
 
 ---
 
-**最后更新**: 2025-11-24 11:25:49
+**最后更新**: 2025-11-24 11:50:19
 **主站点**: [https://panbox.cc](https://panbox.cc)

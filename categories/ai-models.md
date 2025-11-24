@@ -13,35 +13,43 @@ canonical: "https://panbox.cc/categories/ai-models"
 permalink: "/categories/ai-models/"
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+<div class="main-content">
+
 # AI模型
 
-免费下载各类AI模型，包括Stable Diffusion大模型、ChatGPT相关模型、AI绘画模型和语音模型等资源
+<p>免费下载各类AI模型，包括Stable Diffusion大模型、ChatGPT相关模型、AI绘画模型和语音模型等资源</p>
 
 ## 📦 资源列表（共 15 个）
 
-- [Fooocus 一键安装包](https://LoneKingCode.github.io/panbox/resources/ai-models/15/)
-- [ComfyUI 工作流模板](https://LoneKingCode.github.io/panbox/resources/ai-models/14/)
-- [LoRA 训练模型包](https://LoneKingCode.github.io/panbox/resources/ai-models/13/)
-- [ControlNet 控制模型](https://LoneKingCode.github.io/panbox/resources/ai-models/12/)
-- [SDXL 高清模型合集](https://LoneKingCode.github.io/panbox/resources/ai-models/11/)
-- [LLAMA 2 开源模型](https://LoneKingCode.github.io/panbox/resources/ai-models/10/)
-- [通义千问完整模型](https://LoneKingCode.github.io/panbox/resources/ai-models/9/)
-- [文心一言模型文件](https://LoneKingCode.github.io/panbox/resources/ai-models/8/)
-- [Claude AI 模型包](https://LoneKingCode.github.io/panbox/resources/ai-models/7/)
-- [GPT-3.5 Turbo 模型集合](https://LoneKingCode.github.io/panbox/resources/ai-models/6/)
-- [Runway Gen-2 视频生成模型](https://LoneKingCode.github.io/panbox/resources/ai-models/5/)
-- [DALL-E 3 模型文件](https://LoneKingCode.github.io/panbox/resources/ai-models/4/)
-- [Midjourney Prompt 合集](https://LoneKingCode.github.io/panbox/resources/ai-models/3/)
-- [ChatGPT-4 完整模型](https://LoneKingCode.github.io/panbox/resources/ai-models/2/)
-- [Stable Diffusion v1.5 模型包](https://LoneKingCode.github.io/panbox/resources/ai-models/1/)
+<ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/15/">Fooocus 一键安装包</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/14/">ComfyUI 工作流模板</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/13/">LoRA 训练模型包</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/12/">ControlNet 控制模型</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/11/">SDXL 高清模型合集</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/10/">LLAMA 2 开源模型</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/9/">通义千问完整模型</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/8/">文心一言模型文件</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/7/">Claude AI 模型包</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/6/">GPT-3.5 Turbo 模型集合</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/5/">Runway Gen-2 视频生成模型</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/4/">DALL-E 3 模型文件</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/3/">Midjourney Prompt 合集</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/2/">ChatGPT-4 完整模型</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/1/">Stable Diffusion v1.5 模型包</a></li>
+</ul>
 
----
-
+<div class="cta-section">
 ## 🌐 访问完整分类
 
-**📌 提示**: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。
+<p><strong>📌 提示</strong>: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。</p>
 
-👉 **[访问主站 https://panbox.cc 查看完整分类](https://panbox.cc/categories/ai-models)** 👈
+<a href="https://panbox.cc/categories/ai-models" class="btn-primary-large">👉 访问主站查看完整分类</a>
+</div>
+
+</div>
 
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json">
