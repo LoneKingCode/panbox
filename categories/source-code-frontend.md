@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/source-code-frontend"
 permalink: "/categories/source-code-frontend/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# 前端源码
+<h1>前端源码</h1>
 
 <p>精选Vue、React、Angular等前端框架项目源码，包含网页模板和前端组件资源</p>
 
-## 📦 资源列表（共 15 个）
+<h2>📦 资源列表（共 15 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/105/">微前端 qiankun 项目</a></li>

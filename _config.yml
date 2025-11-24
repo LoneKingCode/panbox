@@ -4,6 +4,13 @@ description: 专业的网盘资源盒子，提供海量免费AI资源、源码�
 url: https://LoneKingCode.github.io
 baseurl: /panbox
 
+# Markdown 渲染器
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
 # 插件
 plugins:
   - jekyll-sitemap

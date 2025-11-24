@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/ai-materials"
 permalink: "/categories/ai-materials/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# AI资料
+<h1>AI资料</h1>
 
 <p>汇集全面的AI学习资料、技术文档、研究论文和使用指南，助力人工智能技术学习和研究</p>
 
-## 📦 资源列表（共 15 个）
+<h2>📦 资源列表（共 15 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/ai-materials/30/">AI 技术文档合集</a></li>

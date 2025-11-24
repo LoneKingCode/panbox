@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/source-code-mobile"
 permalink: "/categories/source-code-mobile/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# 移动/App源码
+<h1>移动/App源码</h1>
 
 <p>汇集移动应用开发源码，包括微信小程序、支付宝小程序和跨平台App项目代码</p>
 
-## 📦 资源列表（共 15 个）
+<h2>📦 资源列表（共 15 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/135/">小程序直播带货</a></li>

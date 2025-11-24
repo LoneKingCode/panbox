@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/software-windows"
 permalink: "/categories/software-windows/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# Windows软件
+<h1>Windows软件</h1>
 
 <p>提供Windows平台必备软件下载，包括系统优化工具、维护软件和实用工具，提升电脑性能</p>
 
-## 📦 资源列表（共 16 个）
+<h2>📦 资源列表（共 16 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/185/">Supermium v138.0.7260.295 R6 - 让XP/7体验最新Chromium内核</a></li>

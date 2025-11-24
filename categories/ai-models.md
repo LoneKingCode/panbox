@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/ai-models"
 permalink: "/categories/ai-models/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# AI模型
+<h1>AI模型</h1>
 
 <p>免费下载各类AI模型，包括Stable Diffusion大模型、ChatGPT相关模型、AI绘画模型和语音模型等资源</p>
 
-## 📦 资源列表（共 15 个）
+<h2>📦 资源列表（共 15 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/ai-models/15/">Fooocus 一键安装包</a></li>

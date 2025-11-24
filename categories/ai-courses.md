@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/ai-courses"
 permalink: "/categories/ai-courses/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# AI课程
+<h1>AI课程</h1>
 
 <p>提供从入门到精通的AI课程，包括机器学习、深度学习、AI应用开发等方向的技术培训和实践教程</p>
 
-## 📦 资源列表（共 15 个）
+<h2>📦 资源列表（共 15 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/45/">AI 技术分享会全集</a></li>

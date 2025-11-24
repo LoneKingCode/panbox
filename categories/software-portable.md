@@ -13,11 +13,9 @@ canonical: "https://panbox.cc/categories/software-portable"
 permalink: "/categories/software-portable/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# 绿色软件
+<h1>绿色软件</h1>
 
 <p>提供海量绿色软件、便携版软件、单文件版及去广告版软件下载。涵盖Windows、Mac平台</p>
 

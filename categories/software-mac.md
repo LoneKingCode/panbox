@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/software-mac"
 permalink: "/categories/software-mac/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# Mac软件
+<h1>Mac软件</h1>
 
 <p>精选Mac平台办公软件和生产力工具，提高工作效率的macOS应用程序下载</p>
 
-## 📦 资源列表（共 15 个）
+<h2>📦 资源列表（共 15 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/75/">语雀文档工具</a></li>

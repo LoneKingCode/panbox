@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/software-apps"
 permalink: "/categories/software-apps/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# 手机APP
+<h1>手机APP</h1>
 
 <p>收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏</p>
 
-## 📦 资源列表（共 15 个）
+<h2>📦 资源列表（共 15 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/90/">Logic Pro X 音乐制作</a></li>

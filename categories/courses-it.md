@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/courses-it"
 permalink: "/categories/courses-it/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# IT/编程
+<h1>IT/编程</h1>
 
 <p>汇集IT编程相关在线视频课程，包括编程语言、开发框架和系统架构等专业技术教程</p>
 
-## 📦 资源列表（共 15 个）
+<h2>📦 资源列表（共 15 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/courses-it/150/">SEM 竞价推广实战</a></li>

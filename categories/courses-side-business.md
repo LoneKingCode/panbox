@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/courses-side-business"
 permalink: "/categories/courses-side-business/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# 副业/创业
+<h1>副业/创业</h1>
 
 <p>提供副业项目和创业相关的学习资料、实战教程和成功案例，助力实现额外收入和创业梦想</p>
 
-## 📦 资源列表（共 17 个）
+<h2>📦 资源列表（共 17 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/courses-side-business/189/">治愈系视频情感赛道项目 - 小白轻松上手 日入1000+</a></li>

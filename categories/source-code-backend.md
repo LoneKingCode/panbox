@@ -13,15 +13,13 @@ canonical: "https://panbox.cc/categories/source-code-backend"
 permalink: "/categories/source-code-backend/"
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <div class="main-content">
 
-# 后端/桌面源码
+<h1>后端/桌面源码</h1>
 
 <p>提供Node.js、Java、Python等后端开发项目和桌面应用程序源码，涵盖完整的技术栈</p>
 
-## 📦 资源列表（共 15 个）
+<h2>📦 资源列表（共 15 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/120/">Docker 容器化部署</a></li>
