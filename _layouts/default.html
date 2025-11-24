@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  
+  {% seo %}
+  
+  {% if page.canonical %}
+  <link rel="canonical" href="{{ page.canonical }}">
+  {% endif %}
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
+
