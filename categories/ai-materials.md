@@ -40,7 +40,7 @@ permalink: "/categories/ai-materials/"
 </ul>
 
 <div class="cta-section">
-## 🌐 访问完整分类
+🌐 访问完整分类
 
 <p><strong>📌 提示</strong>: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。</p>
 

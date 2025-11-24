@@ -20,7 +20,7 @@ permalink: "/categories/software-portable/"
 <p>提供海量绿色软件、便携版软件、单文件版及去广告版软件下载。涵盖Windows、Mac平台</p>
 
 <div class="cta-section">
-## 🌐 访问完整分类
+🌐 访问完整分类
 
 <p><strong>📌 提示</strong>: 这是分类索引页面，完整资源列表、筛选、搜索等功能请访问主站。</p>
 
