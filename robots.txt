@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /_data/
+Disallow: /_layouts/
+Disallow: /_includes/
+
+Sitemap: https://LoneKingCode.github.io/panbox/sitemap.xml

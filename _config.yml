@@ -1,0 +1,32 @@
+# Jekyll 配置文件
+title: 盘盒子 - 免费网盘资源盒子
+description: 专业的网盘资源盒子，提供海量免费AI资源、源码下载、软件工具、学习课程等优质内容
+url: https://LoneKingCode.github.io/panbox
+baseurl: LoneKingCode.github.io
+
+# 插件
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# SEO 配置
+seo:
+  title: 盘盒子
+  description: 免费网盘资源下载
+  image: /og-image.png
+  twitter:
+    card: summary_large_image
+
+# 分页
+paginate: 20
+paginate_path: "/page:num/"
+
+# 排除文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore

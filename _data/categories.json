@@ -1,0 +1,130 @@
+[
+  {
+    "id": "2",
+    "name": "AI模型",
+    "slug": "ai-models",
+    "description": "免费下载各类AI模型，包括Stable Diffusion大模型、ChatGPT相关模型、AI绘画模型和语音模型等资源",
+    "icon": "🎯",
+    "color": "purple"
+  },
+  {
+    "id": "4",
+    "name": "AI课程",
+    "slug": "ai-courses",
+    "description": "提供从入门到精通的AI课程，包括机器学习、深度学习、AI应用开发等方向的技术培训和实践教程",
+    "icon": "🎓",
+    "color": "purple"
+  },
+  {
+    "id": "3",
+    "name": "AI资料",
+    "slug": "ai-materials",
+    "description": "汇集全面的AI学习资料、技术文档、研究论文和使用指南，助力人工智能技术学习和研究",
+    "icon": "📚",
+    "color": "purple"
+  },
+  {
+    "id": "14",
+    "name": "IT/编程",
+    "slug": "courses-it",
+    "description": "汇集IT编程相关在线视频课程，包括编程语言、开发框架和系统架构等专业技术教程",
+    "icon": "🎥",
+    "color": "orange"
+  },
+  {
+    "id": "7",
+    "name": "Mac软件",
+    "slug": "software-mac",
+    "description": "精选Mac平台办公软件和生产力工具，提高工作效率的macOS应用程序下载",
+    "icon": "📊",
+    "color": "green"
+  },
+  {
+    "id": "6",
+    "name": "Windows软件",
+    "slug": "software-windows",
+    "description": "提供Windows平台必备软件下载，包括系统优化工具、维护软件和实用工具，提升电脑性能",
+    "icon": "🔧",
+    "color": "green"
+  },
+  {
+    "id": "10",
+    "name": "前端源码",
+    "slug": "source-code-frontend",
+    "description": "精选Vue、React、Angular等前端框架项目源码，包含网页模板和前端组件资源",
+    "icon": "🌐",
+    "color": "blue"
+  },
+  {
+    "id": "15",
+    "name": "副业/创业",
+    "slug": "courses-side-business",
+    "description": "提供副业项目和创业相关的学习资料、实战教程和成功案例，助力实现额外收入和创业梦想",
+    "icon": "📄",
+    "color": "orange"
+  },
+  {
+    "id": "11",
+    "name": "后端/桌面源码",
+    "slug": "source-code-backend",
+    "description": "提供Node.js、Java、Python等后端开发项目和桌面应用程序源码，涵盖完整的技术栈",
+    "icon": "⚙️",
+    "color": "blue"
+  },
+  {
+    "id": "8",
+    "name": "手机APP",
+    "slug": "software-apps",
+    "description": "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏",
+    "icon": "🎬",
+    "color": "green"
+  },
+  {
+    "id": "12",
+    "name": "移动/App源码",
+    "slug": "source-code-mobile",
+    "description": "汇集移动应用开发源码，包括微信小程序、支付宝小程序和跨平台App项目代码",
+    "icon": "📱",
+    "color": "blue"
+  },
+  {
+    "id": "17",
+    "name": "绿色软件",
+    "slug": "software-portable",
+    "description": "提供海量绿色软件、便携版软件、单文件版及去广告版软件下载。涵盖Windows、Mac平台",
+    "icon": "📊",
+    "color": "green"
+  },
+  {
+    "id": "1",
+    "name": "AI资源",
+    "slug": "ai",
+    "description": "提供最新AI工具下载、AI模型资源、人工智能学习资料和实战课程，涵盖Stable Diffusion、ChatGPT等热门AI技术",
+    "icon": "🤖",
+    "color": "purple"
+  },
+  {
+    "id": "5",
+    "name": "软件工具",
+    "slug": "software",
+    "description": "精选各类实用软件工具，提供便携版和绿色版下载，涵盖系统工具、办公软件和媒体处理工具",
+    "icon": "💾",
+    "color": "green"
+  },
+  {
+    "id": "9",
+    "name": "源码下载",
+    "slug": "source-code",
+    "description": "提供完整的源代码项目下载，包括网站源码、小程序源码和各类开发项目，适合学习和二次开发。",
+    "icon": "💻",
+    "color": "blue"
+  },
+  {
+    "id": "13",
+    "name": "学习课程",
+    "slug": "courses",
+    "description": "提供各类在线学习课程和培训资料下载，涵盖IT技术、设计创意和职场技能等多个领域",
+    "icon": "📖",
+    "color": "orange"
+  }
+]
