@@ -10,6 +10,7 @@ og_title: "AI课程 - 资源分类"
 og_description: "提供从入门到精通的AI课程，包括机器学习、深度学习、AI应用开发等方向的技术培训和实践教程"
 og_type: "website"
 canonical: "https://panbox.cc/categories/ai-courses"
+permalink: "/categories/ai-courses/"
 ---
 
 # AI课程
@@ -18,21 +19,21 @@ canonical: "https://panbox.cc/categories/ai-courses"
 
 ## 📦 资源列表（共 15 个）
 
-- [AI 技术分享会全集](https://LoneKingCode.github.io/panbox/resources/ai-courses/45.md)
-- [AI 创业加速器](https://LoneKingCode.github.io/panbox/resources/ai-courses/44.md)
-- [Prompt 设计大师班](https://LoneKingCode.github.io/panbox/resources/ai-courses/43.md)
-- [AI 艺术创作训练营](https://LoneKingCode.github.io/panbox/resources/ai-courses/42.md)
-- [AI 工程师进阶之路](https://LoneKingCode.github.io/panbox/resources/ai-courses/41.md)
-- [AI 产品经理课程](https://LoneKingCode.github.io/panbox/resources/ai-courses/40.md)
-- [深度学习框架实战](https://LoneKingCode.github.io/panbox/resources/ai-courses/39.md)
-- [机器学习入门到进阶](https://LoneKingCode.github.io/panbox/resources/ai-courses/38.md)
-- [AI 音乐生成技术](https://LoneKingCode.github.io/panbox/resources/ai-courses/37.md)
-- [Midjourney 商业应用](https://LoneKingCode.github.io/panbox/resources/ai-courses/36.md)
-- [AI 写作全教程](https://LoneKingCode.github.io/panbox/resources/ai-courses/35.md)
-- [AI 视频生成实战](https://LoneKingCode.github.io/panbox/resources/ai-courses/34.md)
-- [Stable Diffusion 精通课](https://LoneKingCode.github.io/panbox/resources/ai-courses/33.md)
-- [ChatGPT 高级应用课程](https://LoneKingCode.github.io/panbox/resources/ai-courses/32.md)
-- [从零开始学 AI 绘画](https://LoneKingCode.github.io/panbox/resources/ai-courses/31.md)
+- [AI 技术分享会全集](https://LoneKingCode.github.io/panbox/resources/ai-courses/45/)
+- [AI 创业加速器](https://LoneKingCode.github.io/panbox/resources/ai-courses/44/)
+- [Prompt 设计大师班](https://LoneKingCode.github.io/panbox/resources/ai-courses/43/)
+- [AI 艺术创作训练营](https://LoneKingCode.github.io/panbox/resources/ai-courses/42/)
+- [AI 工程师进阶之路](https://LoneKingCode.github.io/panbox/resources/ai-courses/41/)
+- [AI 产品经理课程](https://LoneKingCode.github.io/panbox/resources/ai-courses/40/)
+- [深度学习框架实战](https://LoneKingCode.github.io/panbox/resources/ai-courses/39/)
+- [机器学习入门到进阶](https://LoneKingCode.github.io/panbox/resources/ai-courses/38/)
+- [AI 音乐生成技术](https://LoneKingCode.github.io/panbox/resources/ai-courses/37/)
+- [Midjourney 商业应用](https://LoneKingCode.github.io/panbox/resources/ai-courses/36/)
+- [AI 写作全教程](https://LoneKingCode.github.io/panbox/resources/ai-courses/35/)
+- [AI 视频生成实战](https://LoneKingCode.github.io/panbox/resources/ai-courses/34/)
+- [Stable Diffusion 精通课](https://LoneKingCode.github.io/panbox/resources/ai-courses/33/)
+- [ChatGPT 高级应用课程](https://LoneKingCode.github.io/panbox/resources/ai-courses/32/)
+- [从零开始学 AI 绘画](https://LoneKingCode.github.io/panbox/resources/ai-courses/31/)
 
 ---
 

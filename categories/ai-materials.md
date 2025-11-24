@@ -10,6 +10,7 @@ og_title: "AI资料 - 资源分类"
 og_description: "汇集全面的AI学习资料、技术文档、研究论文和使用指南，助力人工智能技术学习和研究"
 og_type: "website"
 canonical: "https://panbox.cc/categories/ai-materials"
+permalink: "/categories/ai-materials/"
 ---
 
 # AI资料
@@ -18,21 +19,21 @@ canonical: "https://panbox.cc/categories/ai-materials"
 
 ## 📦 资源列表（共 15 个）
 
-- [AI 技术文档合集](https://LoneKingCode.github.io/panbox/resources/ai-materials/30.md)
-- [AI 创业指南](https://LoneKingCode.github.io/panbox/resources/ai-materials/29.md)
-- [AI 伦理与法律](https://LoneKingCode.github.io/panbox/resources/ai-materials/28.md)
-- [人工智能发展史](https://LoneKingCode.github.io/panbox/resources/ai-materials/27.md)
-- [AI 工具使用手册](https://LoneKingCode.github.io/panbox/resources/ai-materials/26.md)
-- [自然语言处理教程](https://LoneKingCode.github.io/panbox/resources/ai-materials/25.md)
-- [计算机视觉实战](https://LoneKingCode.github.io/panbox/resources/ai-materials/24.md)
-- [深度学习理论基础](https://LoneKingCode.github.io/panbox/resources/ai-materials/23.md)
-- [机器学习算法详解](https://LoneKingCode.github.io/panbox/resources/ai-materials/22.md)
-- [AI 实战案例精选](https://LoneKingCode.github.io/panbox/resources/ai-materials/21.md)
-- [AIGC 行业报告2024](https://LoneKingCode.github.io/panbox/resources/ai-materials/20.md)
-- [ChatGPT 使用全教程](https://LoneKingCode.github.io/panbox/resources/ai-materials/19.md)
-- [AI 绘画从入门到精通](https://LoneKingCode.github.io/panbox/resources/ai-materials/18.md)
-- [Prompt Engineering 完整指南](https://LoneKingCode.github.io/panbox/resources/ai-materials/17.md)
-- [AI 技术原理深度解析](https://LoneKingCode.github.io/panbox/resources/ai-materials/16.md)
+- [AI 技术文档合集](https://LoneKingCode.github.io/panbox/resources/ai-materials/30/)
+- [AI 创业指南](https://LoneKingCode.github.io/panbox/resources/ai-materials/29/)
+- [AI 伦理与法律](https://LoneKingCode.github.io/panbox/resources/ai-materials/28/)
+- [人工智能发展史](https://LoneKingCode.github.io/panbox/resources/ai-materials/27/)
+- [AI 工具使用手册](https://LoneKingCode.github.io/panbox/resources/ai-materials/26/)
+- [自然语言处理教程](https://LoneKingCode.github.io/panbox/resources/ai-materials/25/)
+- [计算机视觉实战](https://LoneKingCode.github.io/panbox/resources/ai-materials/24/)
+- [深度学习理论基础](https://LoneKingCode.github.io/panbox/resources/ai-materials/23/)
+- [机器学习算法详解](https://LoneKingCode.github.io/panbox/resources/ai-materials/22/)
+- [AI 实战案例精选](https://LoneKingCode.github.io/panbox/resources/ai-materials/21/)
+- [AIGC 行业报告2024](https://LoneKingCode.github.io/panbox/resources/ai-materials/20/)
+- [ChatGPT 使用全教程](https://LoneKingCode.github.io/panbox/resources/ai-materials/19/)
+- [AI 绘画从入门到精通](https://LoneKingCode.github.io/panbox/resources/ai-materials/18/)
+- [Prompt Engineering 完整指南](https://LoneKingCode.github.io/panbox/resources/ai-materials/17/)
+- [AI 技术原理深度解析](https://LoneKingCode.github.io/panbox/resources/ai-materials/16/)
 
 ---
 

@@ -10,6 +10,7 @@ og_title: "副业/创业 - 资源分类"
 og_description: "提供副业项目和创业相关的学习资料、实战教程和成功案例，助力实现额外收入和创业梦想"
 og_type: "website"
 canonical: "https://panbox.cc/categories/courses-side-business"
+permalink: "/categories/courses-side-business/"
 ---
 
 # 副业/创业
@@ -18,23 +19,23 @@ canonical: "https://panbox.cc/categories/courses-side-business"
 
 ## 📦 资源列表（共 17 个）
 
-- [治愈系视频情感赛道项目 - 小白轻松上手 日入1000+](https://LoneKingCode.github.io/panbox/resources/courses-side-business/189.md)
-- [mp42130期-【广告打金】蓝牙全自动新玩法，当天见结果，可矩阵单机30-50+](https://LoneKingCode.github.io/panbox/resources/courses-side-business/188.md)
-- [嵌入式系统开发](https://LoneKingCode.github.io/panbox/resources/courses-side-business/165.md)
-- [物联网IoT开发](https://LoneKingCode.github.io/panbox/resources/courses-side-business/164.md)
-- [大数据处理技术](https://LoneKingCode.github.io/panbox/resources/courses-side-business/163.md)
-- [区块链技术白皮书](https://LoneKingCode.github.io/panbox/resources/courses-side-business/162.md)
-- [云计算技术文档](https://LoneKingCode.github.io/panbox/resources/courses-side-business/161.md)
-- [微服务架构指南](https://LoneKingCode.github.io/panbox/resources/courses-side-business/160.md)
-- [分布式系统设计](https://LoneKingCode.github.io/panbox/resources/courses-side-business/159.md)
-- [计算机组成原理](https://LoneKingCode.github.io/panbox/resources/courses-side-business/158.md)
-- [编译原理详解](https://LoneKingCode.github.io/panbox/resources/courses-side-business/157.md)
-- [设计模式实战指南](https://LoneKingCode.github.io/panbox/resources/courses-side-business/156.md)
-- [软件工程方法论](https://LoneKingCode.github.io/panbox/resources/courses-side-business/155.md)
-- [数据库系统概论](https://LoneKingCode.github.io/panbox/resources/courses-side-business/154.md)
-- [操作系统概念精讲](https://LoneKingCode.github.io/panbox/resources/courses-side-business/153.md)
-- [计算机网络原理](https://LoneKingCode.github.io/panbox/resources/courses-side-business/152.md)
-- [算法数据结构教程](https://LoneKingCode.github.io/panbox/resources/courses-side-business/151.md)
+- [治愈系视频情感赛道项目 - 小白轻松上手 日入1000+](https://LoneKingCode.github.io/panbox/resources/courses-side-business/189/)
+- [mp42130期-【广告打金】蓝牙全自动新玩法，当天见结果，可矩阵单机30-50+](https://LoneKingCode.github.io/panbox/resources/courses-side-business/188/)
+- [嵌入式系统开发](https://LoneKingCode.github.io/panbox/resources/courses-side-business/165/)
+- [物联网IoT开发](https://LoneKingCode.github.io/panbox/resources/courses-side-business/164/)
+- [大数据处理技术](https://LoneKingCode.github.io/panbox/resources/courses-side-business/163/)
+- [区块链技术白皮书](https://LoneKingCode.github.io/panbox/resources/courses-side-business/162/)
+- [云计算技术文档](https://LoneKingCode.github.io/panbox/resources/courses-side-business/161/)
+- [微服务架构指南](https://LoneKingCode.github.io/panbox/resources/courses-side-business/160/)
+- [分布式系统设计](https://LoneKingCode.github.io/panbox/resources/courses-side-business/159/)
+- [计算机组成原理](https://LoneKingCode.github.io/panbox/resources/courses-side-business/158/)
+- [编译原理详解](https://LoneKingCode.github.io/panbox/resources/courses-side-business/157/)
+- [设计模式实战指南](https://LoneKingCode.github.io/panbox/resources/courses-side-business/156/)
+- [软件工程方法论](https://LoneKingCode.github.io/panbox/resources/courses-side-business/155/)
+- [数据库系统概论](https://LoneKingCode.github.io/panbox/resources/courses-side-business/154/)
+- [操作系统概念精讲](https://LoneKingCode.github.io/panbox/resources/courses-side-business/153/)
+- [计算机网络原理](https://LoneKingCode.github.io/panbox/resources/courses-side-business/152/)
+- [算法数据结构教程](https://LoneKingCode.github.io/panbox/resources/courses-side-business/151/)
 
 ---
 

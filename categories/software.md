@@ -10,6 +10,7 @@ og_title: "软件工具 - 资源分类"
 og_description: "精选各类实用软件工具，提供便携版和绿色版下载，涵盖系统工具、办公软件和媒体处理工具"
 og_type: "website"
 canonical: "https://panbox.cc/categories/software"
+permalink: "/categories/software/"
 ---
 
 # 软件工具

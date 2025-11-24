@@ -10,6 +10,7 @@ og_title: "IT/编程 - 资源分类"
 og_description: "汇集IT编程相关在线视频课程，包括编程语言、开发框架和系统架构等专业技术教程"
 og_type: "website"
 canonical: "https://panbox.cc/categories/courses-it"
+permalink: "/categories/courses-it/"
 ---
 
 # IT/编程
@@ -18,21 +19,21 @@ canonical: "https://panbox.cc/categories/courses-it"
 
 ## 📦 资源列表（共 15 个）
 
-- [SEM 竞价推广实战](https://LoneKingCode.github.io/panbox/resources/courses-it/150.md)
-- [SEO 搜索引擎优化](https://LoneKingCode.github.io/panbox/resources/courses-it/149.md)
-- [电商运营全攻略](https://LoneKingCode.github.io/panbox/resources/courses-it/148.md)
-- [品牌营销策略](https://LoneKingCode.github.io/panbox/resources/courses-it/147.md)
-- [直播带货实战攻略](https://LoneKingCode.github.io/panbox/resources/courses-it/146.md)
-- [短视频制作与运营](https://LoneKingCode.github.io/panbox/resources/courses-it/145.md)
-- [新媒体内容创作](https://LoneKingCode.github.io/panbox/resources/courses-it/144.md)
-- [运营增长黑客课程](https://LoneKingCode.github.io/panbox/resources/courses-it/143.md)
-- [产品经理实战训练营](https://LoneKingCode.github.io/panbox/resources/courses-it/142.md)
-- [人工智能机器学习](https://LoneKingCode.github.io/panbox/resources/courses-it/141.md)
-- [数据分析与可视化](https://LoneKingCode.github.io/panbox/resources/courses-it/140.md)
-- [UI/UX 设计系统化学习](https://LoneKingCode.github.io/panbox/resources/courses-it/139.md)
-- [Java 后端开发全栈课程](https://LoneKingCode.github.io/panbox/resources/courses-it/138.md)
-- [Vue 3 前端开发实战](https://LoneKingCode.github.io/panbox/resources/courses-it/137.md)
-- [Python 编程从入门到精通](https://LoneKingCode.github.io/panbox/resources/courses-it/136.md)
+- [SEM 竞价推广实战](https://LoneKingCode.github.io/panbox/resources/courses-it/150/)
+- [SEO 搜索引擎优化](https://LoneKingCode.github.io/panbox/resources/courses-it/149/)
+- [电商运营全攻略](https://LoneKingCode.github.io/panbox/resources/courses-it/148/)
+- [品牌营销策略](https://LoneKingCode.github.io/panbox/resources/courses-it/147/)
+- [直播带货实战攻略](https://LoneKingCode.github.io/panbox/resources/courses-it/146/)
+- [短视频制作与运营](https://LoneKingCode.github.io/panbox/resources/courses-it/145/)
+- [新媒体内容创作](https://LoneKingCode.github.io/panbox/resources/courses-it/144/)
+- [运营增长黑客课程](https://LoneKingCode.github.io/panbox/resources/courses-it/143/)
+- [产品经理实战训练营](https://LoneKingCode.github.io/panbox/resources/courses-it/142/)
+- [人工智能机器学习](https://LoneKingCode.github.io/panbox/resources/courses-it/141/)
+- [数据分析与可视化](https://LoneKingCode.github.io/panbox/resources/courses-it/140/)
+- [UI/UX 设计系统化学习](https://LoneKingCode.github.io/panbox/resources/courses-it/139/)
+- [Java 后端开发全栈课程](https://LoneKingCode.github.io/panbox/resources/courses-it/138/)
+- [Vue 3 前端开发实战](https://LoneKingCode.github.io/panbox/resources/courses-it/137/)
+- [Python 编程从入门到精通](https://LoneKingCode.github.io/panbox/resources/courses-it/136/)
 
 ---
 

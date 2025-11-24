@@ -10,6 +10,7 @@ og_title: "绿色软件 - 资源分类"
 og_description: "提供海量绿色软件、便携版软件、单文件版及去广告版软件下载。涵盖Windows、Mac平台"
 og_type: "website"
 canonical: "https://panbox.cc/categories/software-portable"
+permalink: "/categories/software-portable/"
 ---
 
 # 绿色软件

@@ -10,6 +10,7 @@ og_title: "前端源码 - 资源分类"
 og_description: "精选Vue、React、Angular等前端框架项目源码，包含网页模板和前端组件资源"
 og_type: "website"
 canonical: "https://panbox.cc/categories/source-code-frontend"
+permalink: "/categories/source-code-frontend/"
 ---
 
 # 前端源码
@@ -18,21 +19,21 @@ canonical: "https://panbox.cc/categories/source-code-frontend"
 
 ## 📦 资源列表（共 15 个）
 
-- [微前端 qiankun 项目](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/105.md)
-- [Webpack 5 配置模板](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/104.md)
-- [TypeScript 项目脚手架](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/103.md)
-- [Pinia 状态管理模板](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/102.md)
-- [Vue Router 路由配置](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/101.md)
-- [Axios 封装工具](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/100.md)
-- [ECharts 可视化大屏](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/99.md)
-- [Three.js 3D项目](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/98.md)
-- [Tailwind CSS 动画库](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/97.md)
-- [Element Plus 组件库](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/96.md)
-- [Ant Design Pro 完整版](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/95.md)
-- [Next.js 13 电商平台](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/94.md)
-- [Nuxt 3 博客系统](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/93.md)
-- [React 18 后台管理系统](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/92.md)
-- [Vue 3 + Vite 商城项目](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/91.md)
+- [微前端 qiankun 项目](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/105/)
+- [Webpack 5 配置模板](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/104/)
+- [TypeScript 项目脚手架](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/103/)
+- [Pinia 状态管理模板](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/102/)
+- [Vue Router 路由配置](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/101/)
+- [Axios 封装工具](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/100/)
+- [ECharts 可视化大屏](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/99/)
+- [Three.js 3D项目](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/98/)
+- [Tailwind CSS 动画库](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/97/)
+- [Element Plus 组件库](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/96/)
+- [Ant Design Pro 完整版](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/95/)
+- [Next.js 13 电商平台](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/94/)
+- [Nuxt 3 博客系统](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/93/)
+- [React 18 后台管理系统](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/92/)
+- [Vue 3 + Vite 商城项目](https://LoneKingCode.github.io/panbox/resources/source-code-frontend/91/)
 
 ---
 

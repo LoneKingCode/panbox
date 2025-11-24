@@ -10,6 +10,7 @@ og_title: "学习课程 - 资源分类"
 og_description: "提供各类在线学习课程和培训资料下载，涵盖IT技术、设计创意和职场技能等多个领域"
 og_type: "website"
 canonical: "https://panbox.cc/categories/courses"
+permalink: "/categories/courses/"
 ---
 
 # 学习课程

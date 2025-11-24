@@ -10,6 +10,7 @@ og_title: "源码下载 - 资源分类"
 og_description: "提供完整的源代码项目下载，包括网站源码、小程序源码和各类开发项目，适合学习和二次开发。"
 og_type: "website"
 canonical: "https://panbox.cc/categories/source-code"
+permalink: "/categories/source-code/"
 ---
 
 # 源码下载

@@ -10,6 +10,7 @@ og_title: "后端/桌面源码 - 资源分类"
 og_description: "提供Node.js、Java、Python等后端开发项目和桌面应用程序源码，涵盖完整的技术栈"
 og_type: "website"
 canonical: "https://panbox.cc/categories/source-code-backend"
+permalink: "/categories/source-code-backend/"
 ---
 
 # 后端/桌面源码
@@ -18,21 +19,21 @@ canonical: "https://panbox.cc/categories/source-code-backend"
 
 ## 📦 资源列表（共 15 个）
 
-- [Docker 容器化部署](https://LoneKingCode.github.io/panbox/resources/source-code-backend/120.md)
-- [分布式事务解决方案](https://LoneKingCode.github.io/panbox/resources/source-code-backend/119.md)
-- [OAuth 2.0 单点登录](https://LoneKingCode.github.io/panbox/resources/source-code-backend/118.md)
-- [JWT 认证系统](https://LoneKingCode.github.io/panbox/resources/source-code-backend/117.md)
-- [Redis 缓存方案](https://LoneKingCode.github.io/panbox/resources/source-code-backend/116.md)
-- [MongoDB 数据库设计](https://LoneKingCode.github.io/panbox/resources/source-code-backend/115.md)
-- [Koa2 中间件框架](https://LoneKingCode.github.io/panbox/resources/source-code-backend/114.md)
-- [Nest.js 企业级框架](https://LoneKingCode.github.io/panbox/resources/source-code-backend/113.md)
-- [FastAPI 高性能API](https://LoneKingCode.github.io/panbox/resources/source-code-backend/112.md)
-- [Go Gin 微服务框架](https://LoneKingCode.github.io/panbox/resources/source-code-backend/111.md)
-- [Flask REST API 框架](https://LoneKingCode.github.io/panbox/resources/source-code-backend/110.md)
-- [Laravel 电商平台](https://LoneKingCode.github.io/panbox/resources/source-code-backend/109.md)
-- [Django 博客系统](https://LoneKingCode.github.io/panbox/resources/source-code-backend/108.md)
-- [Spring Boot 企业级项目](https://LoneKingCode.github.io/panbox/resources/source-code-backend/107.md)
-- [Node.js + Express RESTful API](https://LoneKingCode.github.io/panbox/resources/source-code-backend/106.md)
+- [Docker 容器化部署](https://LoneKingCode.github.io/panbox/resources/source-code-backend/120/)
+- [分布式事务解决方案](https://LoneKingCode.github.io/panbox/resources/source-code-backend/119/)
+- [OAuth 2.0 单点登录](https://LoneKingCode.github.io/panbox/resources/source-code-backend/118/)
+- [JWT 认证系统](https://LoneKingCode.github.io/panbox/resources/source-code-backend/117/)
+- [Redis 缓存方案](https://LoneKingCode.github.io/panbox/resources/source-code-backend/116/)
+- [MongoDB 数据库设计](https://LoneKingCode.github.io/panbox/resources/source-code-backend/115/)
+- [Koa2 中间件框架](https://LoneKingCode.github.io/panbox/resources/source-code-backend/114/)
+- [Nest.js 企业级框架](https://LoneKingCode.github.io/panbox/resources/source-code-backend/113/)
+- [FastAPI 高性能API](https://LoneKingCode.github.io/panbox/resources/source-code-backend/112/)
+- [Go Gin 微服务框架](https://LoneKingCode.github.io/panbox/resources/source-code-backend/111/)
+- [Flask REST API 框架](https://LoneKingCode.github.io/panbox/resources/source-code-backend/110/)
+- [Laravel 电商平台](https://LoneKingCode.github.io/panbox/resources/source-code-backend/109/)
+- [Django 博客系统](https://LoneKingCode.github.io/panbox/resources/source-code-backend/108/)
+- [Spring Boot 企业级项目](https://LoneKingCode.github.io/panbox/resources/source-code-backend/107/)
+- [Node.js + Express RESTful API](https://LoneKingCode.github.io/panbox/resources/source-code-backend/106/)
 
 ---
 

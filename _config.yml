@@ -1,8 +1,8 @@
 # Jekyll 配置文件
 title: 盘盒子 - 免费网盘资源盒子
 description: 专业的网盘资源盒子，提供海量免费AI资源、源码下载、软件工具、学习课程等优质内容
-url: https://LoneKingCode.github.io/panbox
-baseurl: LoneKingCode.github.io
+url: https://LoneKingCode.github.io
+baseurl: /panbox
 
 # 插件
 plugins:

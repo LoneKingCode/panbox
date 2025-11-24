@@ -10,6 +10,7 @@ og_title: "AI资源 - 资源分类"
 og_description: "提供最新AI工具下载、AI模型资源、人工智能学习资料和实战课程，涵盖Stable Diffusion、ChatGPT等热门AI技术"
 og_type: "website"
 canonical: "https://panbox.cc/categories/ai"
+permalink: "/categories/ai/"
 ---
 
 # AI资源

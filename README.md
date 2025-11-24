@@ -20,32 +20,32 @@
 
 <table>
 <tr>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/ai-models.md">📁 AI模型</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/ai-courses.md">📁 AI课程</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/ai-materials.md">📁 AI资料</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/ai-models/">📁 AI模型</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/ai-courses/">📁 AI课程</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/ai-materials/">📁 AI资料</a></td>
 </tr>
 <tr>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/courses-it.md">📁 IT/编程</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/software-mac.md">📁 Mac软件</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/software-windows.md">📁 Windows软件</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/courses-it/">📁 IT/编程</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/software-mac/">📁 Mac软件</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/software-windows/">📁 Windows软件</a></td>
 </tr>
 <tr>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/source-code-frontend.md">📁 前端源码</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/courses-side-business.md">📁 副业/创业</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/source-code-backend.md">📁 后端/桌面源码</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/source-code-frontend/">📁 前端源码</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/courses-side-business/">📁 副业/创业</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/source-code-backend/">📁 后端/桌面源码</a></td>
 </tr>
 <tr>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/software-apps.md">📁 手机APP</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/source-code-mobile.md">📁 移动/App源码</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/software-portable.md">📁 绿色软件</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/software-apps/">📁 手机APP</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/source-code-mobile/">📁 移动/App源码</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/software-portable/">📁 绿色软件</a></td>
 </tr>
 <tr>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/ai.md">📁 AI资源</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/software.md">📁 软件工具</a></td>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/source-code.md">📁 源码下载</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/ai/">📁 AI资源</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/software/">📁 软件工具</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/source-code/">📁 源码下载</a></td>
 </tr>
 <tr>
-<td><a href="https://LoneKingCode.github.io/panbox/categories/courses.md">📁 学习课程</a></td>
+<td><a href="https://LoneKingCode.github.io/panbox/categories/courses/">📁 学习课程</a></td>
 </tr>
 </table>
 
@@ -60,7 +60,7 @@
 
 - **总资源数**: 170
 - **分类数量**: 16
-- **最后更新**: 2025-11-24 10:49:12
+- **最后更新**: 2025-11-24 10:56:59
 
 ## 📝 使用说明
 
@@ -82,5 +82,5 @@
 
 ---
 
-**最后更新**: 2025-11-24 10:49:12
+**最后更新**: 2025-11-24 10:56:59
 **主站点**: [https://panbox.cc](https://panbox.cc)

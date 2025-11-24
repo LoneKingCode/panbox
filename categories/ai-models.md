@@ -10,6 +10,7 @@ og_title: "AI模型 - 资源分类"
 og_description: "免费下载各类AI模型，包括Stable Diffusion大模型、ChatGPT相关模型、AI绘画模型和语音模型等资源"
 og_type: "website"
 canonical: "https://panbox.cc/categories/ai-models"
+permalink: "/categories/ai-models/"
 ---
 
 # AI模型
@@ -18,21 +19,21 @@ canonical: "https://panbox.cc/categories/ai-models"
 
 ## 📦 资源列表（共 15 个）
 
-- [Fooocus 一键安装包](https://LoneKingCode.github.io/panbox/resources/ai-models/15.md)
-- [ComfyUI 工作流模板](https://LoneKingCode.github.io/panbox/resources/ai-models/14.md)
-- [LoRA 训练模型包](https://LoneKingCode.github.io/panbox/resources/ai-models/13.md)
-- [ControlNet 控制模型](https://LoneKingCode.github.io/panbox/resources/ai-models/12.md)
-- [SDXL 高清模型合集](https://LoneKingCode.github.io/panbox/resources/ai-models/11.md)
-- [LLAMA 2 开源模型](https://LoneKingCode.github.io/panbox/resources/ai-models/10.md)
-- [通义千问完整模型](https://LoneKingCode.github.io/panbox/resources/ai-models/9.md)
-- [文心一言模型文件](https://LoneKingCode.github.io/panbox/resources/ai-models/8.md)
-- [Claude AI 模型包](https://LoneKingCode.github.io/panbox/resources/ai-models/7.md)
-- [GPT-3.5 Turbo 模型集合](https://LoneKingCode.github.io/panbox/resources/ai-models/6.md)
-- [Runway Gen-2 视频生成模型](https://LoneKingCode.github.io/panbox/resources/ai-models/5.md)
-- [DALL-E 3 模型文件](https://LoneKingCode.github.io/panbox/resources/ai-models/4.md)
-- [Midjourney Prompt 合集](https://LoneKingCode.github.io/panbox/resources/ai-models/3.md)
-- [ChatGPT-4 完整模型](https://LoneKingCode.github.io/panbox/resources/ai-models/2.md)
-- [Stable Diffusion v1.5 模型包](https://LoneKingCode.github.io/panbox/resources/ai-models/1.md)
+- [Fooocus 一键安装包](https://LoneKingCode.github.io/panbox/resources/ai-models/15/)
+- [ComfyUI 工作流模板](https://LoneKingCode.github.io/panbox/resources/ai-models/14/)
+- [LoRA 训练模型包](https://LoneKingCode.github.io/panbox/resources/ai-models/13/)
+- [ControlNet 控制模型](https://LoneKingCode.github.io/panbox/resources/ai-models/12/)
+- [SDXL 高清模型合集](https://LoneKingCode.github.io/panbox/resources/ai-models/11/)
+- [LLAMA 2 开源模型](https://LoneKingCode.github.io/panbox/resources/ai-models/10/)
+- [通义千问完整模型](https://LoneKingCode.github.io/panbox/resources/ai-models/9/)
+- [文心一言模型文件](https://LoneKingCode.github.io/panbox/resources/ai-models/8/)
+- [Claude AI 模型包](https://LoneKingCode.github.io/panbox/resources/ai-models/7/)
+- [GPT-3.5 Turbo 模型集合](https://LoneKingCode.github.io/panbox/resources/ai-models/6/)
+- [Runway Gen-2 视频生成模型](https://LoneKingCode.github.io/panbox/resources/ai-models/5/)
+- [DALL-E 3 模型文件](https://LoneKingCode.github.io/panbox/resources/ai-models/4/)
+- [Midjourney Prompt 合集](https://LoneKingCode.github.io/panbox/resources/ai-models/3/)
+- [ChatGPT-4 完整模型](https://LoneKingCode.github.io/panbox/resources/ai-models/2/)
+- [Stable Diffusion v1.5 模型包](https://LoneKingCode.github.io/panbox/resources/ai-models/1/)
 
 ---
 

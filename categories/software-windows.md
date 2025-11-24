@@ -10,6 +10,7 @@ og_title: "Windows软件 - 资源分类"
 og_description: "提供Windows平台必备软件下载，包括系统优化工具、维护软件和实用工具，提升电脑性能"
 og_type: "website"
 canonical: "https://panbox.cc/categories/software-windows"
+permalink: "/categories/software-windows/"
 ---
 
 # Windows软件
@@ -18,22 +19,22 @@ canonical: "https://panbox.cc/categories/software-windows"
 
 ## 📦 资源列表（共 16 个）
 
-- [Supermium v138.0.7260.295 R6 - 让XP/7体验最新Chromium内核](https://LoneKingCode.github.io/panbox/resources/software-windows/185.md)
-- [O&O ShutUp10 隐私优化](https://LoneKingCode.github.io/panbox/resources/software-windows/60.md)
-- [Process Lasso 进程优化](https://LoneKingCode.github.io/panbox/resources/software-windows/59.md)
-- [Dism++ 系统优化](https://LoneKingCode.github.io/panbox/resources/software-windows/58.md)
-- [360安全卫士](https://LoneKingCode.github.io/panbox/resources/software-windows/57.md)
-- [腾讯电脑管家](https://LoneKingCode.github.io/panbox/resources/software-windows/56.md)
-- [驱动精灵完整版](https://LoneKingCode.github.io/panbox/resources/software-windows/55.md)
-- [鲁大师性能测试](https://LoneKingCode.github.io/panbox/resources/software-windows/54.md)
-- [Windows优化大师](https://LoneKingCode.github.io/panbox/resources/software-windows/53.md)
-- [WinRAR 专业激活版](https://LoneKingCode.github.io/panbox/resources/software-windows/52.md)
-- [DiskGenius 磁盘管理](https://LoneKingCode.github.io/panbox/resources/software-windows/51.md)
-- [7-Zip 压缩工具](https://LoneKingCode.github.io/panbox/resources/software-windows/50.md)
-- [Everything 文件搜索神器](https://LoneKingCode.github.io/panbox/resources/software-windows/49.md)
-- [IObit Uninstaller 强力卸载](https://LoneKingCode.github.io/panbox/resources/software-windows/48.md)
-- [火绒安全卫士 企业版](https://LoneKingCode.github.io/panbox/resources/software-windows/47.md)
-- [CCleaner 专业版 最新版](https://LoneKingCode.github.io/panbox/resources/software-windows/46.md)
+- [Supermium v138.0.7260.295 R6 - 让XP/7体验最新Chromium内核](https://LoneKingCode.github.io/panbox/resources/software-windows/185/)
+- [O&O ShutUp10 隐私优化](https://LoneKingCode.github.io/panbox/resources/software-windows/60/)
+- [Process Lasso 进程优化](https://LoneKingCode.github.io/panbox/resources/software-windows/59/)
+- [Dism++ 系统优化](https://LoneKingCode.github.io/panbox/resources/software-windows/58/)
+- [360安全卫士](https://LoneKingCode.github.io/panbox/resources/software-windows/57/)
+- [腾讯电脑管家](https://LoneKingCode.github.io/panbox/resources/software-windows/56/)
+- [驱动精灵完整版](https://LoneKingCode.github.io/panbox/resources/software-windows/55/)
+- [鲁大师性能测试](https://LoneKingCode.github.io/panbox/resources/software-windows/54/)
+- [Windows优化大师](https://LoneKingCode.github.io/panbox/resources/software-windows/53/)
+- [WinRAR 专业激活版](https://LoneKingCode.github.io/panbox/resources/software-windows/52/)
+- [DiskGenius 磁盘管理](https://LoneKingCode.github.io/panbox/resources/software-windows/51/)
+- [7-Zip 压缩工具](https://LoneKingCode.github.io/panbox/resources/software-windows/50/)
+- [Everything 文件搜索神器](https://LoneKingCode.github.io/panbox/resources/software-windows/49/)
+- [IObit Uninstaller 强力卸载](https://LoneKingCode.github.io/panbox/resources/software-windows/48/)
+- [火绒安全卫士 企业版](https://LoneKingCode.github.io/panbox/resources/software-windows/47/)
+- [CCleaner 专业版 最新版](https://LoneKingCode.github.io/panbox/resources/software-windows/46/)
 
 ---
 
