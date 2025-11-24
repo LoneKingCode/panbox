@@ -1,26 +1,10 @@
 [
   {
-    "id": "2",
-    "name": "AI模型",
-    "slug": "ai-models",
-    "description": "免费下载各类AI模型，包括Stable Diffusion大模型、ChatGPT相关模型、AI绘画模型和语音模型等资源",
-    "icon": "🎯",
-    "color": "purple"
-  },
-  {
     "id": "4",
     "name": "AI课程",
     "slug": "ai-courses",
     "description": "提供从入门到精通的AI课程，包括机器学习、深度学习、AI应用开发等方向的技术培训和实践教程",
     "icon": "🎓",
-    "color": "purple"
-  },
-  {
-    "id": "3",
-    "name": "AI资料",
-    "slug": "ai-materials",
-    "description": "汇集全面的AI学习资料、技术文档、研究论文和使用指南，助力人工智能技术学习和研究",
-    "icon": "📚",
     "color": "purple"
   },
   {

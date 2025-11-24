@@ -5,7 +5,7 @@ description: "提供从入门到精通的AI课程，包括机器学习、深度�
 keywords: ["AI课程", "免费下载", "网盘资源"]
 category: "AI课程"
 category_slug: "ai-courses"
-resource_count: 15
+resource_count: 7
 og_title: "AI课程 - 资源分类"
 og_description: "提供从入门到精通的AI课程，包括机器学习、深度学习、AI应用开发等方向的技术培训和实践教程"
 og_type: "website"
@@ -19,24 +19,16 @@ permalink: "/categories/ai-courses/"
 
 <p>提供从入门到精通的AI课程，包括机器学习、深度学习、AI应用开发等方向的技术培训和实践教程</p>
 
-<h2>📦 资源列表（共 15 个）</h2>
+<h2>📦 资源列表（共 7 个）</h2>
 
 <ul class="resource-list">
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/45/">AI 技术分享会全集</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/44/">AI 创业加速器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/43/">Prompt 设计大师班</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/42/">AI 艺术创作训练营</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/41/">AI 工程师进阶之路</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/40/">AI 产品经理课程</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/39/">深度学习框架实战</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/38/">机器学习入门到进阶</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/37/">AI 音乐生成技术</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/36/">Midjourney 商业应用</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/35/">AI 写作全教程</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/34/">AI 视频生成实战</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/33/">Stable Diffusion 精通课</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/32/">ChatGPT 高级应用课程</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/31/">从零开始学 AI 绘画</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/345/">AI音乐创作实战技能 - 掌握AI+音乐起号核心技能 月入轻松破万</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/344/">职场AI效率提升课 - 全面提升工作效率与竞争力</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/340/">最新电商AI实操课 - 快速上手电商AI工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/339/">3D动漫视频制作教程 - 新手快速上手 + MJ垫图 + 参考提示词</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/336/">小妙招图片+动态视频起号玩法教学 - AI涨粉秘籍</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/334/">Coze扣子工作流一键生成人物前半生独白短视频 - 保姆级搭建教程</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/331/">AI写作论文课 - 让论文写作更轻松高效</a></li>
 </ul>
 
 <div class="cta-section">
@@ -56,18 +48,18 @@ permalink: "/categories/ai-courses/"
   "@type": "CollectionPage",
   "name": "AI课程 - 资源分类",
   "description": "提供从入门到精通的AI课程，包括机器学习、深度学习、AI应用开发等方向的技术培训和实践教程",
-  "numberOfItems": 15,
+  "numberOfItems": 7,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 15,
+    "numberOfItems": 7,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "AI 技术分享会全集",
-          "url": "https://panbox.cc/resources/45"
+          "name": "AI音乐创作实战技能 - 掌握AI+音乐起号核心技能 月入轻松破万",
+          "url": "https://panbox.cc/resources/345"
         }
       },
       {
@@ -75,8 +67,8 @@ permalink: "/categories/ai-courses/"
         "position": 2,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "AI 创业加速器",
-          "url": "https://panbox.cc/resources/44"
+          "name": "职场AI效率提升课 - 全面提升工作效率与竞争力",
+          "url": "https://panbox.cc/resources/344"
         }
       },
       {
@@ -84,8 +76,8 @@ permalink: "/categories/ai-courses/"
         "position": 3,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Prompt 设计大师班",
-          "url": "https://panbox.cc/resources/43"
+          "name": "最新电商AI实操课 - 快速上手电商AI工具",
+          "url": "https://panbox.cc/resources/340"
         }
       },
       {
@@ -93,8 +85,8 @@ permalink: "/categories/ai-courses/"
         "position": 4,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "AI 艺术创作训练营",
-          "url": "https://panbox.cc/resources/42"
+          "name": "3D动漫视频制作教程 - 新手快速上手 + MJ垫图 + 参考提示词",
+          "url": "https://panbox.cc/resources/339"
         }
       },
       {
@@ -102,8 +94,8 @@ permalink: "/categories/ai-courses/"
         "position": 5,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "AI 工程师进阶之路",
-          "url": "https://panbox.cc/resources/41"
+          "name": "小妙招图片+动态视频起号玩法教学 - AI涨粉秘籍",
+          "url": "https://panbox.cc/resources/336"
         }
       },
       {
@@ -111,8 +103,8 @@ permalink: "/categories/ai-courses/"
         "position": 6,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "AI 产品经理课程",
-          "url": "https://panbox.cc/resources/40"
+          "name": "Coze扣子工作流一键生成人物前半生独白短视频 - 保姆级搭建教程",
+          "url": "https://panbox.cc/resources/334"
         }
       },
       {
@@ -120,35 +112,8 @@ permalink: "/categories/ai-courses/"
         "position": 7,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "深度学习框架实战",
-          "url": "https://panbox.cc/resources/39"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "机器学习入门到进阶",
-          "url": "https://panbox.cc/resources/38"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 9,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "AI 音乐生成技术",
-          "url": "https://panbox.cc/resources/37"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 10,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Midjourney 商业应用",
-          "url": "https://panbox.cc/resources/36"
+          "name": "AI写作论文课 - 让论文写作更轻松高效",
+          "url": "https://panbox.cc/resources/331"
         }
       }
     ]

@@ -5,7 +5,7 @@ description: "精选Mac平台办公软件和生产力工具，提高工作效率
 keywords: ["Mac软件", "免费下载", "网盘资源"]
 category: "Mac软件"
 category_slug: "software-mac"
-resource_count: 15
+resource_count: 0
 og_title: "Mac软件 - 资源分类"
 og_description: "精选Mac平台办公软件和生产力工具，提高工作效率的macOS应用程序下载"
 og_type: "website"
@@ -18,26 +18,6 @@ permalink: "/categories/software-mac/"
 <h1>Mac软件</h1>
 
 <p>精选Mac平台办公软件和生产力工具，提高工作效率的macOS应用程序下载</p>
-
-<h2>📦 资源列表（共 15 个）</h2>
-
-<ul class="resource-list">
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/75/">语雀文档工具</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/74/">Typora Markdown编辑器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/73/">Obsidian 知识管理</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/72/">Notion AI 智能笔记</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/71/">Word 排版模板库</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/70/">PPT 模板精品合集</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/69/">Excel 高级函数大全</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/68/">Project 项目管理工具</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/67/">Visio 流程图制作</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/66/">XMind ZEN 专业版</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/65/">MindMaster 思维导图</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/64/">福昕PDF编辑器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/63/">Adobe Acrobat DC</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/62/">WPS Office 会员版</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-mac/61/">Office 2024 专业激活版</a></li>
-</ul>
 
 <div class="cta-section">
 🌐 访问完整分类
@@ -56,102 +36,11 @@ permalink: "/categories/software-mac/"
   "@type": "CollectionPage",
   "name": "Mac软件 - 资源分类",
   "description": "精选Mac平台办公软件和生产力工具，提高工作效率的macOS应用程序下载",
-  "numberOfItems": 15,
+  "numberOfItems": 0,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 15,
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "语雀文档工具",
-          "url": "https://panbox.cc/resources/75"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Typora Markdown编辑器",
-          "url": "https://panbox.cc/resources/74"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Obsidian 知识管理",
-          "url": "https://panbox.cc/resources/73"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Notion AI 智能笔记",
-          "url": "https://panbox.cc/resources/72"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Word 排版模板库",
-          "url": "https://panbox.cc/resources/71"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "PPT 模板精品合集",
-          "url": "https://panbox.cc/resources/70"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Excel 高级函数大全",
-          "url": "https://panbox.cc/resources/69"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Project 项目管理工具",
-          "url": "https://panbox.cc/resources/68"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 9,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Visio 流程图制作",
-          "url": "https://panbox.cc/resources/67"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 10,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "XMind ZEN 专业版",
-          "url": "https://panbox.cc/resources/66"
-        }
-      }
-    ]
+    "numberOfItems": 0,
+    "itemListElement": []
   }
 }
 </script>

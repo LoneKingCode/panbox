@@ -5,7 +5,7 @@ description: "提供Node.js、Java、Python等后端开发项目和桌面应用�
 keywords: ["后端/桌面源码", "免费下载", "网盘资源"]
 category: "后端/桌面源码"
 category_slug: "source-code-backend"
-resource_count: 15
+resource_count: 21
 og_title: "后端/桌面源码 - 资源分类"
 og_description: "提供Node.js、Java、Python等后端开发项目和桌面应用程序源码，涵盖完整的技术栈"
 og_type: "website"
@@ -19,24 +19,30 @@ permalink: "/categories/source-code-backend/"
 
 <p>提供Node.js、Java、Python等后端开发项目和桌面应用程序源码，涵盖完整的技术栈</p>
 
-<h2>📦 资源列表（共 15 个）</h2>
+<h2>📦 资源列表（共 21 个）</h2>
 
 <ul class="resource-list">
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/120/">Docker 容器化部署</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/119/">分布式事务解决方案</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/118/">OAuth 2.0 单点登录</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/117/">JWT 认证系统</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/116/">Redis 缓存方案</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/115/">MongoDB 数据库设计</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/114/">Koa2 中间件框架</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/113/">Nest.js 企业级框架</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/112/">FastAPI 高性能API</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/111/">Go Gin 微服务框架</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/110/">Flask REST API 框架</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/109/">Laravel 电商平台</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/108/">Django 博客系统</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/107/">Spring Boot 企业级项目</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/106/">Node.js + Express RESTful API</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/371/">最新11月社区论坛整站源码 - 高度集成多功能社区平台</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/328/">最新彩虹云商城系统源码 V7.2 自助下单系统全解版 - 后端/桌面源码</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/327/">运营级在线客服系统源码 智能客服平台 - 多坐席客服附教程</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/226/">幸运九宫格抽奖系统带后台PHP源码 - 自定义抽奖奖品设置</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/224/">旧物旧品回收系统源码 GO语言版 - 高稳定低维护</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/221/">PHP朋友圈系统 v最新版 百度网盘下载 - 后端源码</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/215/">WordPress REST API 自动获取最新课程网站源码 - 无需手动维护</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/211/">网钛CMS我爱网QQ娱乐技术网源码 V7.36 PHP修复版 - 免费下载</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/208/">物联网管理系统 轻量级物联网综合业务支撑平台 - SpringBoot Vue Mybatis</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/206/">JKBX海外音乐抢单系统源码 - ThinkPHP框架附教程</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/205/">防红活码导航短链 智能网址管理系统源码 - 域名管理</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/204/">PHP双轨直销企业管理系统源码 - 多级分销商城系统 开源可二次开发</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/203/">最新UI赞赏打赏系统源码 v1.3.0 - 后端桌面源码</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/201/">新版2025易支付系统源码epay运营版 - 支付接口聚合</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/200/">派小星DNS二级域名分发系统V2.0源码 - 全平台DNS集成</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/198/">PHP证书查询系统源码 - 职业资格证书在线查询系统</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/197/">小学语文作业出题网站源码 支持随机生成和打印功能</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/195/">最新学生成绩管理系统源码 - ThinkPHP6框架教育机构专用</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/193/">虚拟发卡平台源码 - 开源支持二次开发 - 后台管理系统</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/192/">微信朋友圈访客记录系统源码 PHP修复版 - VIP会员付费发布</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-backend/191/">阿宅QR轻量二维码生成系统源码 - PHP项目</a></li>
 </ul>
 
 <div class="cta-section">
@@ -56,18 +62,18 @@ permalink: "/categories/source-code-backend/"
   "@type": "CollectionPage",
   "name": "后端/桌面源码 - 资源分类",
   "description": "提供Node.js、Java、Python等后端开发项目和桌面应用程序源码，涵盖完整的技术栈",
-  "numberOfItems": 15,
+  "numberOfItems": 21,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 15,
+    "numberOfItems": 21,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Docker 容器化部署",
-          "url": "https://panbox.cc/resources/120"
+          "name": "最新11月社区论坛整站源码 - 高度集成多功能社区平台",
+          "url": "https://panbox.cc/resources/371"
         }
       },
       {
@@ -75,8 +81,8 @@ permalink: "/categories/source-code-backend/"
         "position": 2,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "分布式事务解决方案",
-          "url": "https://panbox.cc/resources/119"
+          "name": "最新彩虹云商城系统源码 V7.2 自助下单系统全解版 - 后端/桌面源码",
+          "url": "https://panbox.cc/resources/328"
         }
       },
       {
@@ -84,8 +90,8 @@ permalink: "/categories/source-code-backend/"
         "position": 3,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "OAuth 2.0 单点登录",
-          "url": "https://panbox.cc/resources/118"
+          "name": "运营级在线客服系统源码 智能客服平台 - 多坐席客服附教程",
+          "url": "https://panbox.cc/resources/327"
         }
       },
       {
@@ -93,8 +99,8 @@ permalink: "/categories/source-code-backend/"
         "position": 4,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "JWT 认证系统",
-          "url": "https://panbox.cc/resources/117"
+          "name": "幸运九宫格抽奖系统带后台PHP源码 - 自定义抽奖奖品设置",
+          "url": "https://panbox.cc/resources/226"
         }
       },
       {
@@ -102,8 +108,8 @@ permalink: "/categories/source-code-backend/"
         "position": 5,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Redis 缓存方案",
-          "url": "https://panbox.cc/resources/116"
+          "name": "旧物旧品回收系统源码 GO语言版 - 高稳定低维护",
+          "url": "https://panbox.cc/resources/224"
         }
       },
       {
@@ -111,8 +117,8 @@ permalink: "/categories/source-code-backend/"
         "position": 6,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "MongoDB 数据库设计",
-          "url": "https://panbox.cc/resources/115"
+          "name": "PHP朋友圈系统 v最新版 百度网盘下载 - 后端源码",
+          "url": "https://panbox.cc/resources/221"
         }
       },
       {
@@ -120,8 +126,8 @@ permalink: "/categories/source-code-backend/"
         "position": 7,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Koa2 中间件框架",
-          "url": "https://panbox.cc/resources/114"
+          "name": "WordPress REST API 自动获取最新课程网站源码 - 无需手动维护",
+          "url": "https://panbox.cc/resources/215"
         }
       },
       {
@@ -129,8 +135,8 @@ permalink: "/categories/source-code-backend/"
         "position": 8,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Nest.js 企业级框架",
-          "url": "https://panbox.cc/resources/113"
+          "name": "网钛CMS我爱网QQ娱乐技术网源码 V7.36 PHP修复版 - 免费下载",
+          "url": "https://panbox.cc/resources/211"
         }
       },
       {
@@ -138,8 +144,8 @@ permalink: "/categories/source-code-backend/"
         "position": 9,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "FastAPI 高性能API",
-          "url": "https://panbox.cc/resources/112"
+          "name": "物联网管理系统 轻量级物联网综合业务支撑平台 - SpringBoot Vue Mybatis",
+          "url": "https://panbox.cc/resources/208"
         }
       },
       {
@@ -147,8 +153,8 @@ permalink: "/categories/source-code-backend/"
         "position": 10,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Go Gin 微服务框架",
-          "url": "https://panbox.cc/resources/111"
+          "name": "JKBX海外音乐抢单系统源码 - ThinkPHP框架附教程",
+          "url": "https://panbox.cc/resources/206"
         }
       }
     ]

@@ -5,7 +5,7 @@ description: "汇集移动应用开发源码，包括微信小程序、支付宝
 keywords: ["移动/App源码", "免费下载", "网盘资源"]
 category: "移动/App源码"
 category_slug: "source-code-mobile"
-resource_count: 15
+resource_count: 10
 og_title: "移动/App源码 - 资源分类"
 og_description: "汇集移动应用开发源码，包括微信小程序、支付宝小程序和跨平台App项目代码"
 og_type: "website"
@@ -19,24 +19,19 @@ permalink: "/categories/source-code-mobile/"
 
 <p>汇集移动应用开发源码，包括微信小程序、支付宝小程序和跨平台App项目代码</p>
 
-<h2>📦 资源列表（共 15 个）</h2>
+<h2>📦 资源列表（共 10 个）</h2>
 
 <ul class="resource-list">
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/135/">小程序直播带货</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/134/">小程序客服聊天</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/133/">小程序预约系统</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/132/">小程序投票系统</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/131/">小程序抽奖活动</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/130/">小程序打卡签到</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/129/">小程序记账本</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/128/">小程序聊天室</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/127/">小程序图片编辑器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/126/">小程序音乐播放器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/125/">小程序天气预报</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/124/">美团小程序点餐系统</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/123/">Taro 京东小程序</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/122/">uni-app 跨平台商城</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/121/">微信小程序商城</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/220/">分发系统源码 - 支持安卓苹果EXE多平台分发</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/219/">智慧预约小程序源码 - 适用于百余种预约场景</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/218/">SiYU同城小程序系统源码 全开源 Vue+uniapp FastAdmin</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/216/">快递寄件小程序源码 - 微信小程序电商功能</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/214/">最新抖猫高清去水印微信小程序源码 - 包含流量主</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/213/">最新三端影视系统源码 - 苹果CMS附教程 </a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/212/">最新成人情趣商城系统源码 - 多端商城平台 开源代码</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/202/">基于ThinkPHP+UniApp开发的租赁商城小程序 - 直接部署运营版本</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/199/">二手摩托车展示小程序源码 - FastAdmin框架 二手物品交易系统</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-mobile/196/">美团代付五合一代付系统源码 - 美团/京东/拼多多/携程/滴滴多模版</a></li>
 </ul>
 
 <div class="cta-section">
@@ -56,18 +51,18 @@ permalink: "/categories/source-code-mobile/"
   "@type": "CollectionPage",
   "name": "移动/App源码 - 资源分类",
   "description": "汇集移动应用开发源码，包括微信小程序、支付宝小程序和跨平台App项目代码",
-  "numberOfItems": 15,
+  "numberOfItems": 10,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 15,
+    "numberOfItems": 10,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "小程序直播带货",
-          "url": "https://panbox.cc/resources/135"
+          "name": "分发系统源码 - 支持安卓苹果EXE多平台分发",
+          "url": "https://panbox.cc/resources/220"
         }
       },
       {
@@ -75,8 +70,8 @@ permalink: "/categories/source-code-mobile/"
         "position": 2,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "小程序客服聊天",
-          "url": "https://panbox.cc/resources/134"
+          "name": "智慧预约小程序源码 - 适用于百余种预约场景",
+          "url": "https://panbox.cc/resources/219"
         }
       },
       {
@@ -84,8 +79,8 @@ permalink: "/categories/source-code-mobile/"
         "position": 3,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "小程序预约系统",
-          "url": "https://panbox.cc/resources/133"
+          "name": "SiYU同城小程序系统源码 全开源 Vue+uniapp FastAdmin",
+          "url": "https://panbox.cc/resources/218"
         }
       },
       {
@@ -93,8 +88,8 @@ permalink: "/categories/source-code-mobile/"
         "position": 4,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "小程序投票系统",
-          "url": "https://panbox.cc/resources/132"
+          "name": "快递寄件小程序源码 - 微信小程序电商功能",
+          "url": "https://panbox.cc/resources/216"
         }
       },
       {
@@ -102,8 +97,8 @@ permalink: "/categories/source-code-mobile/"
         "position": 5,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "小程序抽奖活动",
-          "url": "https://panbox.cc/resources/131"
+          "name": "最新抖猫高清去水印微信小程序源码 - 包含流量主",
+          "url": "https://panbox.cc/resources/214"
         }
       },
       {
@@ -111,8 +106,8 @@ permalink: "/categories/source-code-mobile/"
         "position": 6,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "小程序打卡签到",
-          "url": "https://panbox.cc/resources/130"
+          "name": "最新三端影视系统源码 - 苹果CMS附教程 ",
+          "url": "https://panbox.cc/resources/213"
         }
       },
       {
@@ -120,8 +115,8 @@ permalink: "/categories/source-code-mobile/"
         "position": 7,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "小程序记账本",
-          "url": "https://panbox.cc/resources/129"
+          "name": "最新成人情趣商城系统源码 - 多端商城平台 开源代码",
+          "url": "https://panbox.cc/resources/212"
         }
       },
       {
@@ -129,8 +124,8 @@ permalink: "/categories/source-code-mobile/"
         "position": 8,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "小程序聊天室",
-          "url": "https://panbox.cc/resources/128"
+          "name": "基于ThinkPHP+UniApp开发的租赁商城小程序 - 直接部署运营版本",
+          "url": "https://panbox.cc/resources/202"
         }
       },
       {
@@ -138,8 +133,8 @@ permalink: "/categories/source-code-mobile/"
         "position": 9,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "小程序图片编辑器",
-          "url": "https://panbox.cc/resources/127"
+          "name": "二手摩托车展示小程序源码 - FastAdmin框架 二手物品交易系统",
+          "url": "https://panbox.cc/resources/199"
         }
       },
       {
@@ -147,8 +142,8 @@ permalink: "/categories/source-code-mobile/"
         "position": 10,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "小程序音乐播放器",
-          "url": "https://panbox.cc/resources/126"
+          "name": "美团代付五合一代付系统源码 - 美团/京东/拼多多/携程/滴滴多模版",
+          "url": "https://panbox.cc/resources/196"
         }
       }
     ]

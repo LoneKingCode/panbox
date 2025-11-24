@@ -5,7 +5,7 @@ description: "精选Vue、React、Angular等前端框架项目源码，包含网
 keywords: ["前端源码", "免费下载", "网盘资源"]
 category: "前端源码"
 category_slug: "source-code-frontend"
-resource_count: 15
+resource_count: 4
 og_title: "前端源码 - 资源分类"
 og_description: "精选Vue、React、Angular等前端框架项目源码，包含网页模板和前端组件资源"
 og_type: "website"
@@ -19,24 +19,13 @@ permalink: "/categories/source-code-frontend/"
 
 <p>精选Vue、React、Angular等前端框架项目源码，包含网页模板和前端组件资源</p>
 
-<h2>📦 资源列表（共 15 个）</h2>
+<h2>📦 资源列表（共 4 个）</h2>
 
 <ul class="resource-list">
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/105/">微前端 qiankun 项目</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/104/">Webpack 5 配置模板</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/103/">TypeScript 项目脚手架</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/102/">Pinia 状态管理模板</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/101/">Vue Router 路由配置</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/100/">Axios 封装工具</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/99/">ECharts 可视化大屏</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/98/">Three.js 3D项目</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/97/">Tailwind CSS 动画库</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/96/">Element Plus 组件库</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/95/">Ant Design Pro 完整版</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/94/">Next.js 13 电商平台</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/93/">Nuxt 3 博客系统</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/92/">React 18 后台管理系统</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/91/">Vue 3 + Vite 商城项目</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/225/">餐饮食品展示源码 - 餐厅食谱菜单公示系统源码</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/210/">基于Tailwind CSS的QQ空间6.0版社交平台页面 - 前端源码</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/209/">苹果CMS v10模版 SEO友好蓝色多彩自适应模板下载</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/194/">PicCool WordPress素材虚拟资源主题 - 高颜值图片站解决方案</a></li>
 </ul>
 
 <div class="cta-section">
@@ -56,18 +45,18 @@ permalink: "/categories/source-code-frontend/"
   "@type": "CollectionPage",
   "name": "前端源码 - 资源分类",
   "description": "精选Vue、React、Angular等前端框架项目源码，包含网页模板和前端组件资源",
-  "numberOfItems": 15,
+  "numberOfItems": 4,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 15,
+    "numberOfItems": 4,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "微前端 qiankun 项目",
-          "url": "https://panbox.cc/resources/105"
+          "name": "餐饮食品展示源码 - 餐厅食谱菜单公示系统源码",
+          "url": "https://panbox.cc/resources/225"
         }
       },
       {
@@ -75,8 +64,8 @@ permalink: "/categories/source-code-frontend/"
         "position": 2,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Webpack 5 配置模板",
-          "url": "https://panbox.cc/resources/104"
+          "name": "基于Tailwind CSS的QQ空间6.0版社交平台页面 - 前端源码",
+          "url": "https://panbox.cc/resources/210"
         }
       },
       {
@@ -84,8 +73,8 @@ permalink: "/categories/source-code-frontend/"
         "position": 3,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "TypeScript 项目脚手架",
-          "url": "https://panbox.cc/resources/103"
+          "name": "苹果CMS v10模版 SEO友好蓝色多彩自适应模板下载",
+          "url": "https://panbox.cc/resources/209"
         }
       },
       {
@@ -93,62 +82,8 @@ permalink: "/categories/source-code-frontend/"
         "position": 4,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Pinia 状态管理模板",
-          "url": "https://panbox.cc/resources/102"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Vue Router 路由配置",
-          "url": "https://panbox.cc/resources/101"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Axios 封装工具",
-          "url": "https://panbox.cc/resources/100"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "ECharts 可视化大屏",
-          "url": "https://panbox.cc/resources/99"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Three.js 3D项目",
-          "url": "https://panbox.cc/resources/98"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 9,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Tailwind CSS 动画库",
-          "url": "https://panbox.cc/resources/97"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 10,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Element Plus 组件库",
-          "url": "https://panbox.cc/resources/96"
+          "name": "PicCool WordPress素材虚拟资源主题 - 高颜值图片站解决方案",
+          "url": "https://panbox.cc/resources/194"
         }
       }
     ]

@@ -1,20 +1,16 @@
 {
-  "total_resources": 170,
-  "total_categories": 12,
+  "total_resources": 198,
+  "total_categories": 10,
   "today_updates": 0,
   "category_counts": {
-    "courses-side-business": 17,
-    "software-windows": 16,
-    "默认分类": 2,
-    "courses-it": 15,
-    "source-code-mobile": 15,
-    "source-code-backend": 15,
-    "source-code-frontend": 15,
-    "software-apps": 15,
-    "software-mac": 15,
-    "ai-courses": 15,
-    "ai-materials": 15,
-    "ai-models": 15
+    "software-windows": 88,
+    "software-apps": 51,
+    "source-code-backend": 21,
+    "courses-side-business": 12,
+    "ai-courses": 7,
+    "software-portable": 5,
+    "source-code-frontend": 4,
+    "source-code-mobile": 10
   },
-  "last_updated": "2025-11-24T14:29:00.351499"
+  "last_updated": "2025-11-24T06:38:40.829232"
 }
