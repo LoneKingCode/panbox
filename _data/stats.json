@@ -1,7 +1,7 @@
 {
   "total_resources": 219,
   "total_categories": 10,
-  "today_updates": 15,
+  "today_updates": 0,
   "category_counts": {
     "software-windows": 101,
     "software-apps": 58,
@@ -12,5 +12,5 @@
     "source-code-frontend": 4,
     "source-code-mobile": 10
   },
-  "last_updated": "2025-11-26T23:30:02.286170"
+  "last_updated": "2025-11-27T00:00:02.937237"
 }
