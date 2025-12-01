@@ -5,7 +5,7 @@ description: "收录全面的手机APP资源，包括官方原版APP、破解版
 keywords: ["手机APP", "免费下载", "网盘资源"]
 category: "手机APP"
 category_slug: "software-apps"
-resource_count: 59
+resource_count: 68
 og_title: "手机APP - 资源分类"
 og_description: "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏"
 og_type: "website"
@@ -19,10 +19,19 @@ permalink: "/categories/software-apps/"
 
 <p>收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏</p>
 
-<h2>📦 资源列表（共 59 个）</h2>
+<h2>📦 资源列表（共 68 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/444/">洛雪音乐APP v1.8.0 免费听音乐 - 官方版下载</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/420/">安卓悟空下载 v1.3.7 VIP会员解锁纯净版 - 无广告高速下载</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/419/">安卓速度下载 v1.2.9 去广告会员版 - 多媒体资源下载神器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/418/">海鱼小说 v1.4.07 多平台书源 纯免费无广告 - 小说阅读APP</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/417/">李跳跳 v2.7.0 复活版 无需 ROOT 自动跳过广告神器 - 手机APP</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/416/">安卓资源大师Plus v1.5.5 高级会员解锁版 - 影视音乐万能搜索下载</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/414/">落影下载 v1.0.3 安卓版 - 磁力链播放与下载工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/413/">安卓Tiny Scanner Pro v8.9.8 高级版 - 手机PDF扫描神器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/412/">IPTV_Pro v9.1.12 解锁专业版 - 安卓电视频道播放器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/411/">安卓爱壁纸 v4.9.8 去广告会员解锁版 - 海量高清壁纸动态壁纸</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/405/">Solid Explorer v3.20 安卓文件管理器解锁完整版下载</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/404/">雪豹速清 v2.5.1 安卓垃圾清理工具 - 支持安卓13</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/403/">MT管理器 v2.18 正式版 - 强大的文件管理与APK逆向修改神器</a></li>
@@ -63,15 +72,6 @@ permalink: "/categories/software-apps/"
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/248/">Android 超亮手电筒 v2.1.9 免费版下载 - 实用手电筒工具</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/247/">Android迅雷去广告纯净版 v8.13.0 - 移动高速下载</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/246/">宇宙工具箱 v2.9.0 VIP破解版 - 强大万能工具箱</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/245/">微软Edge浏览器 v96.0.1054.36 Android版下载 - 基于Chromium内核的高效浏览器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/244/">VIA浏览器谷歌版 v6.8.0 安卓纯净无广告浏览器下载</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/243/">WPS Office国际版v18.21.2国际绿色版 - 免费安卓办公软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/242/">万能钥匙APP 1.1.53 去广告显密码版下载 - WiFi蹭网神器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/241/">小苹果影视TV版 v1.6.0 纯净版 - 免费高清影视聚合软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/240/">Android AutoCMD+ v1.3.5 自动化工具 - 支持AI编写脚本</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/239/">VivaCut v4.3.9 安卓专业版视频剪辑软件 - 多功能视频编辑神器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/238/">HideMyApplist v3.6.1 Xposed模块下载 - 隐私保护工具</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/237/">Layout Inspect v1.0.8 Patch1 布局定位模块 - 新增功能与修复</a></li>
 </ul>
 
 <div class="cta-section">
@@ -91,10 +91,10 @@ permalink: "/categories/software-apps/"
   "@type": "CollectionPage",
   "name": "手机APP - 资源分类",
   "description": "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏",
-  "numberOfItems": 59,
+  "numberOfItems": 68,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 59,
+    "numberOfItems": 68,
     "itemListElement": [
       {
         "@type": "ListItem",
@@ -110,8 +110,8 @@ permalink: "/categories/software-apps/"
         "position": 2,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Solid Explorer v3.20 安卓文件管理器解锁完整版下载",
-          "url": "https://panbox.cc/resources/405"
+          "name": "安卓悟空下载 v1.3.7 VIP会员解锁纯净版 - 无广告高速下载",
+          "url": "https://panbox.cc/resources/420"
         }
       },
       {
@@ -119,8 +119,8 @@ permalink: "/categories/software-apps/"
         "position": 3,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "雪豹速清 v2.5.1 安卓垃圾清理工具 - 支持安卓13",
-          "url": "https://panbox.cc/resources/404"
+          "name": "安卓速度下载 v1.2.9 去广告会员版 - 多媒体资源下载神器",
+          "url": "https://panbox.cc/resources/419"
         }
       },
       {
@@ -128,8 +128,8 @@ permalink: "/categories/software-apps/"
         "position": 4,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "MT管理器 v2.18 正式版 - 强大的文件管理与APK逆向修改神器",
-          "url": "https://panbox.cc/resources/403"
+          "name": "海鱼小说 v1.4.07 多平台书源 纯免费无广告 - 小说阅读APP",
+          "url": "https://panbox.cc/resources/418"
         }
       },
       {
@@ -137,8 +137,8 @@ permalink: "/categories/software-apps/"
         "position": 5,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "闪映剧场 v2.1.0 免费追剧应用 - 安卓版",
-          "url": "https://panbox.cc/resources/402"
+          "name": "李跳跳 v2.7.0 复活版 无需 ROOT 自动跳过广告神器 - 手机APP",
+          "url": "https://panbox.cc/resources/417"
         }
       },
       {
@@ -146,8 +146,8 @@ permalink: "/categories/software-apps/"
         "position": 6,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Next Player v0.14.0 免费无广告安卓视频播放器 - 开源项目",
-          "url": "https://panbox.cc/resources/393"
+          "name": "安卓资源大师Plus v1.5.5 高级会员解锁版 - 影视音乐万能搜索下载",
+          "url": "https://panbox.cc/resources/416"
         }
       },
       {
@@ -155,8 +155,8 @@ permalink: "/categories/software-apps/"
         "position": 7,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "XPlayer v2.4.8.2 安卓本地视频音乐播放器 解锁会员去广告版",
-          "url": "https://panbox.cc/resources/392"
+          "name": "落影下载 v1.0.3 安卓版 - 磁力链播放与下载工具",
+          "url": "https://panbox.cc/resources/414"
         }
       },
       {
@@ -164,8 +164,8 @@ permalink: "/categories/software-apps/"
         "position": 8,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "MX Player Pro v2.2.4 去广告版 - 安卓视频播放APP",
-          "url": "https://panbox.cc/resources/391"
+          "name": "安卓Tiny Scanner Pro v8.9.8 高级版 - 手机PDF扫描神器",
+          "url": "https://panbox.cc/resources/413"
         }
       },
       {
@@ -173,8 +173,8 @@ permalink: "/categories/software-apps/"
         "position": 9,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "淘宝APP v10.55.0.5(753) 谷歌商店版下载 - 线上购物神器",
-          "url": "https://panbox.cc/resources/388"
+          "name": "IPTV_Pro v9.1.12 解锁专业版 - 安卓电视频道播放器",
+          "url": "https://panbox.cc/resources/412"
         }
       },
       {
@@ -182,8 +182,8 @@ permalink: "/categories/software-apps/"
         "position": 10,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "TikTok 去广告去区域限制版 v42.6.4 - Android 版下载",
-          "url": "https://panbox.cc/resources/383"
+          "name": "安卓爱壁纸 v4.9.8 去广告会员解锁版 - 海量高清壁纸动态壁纸",
+          "url": "https://panbox.cc/resources/411"
         }
       }
     ]

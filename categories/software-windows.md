@@ -5,7 +5,7 @@ description: "提供Windows平台必备软件下载，包括系统优化工具�
 keywords: ["Windows软件", "免费下载", "网盘资源"]
 category: "Windows软件"
 category_slug: "software-windows"
-resource_count: 118
+resource_count: 126
 og_title: "Windows软件 - 资源分类"
 og_description: "提供Windows平台必备软件下载，包括系统优化工具、维护软件和实用工具，提升电脑性能"
 og_type: "website"
@@ -19,7 +19,7 @@ permalink: "/categories/software-windows/"
 
 <p>提供Windows平台必备软件下载，包括系统优化工具、维护软件和实用工具，提升电脑性能</p>
 
-<h2>📦 资源列表（共 118 个）</h2>
+<h2>📦 资源列表（共 126 个）</h2>
 
 <ul class="resource-list">
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/448/">PureCodec v20251130 视频播放器完美解码 - 多媒体播放器</a></li>
@@ -39,6 +39,14 @@ permalink: "/categories/software-windows/"
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/432/">PDFgear v2.1.14.0 PDF阅读编辑转换软件 - 免费版下载</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/430/">Windows InnoExtractor 解包工具 v11.1.0.153 五语版精简版 - 提取安装程序文件</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/429/">RegCool v3.0.0.1 注册表编辑管理工具 - 中文绿色版</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/428/">洛雪音乐助手PC版 v2.12.0 beta14 免费音乐聚合软件下载</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/427/">123云盘PC版客户端 v2.1.0 绿色版下载 - 提供2T空间</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/425/">Stardock Start11 v3.9.14.5310 破解版 - Windows 开始菜单增强工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/424/">Visual C++运行库合集轻量版2025年11月v03下载 - Windows系统必备</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/423/">Visual C++ 运行库合集 2025.11.24 免费下载 - Windows系统必备库</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/422/">Mirillis Action! v4.46.0 中文注册绿色便携版 - 屏幕录制软件</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/421/">Uninstall Tool 3.8.1.5740 中文破解版下载 - Windows专业卸载工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/415/">安卓LX Music洛雪音乐v1.8.0beta9 - 全网音乐下载工具</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/410/">系统常用运行库 CSRLPackage v1.2.25.1124 免费版下载 - 官方完整版</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/409/">Visual C++ 运行库合集 v1.103.0 - Windows软件</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/408/">微软 Visual C++ 运行库合集 VCRedistPack v4.17.25.1124 - Windows软件</a></li>
@@ -64,14 +72,6 @@ permalink: "/categories/software-windows/"
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/373/">Readest v0.9.93 跨平台电子书阅读器 - 支持多种格式与功能</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/372/">Hard Disk Sentinel Pro v6.30.5b 硬盘监控工具 - Windows软件</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/369/">迅雷12 舒爽版 v12.4.7.3858 去广告版下载 - Windows软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/368/">Windows Dialog 定时器 - 到点提醒与执行工具</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/367/">微软 PowerToys v0.96 免费版下载 - 提升 Windows 效率工具</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/366/">HotKeyP v4.11 全局快捷键工具 - Windows软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/365/">Light Image Resizer v7.4.0.129 图片批量转换软件 - Windows 图像处理</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/364/">Windows QuarkPanTool 网盘助手 v0.0.5 下载 - 提升网盘操作效率</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/363/">Windows 批量文件重命名工具 v1.0 免费版下载 - 智能文件过滤</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/362/">Windows BIOS品牌自动检测工具 v2.0 绿色便携版 - 提升重装效率</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/361/">Windows pinga 图像无损压缩工具 v0.63 中文便携版 - 无损优化与极限压缩</a></li>
 </ul>
 
 <div class="cta-section">
@@ -91,10 +91,10 @@ permalink: "/categories/software-windows/"
   "@type": "CollectionPage",
   "name": "Windows软件 - 资源分类",
   "description": "提供Windows平台必备软件下载，包括系统优化工具、维护软件和实用工具，提升电脑性能",
-  "numberOfItems": 118,
+  "numberOfItems": 126,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 118,
+    "numberOfItems": 126,
     "itemListElement": [
       {
         "@type": "ListItem",

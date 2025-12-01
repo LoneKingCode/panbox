@@ -5,7 +5,7 @@ description: "提供海量绿色软件、便携版软件、单文件版及去广
 keywords: ["绿色软件", "免费下载", "网盘资源"]
 category: "绿色软件"
 category_slug: "software-portable"
-resource_count: 6
+resource_count: 7
 og_title: "绿色软件 - 资源分类"
 og_description: "提供海量绿色软件、便携版软件、单文件版及去广告版软件下载。涵盖Windows、Mac平台"
 og_type: "website"
@@ -19,9 +19,10 @@ permalink: "/categories/software-portable/"
 
 <p>提供海量绿色软件、便携版软件、单文件版及去广告版软件下载。涵盖Windows、Mac平台</p>
 
-<h2>📦 资源列表（共 6 个）</h2>
+<h2>📦 资源列表（共 7 个）</h2>
 
 <ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-portable/426/">xb21cn精简Office 2025年11月更新版 - 绿色版永久激活</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-portable/399/">冰凌五笔输入法 v13.5.7.251122 (虹藏版) 下载 - 绿色纯净安全</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-portable/301/">Opera浏览器 v124.0.5705.15 中文绿色版下载</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-portable/295/">VueScan Pro中文破解版 v9.8.46.11 绿色便携版 - 图像扫描软件</a></li>
@@ -47,14 +48,23 @@ permalink: "/categories/software-portable/"
   "@type": "CollectionPage",
   "name": "绿色软件 - 资源分类",
   "description": "提供海量绿色软件、便携版软件、单文件版及去广告版软件下载。涵盖Windows、Mac平台",
-  "numberOfItems": 6,
+  "numberOfItems": 7,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 6,
+    "numberOfItems": 7,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "xb21cn精简Office 2025年11月更新版 - 绿色版永久激活",
+          "url": "https://panbox.cc/resources/426"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
         "item": {
           "@type": "SoftwareApplication",
           "name": "冰凌五笔输入法 v13.5.7.251122 (虹藏版) 下载 - 绿色纯净安全",
@@ -63,7 +73,7 @@ permalink: "/categories/software-portable/"
       },
       {
         "@type": "ListItem",
-        "position": 2,
+        "position": 3,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Opera浏览器 v124.0.5705.15 中文绿色版下载",
@@ -72,7 +82,7 @@ permalink: "/categories/software-portable/"
       },
       {
         "@type": "ListItem",
-        "position": 3,
+        "position": 4,
         "item": {
           "@type": "SoftwareApplication",
           "name": "VueScan Pro中文破解版 v9.8.46.11 绿色便携版 - 图像扫描软件",
@@ -81,7 +91,7 @@ permalink: "/categories/software-portable/"
       },
       {
         "@type": "ListItem",
-        "position": 4,
+        "position": 5,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Chrome++ v1.13.3 Google Chrome增强软件 - 便携版",
@@ -90,7 +100,7 @@ permalink: "/categories/software-portable/"
       },
       {
         "@type": "ListItem",
-        "position": 5,
+        "position": 6,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Microsoft Edge v142.0.3595.53 绿色便携版下载 - 提升浏览体验",
@@ -99,7 +109,7 @@ permalink: "/categories/software-portable/"
       },
       {
         "@type": "ListItem",
-        "position": 6,
+        "position": 7,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Google Chrome v141.0.7390.123 便携增强版下载 - 绿色软件",
