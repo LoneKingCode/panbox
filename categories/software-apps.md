@@ -5,7 +5,7 @@ description: "收录全面的手机APP资源，包括官方原版APP、破解版
 keywords: ["手机APP", "免费下载", "网盘资源"]
 category: "手机APP"
 category_slug: "software-apps"
-resource_count: 58
+resource_count: 59
 og_title: "手机APP - 资源分类"
 og_description: "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏"
 og_type: "website"
@@ -19,9 +19,10 @@ permalink: "/categories/software-apps/"
 
 <p>收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏</p>
 
-<h2>📦 资源列表（共 58 个）</h2>
+<h2>📦 资源列表（共 59 个）</h2>
 
 <ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/444/">洛雪音乐APP v1.8.0 免费听音乐 - 官方版下载</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/405/">Solid Explorer v3.20 安卓文件管理器解锁完整版下载</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/404/">雪豹速清 v2.5.1 安卓垃圾清理工具 - 支持安卓13</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/403/">MT管理器 v2.18 正式版 - 强大的文件管理与APK逆向修改神器</a></li>
@@ -71,7 +72,6 @@ permalink: "/categories/software-apps/"
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/239/">VivaCut v4.3.9 安卓专业版视频剪辑软件 - 多功能视频编辑神器</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/238/">HideMyApplist v3.6.1 Xposed模块下载 - 隐私保护工具</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/237/">Layout Inspect v1.0.8 Patch1 布局定位模块 - 新增功能与修复</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/236/">Android Charging Master 充电自动化大师 v5.33.32 - 实时充电监控</a></li>
 </ul>
 
 <div class="cta-section">
@@ -91,14 +91,23 @@ permalink: "/categories/software-apps/"
   "@type": "CollectionPage",
   "name": "手机APP - 资源分类",
   "description": "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏",
-  "numberOfItems": 58,
+  "numberOfItems": 59,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 58,
+    "numberOfItems": 59,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "洛雪音乐APP v1.8.0 免费听音乐 - 官方版下载",
+          "url": "https://panbox.cc/resources/444"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Solid Explorer v3.20 安卓文件管理器解锁完整版下载",
@@ -107,7 +116,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 2,
+        "position": 3,
         "item": {
           "@type": "SoftwareApplication",
           "name": "雪豹速清 v2.5.1 安卓垃圾清理工具 - 支持安卓13",
@@ -116,7 +125,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 3,
+        "position": 4,
         "item": {
           "@type": "SoftwareApplication",
           "name": "MT管理器 v2.18 正式版 - 强大的文件管理与APK逆向修改神器",
@@ -125,7 +134,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 4,
+        "position": 5,
         "item": {
           "@type": "SoftwareApplication",
           "name": "闪映剧场 v2.1.0 免费追剧应用 - 安卓版",
@@ -134,7 +143,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 5,
+        "position": 6,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Next Player v0.14.0 免费无广告安卓视频播放器 - 开源项目",
@@ -143,7 +152,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 6,
+        "position": 7,
         "item": {
           "@type": "SoftwareApplication",
           "name": "XPlayer v2.4.8.2 安卓本地视频音乐播放器 解锁会员去广告版",
@@ -152,7 +161,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 7,
+        "position": 8,
         "item": {
           "@type": "SoftwareApplication",
           "name": "MX Player Pro v2.2.4 去广告版 - 安卓视频播放APP",
@@ -161,7 +170,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 8,
+        "position": 9,
         "item": {
           "@type": "SoftwareApplication",
           "name": "淘宝APP v10.55.0.5(753) 谷歌商店版下载 - 线上购物神器",
@@ -170,20 +179,11 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 9,
+        "position": 10,
         "item": {
           "@type": "SoftwareApplication",
           "name": "TikTok 去广告去区域限制版 v42.6.4 - Android 版下载",
           "url": "https://panbox.cc/resources/383"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 10,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "安卓蒙太奇影视 v1.1.2 去广告纯净版 - 海量免费高清影视资源",
-          "url": "https://panbox.cc/resources/377"
         }
       }
     ]

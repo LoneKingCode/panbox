@@ -5,7 +5,7 @@ description: "精选Vue、React、Angular等前端框架项目源码，包含网
 keywords: ["前端源码", "免费下载", "网盘资源"]
 category: "前端源码"
 category_slug: "source-code-frontend"
-resource_count: 4
+resource_count: 5
 og_title: "前端源码 - 资源分类"
 og_description: "精选Vue、React、Angular等前端框架项目源码，包含网页模板和前端组件资源"
 og_type: "website"
@@ -19,9 +19,10 @@ permalink: "/categories/source-code-frontend/"
 
 <p>精选Vue、React、Angular等前端框架项目源码，包含网页模板和前端组件资源</p>
 
-<h2>📦 资源列表（共 4 个）</h2>
+<h2>📦 资源列表（共 5 个）</h2>
 
 <ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/431/">圣诞节快乐主题宣传单页设计 - 设计素材</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/225/">餐饮食品展示源码 - 餐厅食谱菜单公示系统源码</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/210/">基于Tailwind CSS的QQ空间6.0版社交平台页面 - 前端源码</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/209/">苹果CMS v10模版 SEO友好蓝色多彩自适应模板下载</a></li>
@@ -45,14 +46,23 @@ permalink: "/categories/source-code-frontend/"
   "@type": "CollectionPage",
   "name": "前端源码 - 资源分类",
   "description": "精选Vue、React、Angular等前端框架项目源码，包含网页模板和前端组件资源",
-  "numberOfItems": 4,
+  "numberOfItems": 5,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 4,
+    "numberOfItems": 5,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "圣诞节快乐主题宣传单页设计 - 设计素材",
+          "url": "https://panbox.cc/resources/431"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
         "item": {
           "@type": "SoftwareApplication",
           "name": "餐饮食品展示源码 - 餐厅食谱菜单公示系统源码",
@@ -61,7 +71,7 @@ permalink: "/categories/source-code-frontend/"
       },
       {
         "@type": "ListItem",
-        "position": 2,
+        "position": 3,
         "item": {
           "@type": "SoftwareApplication",
           "name": "基于Tailwind CSS的QQ空间6.0版社交平台页面 - 前端源码",
@@ -70,7 +80,7 @@ permalink: "/categories/source-code-frontend/"
       },
       {
         "@type": "ListItem",
-        "position": 3,
+        "position": 4,
         "item": {
           "@type": "SoftwareApplication",
           "name": "苹果CMS v10模版 SEO友好蓝色多彩自适应模板下载",
@@ -79,7 +89,7 @@ permalink: "/categories/source-code-frontend/"
       },
       {
         "@type": "ListItem",
-        "position": 4,
+        "position": 5,
         "item": {
           "@type": "SoftwareApplication",
           "name": "PicCool WordPress素材虚拟资源主题 - 高颜值图片站解决方案",

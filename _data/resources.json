@@ -1,5 +1,333 @@
 [
   {
+    "id": "448",
+    "title": "PureCodec v20251130 视频播放器完美解码 - 多媒体播放器",
+    "description": "<p>Perfect Codecs是一款能实现流行音视频、高清及4K等多媒体文件软硬解播放的全能型影音解码包，集成PotPlayer、MPC-BE等播放器，支持多种格式，是高清爱好者的理想播放工具。支持AVI、MP4、MKV等多种格式，适合视频爱好者使用。</p><p><img src=\"/upload/image/2025-12-01/1764570597875-8tu29u.png\" alt=",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "视频播放器",
+      "高清播放",
+      "多媒体解码",
+      "免费下载"
+    ],
+    "created_at": "2025-12-01 06:27:50.183000",
+    "file_size": "150.43 MB"
+  },
+  {
+    "id": "447",
+    "title": "局域网共享精灵 v20251110 Windows版下载 - 文件共享与打印机共享神器",
+    "description": "<p>局域网共享精灵是一款Windows环境下助力于局域网环境文件共享和打印机共享的实用工具，帮助您快捷高效的在局域网内实现文件共享和打印机共享的操作，支持管理应用、照片、音乐、铃声、视频以及其他多媒体文件共享。最新版本跟进官方2025.11.10，更新去弹窗功能。</p><p><img src=\"/upload/image/2025-12-01/1764570653625-dfexgw.png\"",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "局域网共享",
+      "文件共享",
+      "打印机共享",
+      "实用工具",
+      "最新版"
+    ],
+    "created_at": "2025-12-01 06:27:49.678000",
+    "file_size": "6.27 MB"
+  },
+  {
+    "id": "446",
+    "title": "OneCommander v3.104.1.0 Windows文件管理器免费版下载 - 现代双窗格浏览器",
+    "description": "<p>OneCommander是一款适用于Windows 10和Windows 11的现代文件管理器，支持标签页、双窗格浏览、米勒列导航等功能，提供深色和浅色主题，内置文件预览功能，支持长Unicode路径，免费供家庭使用，无广告。</p><p><img src=\"/upload/image/2025-12-01/external-1764570660158-rr2hnx.png\" alt=\"On",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "文件管理器",
+      "双窗格浏览",
+      "标签页",
+      "免费版",
+      "高效工具"
+    ],
+    "created_at": "2025-12-01 06:27:49.219000",
+    "file_size": "32.97 MB"
+  },
+  {
+    "id": "445",
+    "title": "维克日记 v1.5.0 免费开源日记软件 - 支持Markdown",
+    "description": "<p>维克日记是一款设计优雅、开箱即用的免费开源日记软件，支持Markdown语法输入和实时预览。它提供一目了然的用户界面，支持表格可视化编辑和本地图片插入，确保您的日记隐私内容更有保障。适用于Windows、Mac、Linux多个系统平台。</p><p><img src=\"/upload/image/2025-12-01/external-1764570665812-hijno0.png\" al",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "Mac软件",
+      "Linux软件",
+      "日记软件",
+      "Markdown",
+      "开源软件"
+    ],
+    "created_at": "2025-12-01 06:27:48.757000",
+    "file_size": "221.55 MB"
+  },
+  {
+    "id": "444",
+    "title": "洛雪音乐APP v1.8.0 免费听音乐 - 官方版下载",
+    "description": "<p>洛雪音乐APP是一款免费听音乐的应用，移动版需要配合音源使用，支持多种音源接口。该应用提供了丰富的音乐资源，满足用户的听歌需求。</p><p><img src=\"/upload/image/2025-12-01/external-1764570676251-04ndjg.jpg\" alt=\"洛雪音乐APP截图\" /></p><h3>主要内容</h3><ul><li>支持多种音源接口</li>",
+    "category": "手机APP",
+    "category_slug": "software-apps",
+    "tags": [
+      "手机APP",
+      "音乐播放器",
+      "免费听音乐",
+      "官方版",
+      "音源接口"
+    ],
+    "created_at": "2025-12-01 06:27:48.285000",
+    "file_size": "51.07 MB"
+  },
+  {
+    "id": "443",
+    "title": "洛雪音乐 v2.12.0 免费版 - 多平台音乐播放器",
+    "description": "<p>洛雪音乐是一款基于 Electron + Vue 开发的开源免费音乐软件，聚合各大音乐平台，支持搜索、试听、收藏和下载（已不支持无损下载）。适用于 MAC 和 windows 多平台，界面设计完善，功能丰富。</p><p><img src=\"/upload/image/2025-12-01/1764570719279-k7ip9n.png\" alt=\"洛雪音乐主界面\" /><img src=",
+    "category": "Mac软件",
+    "category_slug": "software-mac",
+    "tags": [
+      "Windows软件",
+      "Mac软件",
+      "音乐播放器",
+      "开源软件",
+      "电子音乐"
+    ],
+    "created_at": "2025-12-01 06:27:47.821000",
+    "file_size": "594.41 MB"
+  },
+  {
+    "id": "442",
+    "title": "闪电藤 v3.1.7 跨平台局域网文件传输工具 - 免费版下载",
+    "description": "<p>闪电藤是一款基于LocalSend二次开发的跨平台局域网文件传输工具，专为中国用户设计，具有极简无广告、免登录使用等特点，支持聊天式文件传输、跨网段连接等功能，传输速度快，不限速。适用于办公和家庭网络环境，提升文件传输效率。（更多功能详见下文）</p><p><img src=\"/upload/image/2025-12-01/external-1764570743771-xroaqi.png",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "Mac软件",
+      "局域网传输",
+      "绿色软件",
+      "文件传输工具",
+      "跨平台"
+    ],
+    "created_at": "2025-12-01 06:27:47.347000",
+    "file_size": "158.73 MB"
+  },
+  {
+    "id": "441",
+    "title": "Axialis IconWorkshop v6.9.7.0 汉化版 - 图标制作工具",
+    "description": "<p>Axialis IconWorkshop是一款功能强大的图标制作工具，支持Windows、MacOS和Unix等多种操作系统。它可以帮助用户轻松创建、导入和保存各种格式的图标，如ICO、ICL等，并且支持从现有图像直接生成图标。这款软件内置了丰富的滤镜和图像调整工具，使图标制作更加专业和高效。</p><p><img src=\"/upload/image/2025-12-01/external",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "图标制作",
+      "设计工具",
+      "图像处理",
+      "静默安装"
+    ],
+    "created_at": "2025-12-01 06:27:46.878000",
+    "file_size": "72.27 MB"
+  },
+  {
+    "id": "440",
+    "title": "局域网共享一键通 v2.0.10.2 免费版下载 - Windows软件 局域网共享工具",
+    "description": "<p>杏雨梨云大佬制作的局域网共享设置工具，简化共享操作，方便轻松。支持一键设置计算机共享、新建共享账户、配置共享协议、设置共享目录及打印机等功能，提升局域网管理效率。</p><p><img src=\"/upload/image/2025-12-01/external-1764570762158-85w5q6.png\" alt=\"局域网共享一键通 软件截图\" /></p>\n<h3>主要内容</h3",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "局域网共享",
+      "网络管理",
+      "实用工具",
+      "免费版"
+    ],
+    "created_at": "2025-12-01 06:27:41.325000",
+    "file_size": "658.69 KB"
+  },
+  {
+    "id": "439",
+    "title": "Brave浏览器 v1.84.141 - 强调隐私安全的Chromium浏览器",
+    "description": "<p>Brave浏览器是一款由布瑞夫软件公司开发的，基于Chromium技术的网页浏览器。它尤其强调对用户隐私和安全性的保护，以及网页浏览速度的提升。自动阻止跟踪器和广告，保护在线隐私；高效快速，减少页面加载时间；支持加密货币和区块链技术。</p><p><img src=\"/upload/image/2025-12-01/external-1764570769350-u6vvvx.png\" alt",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "隐私安全",
+      "浏览器",
+      "Chromium",
+      "加密货币",
+      "高效浏览"
+    ],
+    "created_at": "2025-12-01 06:27:40.866000",
+    "file_size": "637.68 MB"
+  },
+  {
+    "id": "438",
+    "title": "Privacy Eraser v6.24.2.5410 电脑隐私清理工具 - 单文件便携版",
+    "description": "<p>Privacy Eraser (隐私橡皮擦) 是一款全功能隐私清理工具，能够快速擦除互联网缓存、Cookie、浏览历史等痕迹，保护您的隐私。它支持多种文件系统，全面超越美国国防部和美国国家安全局的清理标准，确保数据永久消失。此版本为单文件便携版，无需安装，方便快捷。</p><p><img src=\"/upload/image/2025-12-01/external-1764570781094",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "隐私保护",
+      "清理工具",
+      "单文件版",
+      "安全工具"
+    ],
+    "created_at": "2025-12-01 06:27:40.391000",
+    "file_size": "6.81 MB"
+  },
+  {
+    "id": "437",
+    "title": "OBS Studio v32.0.2 录屏直播软件 - 高效视频音频捕获",
+    "description": "<p>OBS Studio 是一款广泛应用于直播领域的专业录屏和直播软件，支持实时流媒体和屏幕录制，高效捕获、合成、编码、记录和流传输视频内容，支持所有流媒体平台。它具有高性能实时视频/音频捕获和混合功能，支持多种来源，如窗口捕获、图像、文本、浏览器窗口、网络摄像头等。</p><p><img src=\"/upload/image/2025-12-01/external-1764570786957-",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "录屏软件",
+      "直播软件",
+      "视频编辑",
+      "音频处理",
+      "高效工具"
+    ],
+    "created_at": "2025-12-01 06:27:39.938000",
+    "file_size": "150.19 MB"
+  },
+  {
+    "id": "436",
+    "title": "CareUEyes v2.4.11.0 护眼软件免费版下载 - Windows",
+    "description": "<p>CareUEyes 是一款专为保护用户眼睛健康而设计的电脑护眼软件，减少长时间面对电脑屏幕带来的不适。它提供智能蓝光过滤、灵活休息提醒等功能，适合长时间使用电脑的人群。</p><p><img src=\"/upload/image/2025-12-01/external-1764570793603-cwlyhz.png\" alt=\"CareUEyes 软件截图\" /></p><h3>主要内容<",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "护眼软件",
+      "Windows软件",
+      "蓝光过滤",
+      "休息提醒",
+      "自动亮度调节"
+    ],
+    "created_at": "2025-12-01 06:27:39.440000",
+    "file_size": "4.21 MB"
+  },
+  {
+    "id": "435",
+    "title": "XMind v26.1.7145.202511181821 思维导图软件下载 - 多样化结构高效协作",
+    "description": "<p>XMind是一款全功能的思维导图和头脑风暴软件，支持多种思维导图结构，如树形结构、鱼骨图、逻辑图等，帮助用户理清思路，捕捉创意。该版本新增hosts屏蔽功能，提升用户体验。</p><p><img src=\"/upload/image/2025-12-01/external-1764570800691-f7oaoj.png\" alt=\"XMind 软件截图\" /></p><h3>主要内容</h",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "思维导图",
+      "XMind",
+      "办公工具",
+      "项目管理",
+      "团队协作",
+      "最新版"
+    ],
+    "created_at": "2025-12-01 06:27:38.976000",
+    "file_size": "170.49 MB"
+  },
+  {
+    "id": "434",
+    "title": "WinMerge v2.16.52.2 文件对比工具 - Windows实用工具",
+    "description": "<p>WinMerge 是一个适用于 Windows 的开源文件对比工具。它可以帮助您比较文件和文件夹，以易于理解和操作的视觉方式呈现差异。支持文件比较、三向文件比较、文本文件的视觉差异和合并等功能，适合开发者和日常用户使用。</p><p><img src=\"/upload/image/2025-12-01/external-1764570806956-zleqtx.png\" alt=\"WinMe",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "文件对比",
+      "开源工具",
+      "实用工具",
+      "文件管理"
+    ],
+    "created_at": "2025-12-01 06:27:38.530000",
+    "file_size": "37.02 MB"
+  },
+  {
+    "id": "433",
+    "title": "Inno Setup v6.6.1 汉化增强版 - Windows安装包制作软件",
+    "description": "<p>Inno Setup 是一款免费的安装包制作软件，通过简单向导即可快速创建软件安装包，功能丰富，支持多种插件扩展。王苏汉化版进一步提升了用户体验，集成了插件和皮肤构建器，适合开发者和IT人员使用。</p><p><img src=\"/upload/image/2025-12-01/external-1764570814326-52yodt.png\" alt=\"Inno Setup 软件截图\" ",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "安装包制作",
+      "免费软件",
+      "开发工具",
+      "汉化版"
+    ],
+    "created_at": "2025-12-01 06:27:38.076000",
+    "file_size": "683.90 MB"
+  },
+  {
+    "id": "432",
+    "title": "PDFgear v2.1.14.0 PDF阅读编辑转换软件 - 免费版下载",
+    "description": "<p>PDFgear是一款跨设备的PDF阅读、编辑、转换、合并、签署软件，完全免费，无需注册。支持多种PDF操作，如阅读、编辑、压缩、与PDF聊天、合并、裁剪、文字识别、突出显示、注释、解锁分割PDF等。此外，还支持PDF与其他多种格式之间的转换，如WORD、PNG、JPG、JPEG、EXCEL、PPT、PPTX、PSD等。功能强大，适合各种PDF处理需求。</p><p><img src=\"/up",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "PDF阅读",
+      "PDF编辑",
+      "PDF转换",
+      "免费版",
+      "实用工具",
+      "Windows软件"
+    ],
+    "created_at": "2025-12-01 06:27:37.622000",
+    "file_size": "134.16 MB"
+  },
+  {
+    "id": "431",
+    "title": "圣诞节快乐主题宣传单页设计 - 设计素材",
+    "description": "<p>圣诞节快乐主题宣传单页设计，适合节日活动宣传使用。</p><p><img src=\"/upload/image/2025-12-01/external-1764571017616-6epyws.webp\" alt=\"圣诞节快乐主题宣传单页设计预览图\" /></p>",
+    "category": "前端源码",
+    "category_slug": "source-code-frontend",
+    "tags": [
+      "设计素材",
+      "圣诞节",
+      "宣传单页",
+      "节日设计",
+      "免费下载"
+    ],
+    "created_at": "2025-12-01 06:27:37.157000",
+    "file_size": "37.42 MB"
+  },
+  {
+    "id": "430",
+    "title": "Windows InnoExtractor 解包工具 v11.1.0.153 五语版精简版 - 提取安装程序文件",
+    "description": "<p>InnoExtractor 是一款强大的解包和取证应用程序，专为基于 Inno Setup 的安装程序设计。它可以帮助用户轻松打开、检查、审查并提取安装程序的文件和内部内容，无需启动安装向导。支持将文件和脚本提取到本地文件夹、zip包或自解压缩模块中，适合开发者和技术人员使用。</p><p><img src=\"/upload/image/2025-12-01/external-1764571",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "解包工具",
+      "安装程序",
+      "取证应用",
+      "免费下载"
+    ],
+    "created_at": "2025-12-01 06:27:32.029000",
+    "file_size": "2.93 MB"
+  },
+  {
+    "id": "429",
+    "title": "RegCool v3.0.0.1 注册表编辑管理工具 - 中文绿色版",
+    "description": "<p>RegCool是一款免费的注册表编辑管理工具，提供高级注册表编辑功能，支持注册表快照、比较、整理、搜索和替换等操作。新版特性包括多个撤消和重做操作，查找和替换所需注册项/键值/字符串，方便快捷的收藏夹跳转功能。</p><p><img src=\"/upload/image/2025-12-01/external-1764571053162-kjh720.jpg\" alt=\"RegCool 注册",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "注册表编辑",
+      "绿色软件",
+      "Windows软件",
+      "免费工具",
+      "系统优化"
+    ],
+    "created_at": "2025-12-01 06:27:31.547000",
+    "file_size": "2.87 MB"
+  },
+  {
     "id": "410",
     "title": "系统常用运行库 CSRLPackage v1.2.25.1124 免费版下载 - 官方完整版",
     "description": "<p>系统常用运行库 CSRLPackage v1.2.25.1124 集成完整无精简的 Visual C++ 2005 – v14(2026) 和 Microsoft DirectX 9.0 – 11 运行库，为用户提供更多的选择。支持静默安装和带进度条安装，兼容 x86 和 x64 系统。</p><p><img src=\"/upload/image/2025-11-26/external-17",
