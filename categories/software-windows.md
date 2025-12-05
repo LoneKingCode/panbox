@@ -5,7 +5,7 @@ description: "提供Windows平台必备软件下载，包括系统优化工具�
 keywords: ["Windows软件", "免费下载", "网盘资源"]
 category: "Windows软件"
 category_slug: "software-windows"
-resource_count: 126
+resource_count: 141
 og_title: "Windows软件 - 资源分类"
 og_description: "提供Windows平台必备软件下载，包括系统优化工具、维护软件和实用工具，提升电脑性能"
 og_type: "website"
@@ -19,9 +19,24 @@ permalink: "/categories/software-windows/"
 
 <p>提供Windows平台必备软件下载，包括系统优化工具、维护软件和实用工具，提升电脑性能</p>
 
-<h2>📦 资源列表（共 126 个）</h2>
+<h2>📦 资源列表（共 141 个）</h2>
 
 <ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/470/">WimTool v1.8.2025.11.25 WIN映像文件处理工具 - 系统维护高效工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/469/">Windows Geek Uninstaller v1.5.3.170 中文便携版 - 卸载工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/468/">傲梅分区助手特别中文版 v10.9.2 破解版下载 - Windows磁盘分区管理工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/467/">XnView MP v1.9.6.0 免费版下载 - 图片浏览器与管理工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/466/">微信视频号下载工具 v251201 - 支持直播回放和实时直播</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/465/">U盘歌单管理器 v5.4.0 - 音乐U盘播放列表制作工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/464/">RisohEditor v5.9.3 免费Win32资源编辑器 - 多语言支持</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/463/">Directory Opus v13.20 文件管理器软件 - 破解版下载</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/462/">DiskDigger 数据恢复软件 v2.0.13.4139 多语便携版 - 免费下载</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/461/">Windows PDF专业签章工具 v3.6 - 高效盖章与骑缝章功能</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/460/">Windows Biu音乐播放器 v1.6.0 独立版可登账号 - 绿色单文件播放器</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/459/">Windows 浩然工具箱 v2.3 - 多功能绿色工具箱</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/458/">Windows 重复文件清理工具 v1.6 绿色便携版 - 无需安装一键瘦身</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/457/">微信视频号下载工具 v2.4 绿色版 - 视频直播下载</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/456/">Windows 发票排版打印软件 v1.0 绿色纯净版 - 提升工作效率</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/448/">PureCodec v20251130 视频播放器完美解码 - 多媒体播放器</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/447/">局域网共享精灵 v20251110 Windows版下载 - 文件共享与打印机共享神器</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/446/">OneCommander v3.104.1.0 Windows文件管理器免费版下载 - 现代双窗格浏览器</a></li>
@@ -57,21 +72,6 @@ permalink: "/categories/software-windows/"
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/398/">WizTree v4.28.0 磁盘空间分析软件 - 免费版下载</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/397/">WPS Office 2019 专业版 繁体 v11.8.2.12330 免费下载 - Windows办公软件</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/396/">微软常用运行库合集 - Windows系统必备运行库</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/395/">小梦音乐下载器 v1.0.6.0 无广告音乐下载工具 - Windows软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/394/">VxKex NEXT v1.1.3.1763 让 Windows 7 运行新程序 - Windows 7 API 扩展</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/390/">2345看图王去广告精简安装版 v13.4.0.12436 - Windows软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/389/">FastStone Image Viewer v8.2 图像浏览编辑软件 - Windows软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/387/">IDM v6.42.53.1 破解版下载 - 强大的下载管理工具</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/386/">Glary Utilities Pro v6.34.0.38 系统优化工具 - Windows软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/385/">Microsoft SQL Server 下载集合器 v1.7 - Windows软件 数据库管理</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/384/">Calibre v8.15.0 电子书管理软件 - 免费下载</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/382/">FxSound v1.2.3.0 开源音效增强软件 - Windows数字音频处理</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/381/">Windows和Office激活工具集 | HWIDGen, DigitalLicense, HEU KMS Activator - 全面激活解决方案</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/379/">Mp3tag v3.32c 音频文件信息编辑工具 - Windows软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/378/">CrystalDiskInfo v9.7.1 & CrystalDiskMark v9.0.1 硬盘检测工具 - Windows软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/373/">Readest v0.9.93 跨平台电子书阅读器 - 支持多种格式与功能</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/372/">Hard Disk Sentinel Pro v6.30.5b 硬盘监控工具 - Windows软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-windows/369/">迅雷12 舒爽版 v12.4.7.3858 去广告版下载 - Windows软件</a></li>
 </ul>
 
 <div class="cta-section">
@@ -91,18 +91,18 @@ permalink: "/categories/software-windows/"
   "@type": "CollectionPage",
   "name": "Windows软件 - 资源分类",
   "description": "提供Windows平台必备软件下载，包括系统优化工具、维护软件和实用工具，提升电脑性能",
-  "numberOfItems": 126,
+  "numberOfItems": 141,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 126,
+    "numberOfItems": 141,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "PureCodec v20251130 视频播放器完美解码 - 多媒体播放器",
-          "url": "https://panbox.cc/resources/448"
+          "name": "WimTool v1.8.2025.11.25 WIN映像文件处理工具 - 系统维护高效工具",
+          "url": "https://panbox.cc/resources/470"
         }
       },
       {
@@ -110,8 +110,8 @@ permalink: "/categories/software-windows/"
         "position": 2,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "局域网共享精灵 v20251110 Windows版下载 - 文件共享与打印机共享神器",
-          "url": "https://panbox.cc/resources/447"
+          "name": "Windows Geek Uninstaller v1.5.3.170 中文便携版 - 卸载工具",
+          "url": "https://panbox.cc/resources/469"
         }
       },
       {
@@ -119,8 +119,8 @@ permalink: "/categories/software-windows/"
         "position": 3,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "OneCommander v3.104.1.0 Windows文件管理器免费版下载 - 现代双窗格浏览器",
-          "url": "https://panbox.cc/resources/446"
+          "name": "傲梅分区助手特别中文版 v10.9.2 破解版下载 - Windows磁盘分区管理工具",
+          "url": "https://panbox.cc/resources/468"
         }
       },
       {
@@ -128,8 +128,8 @@ permalink: "/categories/software-windows/"
         "position": 4,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "维克日记 v1.5.0 免费开源日记软件 - 支持Markdown",
-          "url": "https://panbox.cc/resources/445"
+          "name": "XnView MP v1.9.6.0 免费版下载 - 图片浏览器与管理工具",
+          "url": "https://panbox.cc/resources/467"
         }
       },
       {
@@ -137,8 +137,8 @@ permalink: "/categories/software-windows/"
         "position": 5,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "闪电藤 v3.1.7 跨平台局域网文件传输工具 - 免费版下载",
-          "url": "https://panbox.cc/resources/442"
+          "name": "微信视频号下载工具 v251201 - 支持直播回放和实时直播",
+          "url": "https://panbox.cc/resources/466"
         }
       },
       {
@@ -146,8 +146,8 @@ permalink: "/categories/software-windows/"
         "position": 6,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Axialis IconWorkshop v6.9.7.0 汉化版 - 图标制作工具",
-          "url": "https://panbox.cc/resources/441"
+          "name": "U盘歌单管理器 v5.4.0 - 音乐U盘播放列表制作工具",
+          "url": "https://panbox.cc/resources/465"
         }
       },
       {
@@ -155,8 +155,8 @@ permalink: "/categories/software-windows/"
         "position": 7,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "局域网共享一键通 v2.0.10.2 免费版下载 - Windows软件 局域网共享工具",
-          "url": "https://panbox.cc/resources/440"
+          "name": "RisohEditor v5.9.3 免费Win32资源编辑器 - 多语言支持",
+          "url": "https://panbox.cc/resources/464"
         }
       },
       {
@@ -164,8 +164,8 @@ permalink: "/categories/software-windows/"
         "position": 8,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Brave浏览器 v1.84.141 - 强调隐私安全的Chromium浏览器",
-          "url": "https://panbox.cc/resources/439"
+          "name": "Directory Opus v13.20 文件管理器软件 - 破解版下载",
+          "url": "https://panbox.cc/resources/463"
         }
       },
       {
@@ -173,8 +173,8 @@ permalink: "/categories/software-windows/"
         "position": 9,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Privacy Eraser v6.24.2.5410 电脑隐私清理工具 - 单文件便携版",
-          "url": "https://panbox.cc/resources/438"
+          "name": "DiskDigger 数据恢复软件 v2.0.13.4139 多语便携版 - 免费下载",
+          "url": "https://panbox.cc/resources/462"
         }
       },
       {
@@ -182,8 +182,8 @@ permalink: "/categories/software-windows/"
         "position": 10,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "OBS Studio v32.0.2 录屏直播软件 - 高效视频音频捕获",
-          "url": "https://panbox.cc/resources/437"
+          "name": "Windows PDF专业签章工具 v3.6 - 高效盖章与骑缝章功能",
+          "url": "https://panbox.cc/resources/461"
         }
       }
     ]

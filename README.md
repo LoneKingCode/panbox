@@ -2,10 +2,10 @@
 
 > **专业的资源索引和导航平台** - 提供海量免费AI资源、源码下载、软件工具、学习课程等优质内容 | [访问主站获取完整功能](https://panbox.cc)
 
-![资源总数](https://img.shields.io/badge/资源总数-257-blue)
+![资源总数](https://img.shields.io/badge/资源总数-279-blue)
 ![分类数量](https://img.shields.io/badge/分类数量-10-green)
 ![最后更新](https://img.shields.io/badge/最后更新-20251205-orange)
-
+![今日更新](https://img.shields.io/badge/今日更新-22-success)
 
 ## 📋 目录
 
@@ -18,7 +18,7 @@
 
 ## ✨ 特色功能
 
-- 🎯 **海量资源**: 超过 257 个免费资源，涵盖AI、源码、软件、课程等
+- 🎯 **海量资源**: 超过 279 个免费资源，涵盖AI、源码、软件、课程等
 - 📂 **分类清晰**: 10 个专业分类，快速定位所需资源
 - 🔍 **搜索便捷**: 支持全文搜索和高级筛选
 - 📱 **移动友好**: 完美适配移动端，随时随地访问
@@ -56,36 +56,36 @@
 
 | 序号 | 资源标题 | 分类 | 更新时间 |
 |------|---------|------|---------|
-| 1 | <a href="https://panbox.cc/resources/448" target="_blank">PureCodec v20251130 视频播放器完美解码 - 多媒体播放器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/448/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 2 | <a href="https://panbox.cc/resources/447" target="_blank">局域网共享精灵 v20251110 Windows版下载 - 文件共享与打印机共享神器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/447/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 3 | <a href="https://panbox.cc/resources/446" target="_blank">OneCommander v3.104.1.0 Windows文件管理器免费版下载 - 现代双窗格浏...</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/446/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 4 | <a href="https://panbox.cc/resources/445" target="_blank">维克日记 v1.5.0 免费开源日记软件 - 支持Markdown</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/445/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 5 | <a href="https://panbox.cc/resources/444" target="_blank">洛雪音乐APP v1.8.0 免费听音乐 - 官方版下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/444/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-01 |
-| 6 | <a href="https://panbox.cc/resources/443" target="_blank">洛雪音乐 v2.12.0 免费版 - 多平台音乐播放器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-mac/443/" target="_blank">索引</a>)</small> | Mac软件 | 2025-12-01 |
-| 7 | <a href="https://panbox.cc/resources/442" target="_blank">闪电藤 v3.1.7 跨平台局域网文件传输工具 - 免费版下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/442/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 8 | <a href="https://panbox.cc/resources/441" target="_blank">Axialis IconWorkshop v6.9.7.0 汉化版 - 图标制作工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/441/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 9 | <a href="https://panbox.cc/resources/440" target="_blank">局域网共享一键通 v2.0.10.2 免费版下载 - Windows软件 局域网共享工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/440/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 10 | <a href="https://panbox.cc/resources/439" target="_blank">Brave浏览器 v1.84.141 - 强调隐私安全的Chromium浏览器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/439/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 11 | <a href="https://panbox.cc/resources/438" target="_blank">Privacy Eraser v6.24.2.5410 电脑隐私清理工具 - 单文件便携版</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/438/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 12 | <a href="https://panbox.cc/resources/437" target="_blank">OBS Studio v32.0.2 录屏直播软件 - 高效视频音频捕获</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/437/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 13 | <a href="https://panbox.cc/resources/436" target="_blank">CareUEyes v2.4.11.0 护眼软件免费版下载 - Windows</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/436/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 14 | <a href="https://panbox.cc/resources/435" target="_blank">XMind v26.1.7145.202511181821 思维导图软件下载 - 多样化结构高效协作</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/435/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 15 | <a href="https://panbox.cc/resources/434" target="_blank">WinMerge v2.16.52.2 文件对比工具 - Windows实用工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/434/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 16 | <a href="https://panbox.cc/resources/433" target="_blank">Inno Setup v6.6.1 汉化增强版 - Windows安装包制作软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/433/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 17 | <a href="https://panbox.cc/resources/432" target="_blank">PDFgear v2.1.14.0 PDF阅读编辑转换软件 - 免费版下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/432/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 18 | <a href="https://panbox.cc/resources/431" target="_blank">圣诞节快乐主题宣传单页设计 - 设计素材</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/source-code-frontend/431/" target="_blank">索引</a>)</small> | 前端源码 | 2025-12-01 |
-| 19 | <a href="https://panbox.cc/resources/430" target="_blank">Windows InnoExtractor 解包工具 v11.1.0.153 五语版精简版 - 提取...</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/430/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 20 | <a href="https://panbox.cc/resources/429" target="_blank">RegCool v3.0.0.1 注册表编辑管理工具 - 中文绿色版</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/429/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 21 | <a href="https://panbox.cc/resources/428" target="_blank">洛雪音乐助手PC版 v2.12.0 beta14 免费音乐聚合软件下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/428/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 22 | <a href="https://panbox.cc/resources/427" target="_blank">123云盘PC版客户端 v2.1.0 绿色版下载 - 提供2T空间</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/427/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 23 | <a href="https://panbox.cc/resources/426" target="_blank">xb21cn精简Office 2025年11月更新版 - 绿色版永久激活</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-portable/426/" target="_blank">索引</a>)</small> | 绿色软件 | 2025-12-01 |
-| 24 | <a href="https://panbox.cc/resources/425" target="_blank">Stardock Start11 v3.9.14.5310 破解版 - Windows 开始菜单增强...</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/425/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 25 | <a href="https://panbox.cc/resources/424" target="_blank">Visual C++运行库合集轻量版2025年11月v03下载 - Windows系统必备</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/424/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 26 | <a href="https://panbox.cc/resources/423" target="_blank">Visual C++ 运行库合集 2025.11.24 免费下载 - Windows系统必备库</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/423/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 27 | <a href="https://panbox.cc/resources/422" target="_blank">Mirillis Action! v4.46.0 中文注册绿色便携版 - 屏幕录制软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/422/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 28 | <a href="https://panbox.cc/resources/421" target="_blank">Uninstall Tool 3.8.1.5740 中文破解版下载 - Windows专业卸载工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/421/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
-| 29 | <a href="https://panbox.cc/resources/420" target="_blank">安卓悟空下载 v1.3.7 VIP会员解锁纯净版 - 无广告高速下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/420/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-01 |
-| 30 | <a href="https://panbox.cc/resources/419" target="_blank">安卓速度下载 v1.2.9 去广告会员版 - 多媒体资源下载神器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/419/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-01 |
+| 1 | <a href="https://panbox.cc/resources/470" target="_blank">WimTool v1.8.2025.11.25 WIN映像文件处理工具 - 系统维护高效工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/470/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 2 | <a href="https://panbox.cc/resources/469" target="_blank">Windows Geek Uninstaller v1.5.3.170 中文便携版 - 卸载工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/469/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 3 | <a href="https://panbox.cc/resources/468" target="_blank">傲梅分区助手特别中文版 v10.9.2 破解版下载 - Windows磁盘分区管理工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/468/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 4 | <a href="https://panbox.cc/resources/467" target="_blank">XnView MP v1.9.6.0 免费版下载 - 图片浏览器与管理工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/467/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 5 | <a href="https://panbox.cc/resources/466" target="_blank">微信视频号下载工具 v251201 - 支持直播回放和实时直播</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/466/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 6 | <a href="https://panbox.cc/resources/465" target="_blank">U盘歌单管理器 v5.4.0 - 音乐U盘播放列表制作工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/465/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 7 | <a href="https://panbox.cc/resources/464" target="_blank">RisohEditor v5.9.3 免费Win32资源编辑器 - 多语言支持</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/464/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 8 | <a href="https://panbox.cc/resources/463" target="_blank">Directory Opus v13.20 文件管理器软件 - 破解版下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/463/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 9 | <a href="https://panbox.cc/resources/462" target="_blank">DiskDigger 数据恢复软件 v2.0.13.4139 多语便携版 - 免费下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/462/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 10 | <a href="https://panbox.cc/resources/461" target="_blank">Windows PDF专业签章工具 v3.6 - 高效盖章与骑缝章功能</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/461/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 11 | <a href="https://panbox.cc/resources/460" target="_blank">Windows Biu音乐播放器 v1.6.0 独立版可登账号 - 绿色单文件播放器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/460/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 12 | <a href="https://panbox.cc/resources/459" target="_blank">Windows 浩然工具箱 v2.3 - 多功能绿色工具箱</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/459/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 13 | <a href="https://panbox.cc/resources/458" target="_blank">Windows 重复文件清理工具 v1.6 绿色便携版 - 无需安装一键瘦身</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/458/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 14 | <a href="https://panbox.cc/resources/457" target="_blank">微信视频号下载工具 v2.4 绿色版 - 视频直播下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/457/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 15 | <a href="https://panbox.cc/resources/456" target="_blank">Windows 发票排版打印软件 v1.0 绿色纯净版 - 提升工作效率</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/456/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-05 |
+| 16 | <a href="https://panbox.cc/resources/455" target="_blank">漫画搜索神器Cimoc v1.7.266 - 手机看漫画软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/455/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-05 |
+| 17 | <a href="https://panbox.cc/resources/454" target="_blank">安卓糖豆广场舞 v8.6.6 / 糖豆广场舞TV版 v3.2.0 去广告解锁VIP会员版下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/454/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-05 |
+| 18 | <a href="https://panbox.cc/resources/453" target="_blank">安卓文本编辑器QuickEdit v1.12.3.257 高级版破解下载 - 手机和平板专业文本编辑</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/453/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-05 |
+| 19 | <a href="https://panbox.cc/resources/452" target="_blank">安卓版手机清理优化 Avast Cleanup v25.24.0 去广告版下载 - 提升手机运行速度</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/452/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-05 |
+| 20 | <a href="https://panbox.cc/resources/451" target="_blank">安卓OK影视 v3.8.2 最新电视版 - 开源TV盒子下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/451/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-05 |
+| 21 | <a href="https://panbox.cc/resources/450" target="_blank">Calculator安卓版 v2.5.2 去广告修改版 - 强大的科学计算器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/450/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-05 |
+| 22 | <a href="https://panbox.cc/resources/449" target="_blank">阅读APP最新版 v3.25.11300000 解除限制版 - 免费小说阅读神器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/449/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-05 |
+| 23 | <a href="https://panbox.cc/resources/448" target="_blank">PureCodec v20251130 视频播放器完美解码 - 多媒体播放器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/448/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
+| 24 | <a href="https://panbox.cc/resources/447" target="_blank">局域网共享精灵 v20251110 Windows版下载 - 文件共享与打印机共享神器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/447/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
+| 25 | <a href="https://panbox.cc/resources/446" target="_blank">OneCommander v3.104.1.0 Windows文件管理器免费版下载 - 现代双窗格浏...</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/446/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
+| 26 | <a href="https://panbox.cc/resources/445" target="_blank">维克日记 v1.5.0 免费开源日记软件 - 支持Markdown</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/445/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
+| 27 | <a href="https://panbox.cc/resources/444" target="_blank">洛雪音乐APP v1.8.0 免费听音乐 - 官方版下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/444/" target="_blank">索引</a>)</small> | 手机APP | 2025-12-01 |
+| 28 | <a href="https://panbox.cc/resources/443" target="_blank">洛雪音乐 v2.12.0 免费版 - 多平台音乐播放器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-mac/443/" target="_blank">索引</a>)</small> | Mac软件 | 2025-12-01 |
+| 29 | <a href="https://panbox.cc/resources/442" target="_blank">闪电藤 v3.1.7 跨平台局域网文件传输工具 - 免费版下载</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/442/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
+| 30 | <a href="https://panbox.cc/resources/441" target="_blank">Axialis IconWorkshop v6.9.7.0 汉化版 - 图标制作工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/441/" target="_blank">索引</a>)</small> | Windows软件 | 2025-12-01 |
 
 > 👉 **[查看更多最新资源 →](https://panbox.cc/resources)** | **[访问主站获取完整功能](https://panbox.cc)**
 
@@ -103,10 +103,10 @@
 
 ## 📊 统计信息
 
-- **总资源数**: 257 个
+- **总资源数**: 279 个
 - **分类数量**: 10 个
-- **最后更新**: 2025-12-05 08:30:02
-
+- **最后更新**: 2025-12-05 09:00:02
+- **今日更新**: 22 个
 
 ---
 
@@ -142,6 +142,6 @@
 
 ---
 
-**最后更新**: 2025-12-05 08:30:02  
+**最后更新**: 2025-12-05 09:00:02  
 **主站点**: [https://panbox.cc](https://panbox.cc)  
 **GitHub Pages**: [https://LoneKingCode.github.io/panbox](https://LoneKingCode.github.io/panbox)

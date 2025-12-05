@@ -1,10 +1,10 @@
 {
-  "total_resources": 257,
+  "total_resources": 279,
   "total_categories": 10,
-  "today_updates": 0,
+  "today_updates": 22,
   "category_counts": {
-    "software-windows": 126,
-    "software-apps": 68,
+    "software-windows": 141,
+    "software-apps": 75,
     "software-mac": 1,
     "source-code-frontend": 5,
     "software-portable": 7,
@@ -13,5 +13,5 @@
     "ai-courses": 7,
     "source-code-mobile": 10
   },
-  "last_updated": "2025-12-05T08:30:02.413095"
+  "last_updated": "2025-12-05T09:00:02.773315"
 }
