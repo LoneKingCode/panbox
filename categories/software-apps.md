@@ -5,7 +5,7 @@ description: "收录全面的手机APP资源，包括官方原版APP、破解版
 keywords: ["手机APP", "免费下载", "网盘资源"]
 category: "手机APP"
 category_slug: "software-apps"
-resource_count: 81
+resource_count: 86
 og_title: "手机APP - 资源分类"
 og_description: "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏"
 og_type: "website"
@@ -19,9 +19,14 @@ permalink: "/categories/software-apps/"
 
 <p>收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏</p>
 
-<h2>📦 资源列表（共 81 个）</h2>
+<h2>📦 资源列表（共 86 个）</h2>
 
 <ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/497/">Android ATool 全能媒体处理工具_v1.09</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/496/">Android 摸鱼侠 v1.0.1 带薪摸鱼计算器下载 - 实用有趣的安卓时间管理工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/495/">Android 图片压缩魔 v1.004 - 小巧高效的图片压缩工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/494/">Computer Science Calculations v4.2.7 安卓版下载 - IT工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/493/">Android JM浏览器 v1.0.0 - 轻量级聚合搜索浏览器</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/492/">最强算数 v1.1.3 Android版下载 - 提升心算能力的趣味训练软件</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/490/">Android 乐果字典 v1.0.5 离线汉语字典下载 - 全面支持现代汉语与文言文</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/489/">多钱浏览器 Android v1.0.2 - 小巧轻便 安全快速</a></li>
@@ -67,11 +72,6 @@ permalink: "/categories/software-apps/"
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/266/">安卓博树Busuu v32.25.0 解锁高级破解版 - 多语言学习神器</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/265/">安卓元气桌面壁纸 v3.56.4364 去广告会员版 - 美化桌面神器</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/264/">安卓3C一体工具箱 Pro v3.1.4e 高级专业版 - 全面设备管理工具</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/263/">安卓超强磁力下载 v1.5.4 会员解锁版 - 快速下载神器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/262/">DJ串烧库 v2.0.3 解锁极高音质/无需登录 - Android 音乐播放器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/261/">PiliPlus v1.1.5 第三方哔哩哔哩客户端 - 界面简洁无广告</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/260/">Android 燃脂腹肌速成 v1.1.1 - AI私人教练健身软件</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/259/">Android 超级视力表 v2.0.0 - 多功能视力测试与健康监测</a></li>
 </ul>
 
 <div class="cta-section">
@@ -91,14 +91,59 @@ permalink: "/categories/software-apps/"
   "@type": "CollectionPage",
   "name": "手机APP - 资源分类",
   "description": "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏",
-  "numberOfItems": 81,
+  "numberOfItems": 86,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 81,
+    "numberOfItems": 86,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android ATool 全能媒体处理工具_v1.09",
+          "url": "https://panbox.cc/resources/497"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android 摸鱼侠 v1.0.1 带薪摸鱼计算器下载 - 实用有趣的安卓时间管理工具",
+          "url": "https://panbox.cc/resources/496"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android 图片压缩魔 v1.004 - 小巧高效的图片压缩工具",
+          "url": "https://panbox.cc/resources/495"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Computer Science Calculations v4.2.7 安卓版下载 - IT工具",
+          "url": "https://panbox.cc/resources/494"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android JM浏览器 v1.0.0 - 轻量级聚合搜索浏览器",
+          "url": "https://panbox.cc/resources/493"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
         "item": {
           "@type": "SoftwareApplication",
           "name": "最强算数 v1.1.3 Android版下载 - 提升心算能力的趣味训练软件",
@@ -107,7 +152,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 2,
+        "position": 7,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Android 乐果字典 v1.0.5 离线汉语字典下载 - 全面支持现代汉语与文言文",
@@ -116,7 +161,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 3,
+        "position": 8,
         "item": {
           "@type": "SoftwareApplication",
           "name": "多钱浏览器 Android v1.0.2 - 小巧轻便 安全快速",
@@ -125,7 +170,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 4,
+        "position": 9,
         "item": {
           "@type": "SoftwareApplication",
           "name": "安卓离线听书随心听书 v1.0.1 - 离线听书应用",
@@ -134,56 +179,11 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 5,
+        "position": 10,
         "item": {
           "@type": "SoftwareApplication",
           "name": "安卓全免去水印大师 v1.7.6 免费版下载 - 视频图片去水印工具",
           "url": "https://panbox.cc/resources/472"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Yamicsoft Windows Manager 2.3.2 中文破解版下载 - Windows10/11系统优化工具",
-          "url": "https://panbox.cc/resources/471"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "漫画搜索神器Cimoc v1.7.266 - 手机看漫画软件",
-          "url": "https://panbox.cc/resources/455"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "安卓糖豆广场舞 v8.6.6 / 糖豆广场舞TV版 v3.2.0 去广告解锁VIP会员版下载",
-          "url": "https://panbox.cc/resources/454"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 9,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "安卓文本编辑器QuickEdit v1.12.3.257 高级版破解下载 - 手机和平板专业文本编辑",
-          "url": "https://panbox.cc/resources/453"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 10,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "安卓版手机清理优化 Avast Cleanup v25.24.0 去广告版下载 - 提升手机运行速度",
-          "url": "https://panbox.cc/resources/452"
         }
       }
     ]
