@@ -56,6 +56,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://LoneKingCode.github.io/panbox/resources/software-windows/512/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://LoneKingCode.github.io/panbox/resources/software-windows/511/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://LoneKingCode.github.io/panbox/resources/software-windows/510/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://LoneKingCode.github.io/panbox/resources/software-windows/509/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://LoneKingCode.github.io/panbox/resources/software-windows/508/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://LoneKingCode.github.io/panbox/resources/software-apps/507/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
