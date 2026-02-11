@@ -6,22 +6,22 @@ description: 所有资源标签，按热度排序
 
 # 🏷️ 标签云
 
-共 855 个标签
+共 858 个标签
 
 ## 热门标签
 
 - [Windows软件](https://LoneKingCode.github.io/panbox/tags/windows软件/) (159)
 - [免费版](https://LoneKingCode.github.io/panbox/tags/免费版/) (44)
 - [免费下载](https://LoneKingCode.github.io/panbox/tags/免费下载/) (31)
-- [实用工具](https://LoneKingCode.github.io/panbox/tags/实用工具/) (22)
+- [实用工具](https://LoneKingCode.github.io/panbox/tags/实用工具/) (23)
 - [绿色软件](https://LoneKingCode.github.io/panbox/tags/绿色软件/) (20)
 - [系统优化](https://LoneKingCode.github.io/panbox/tags/系统优化/) (18)
 - [开源软件](https://LoneKingCode.github.io/panbox/tags/开源软件/) (18)
 - [最新版](https://LoneKingCode.github.io/panbox/tags/最新版/) (17)
 - [无广告](https://LoneKingCode.github.io/panbox/tags/无广告/) (14)
 - [去广告](https://LoneKingCode.github.io/panbox/tags/去广告/) (14)
+- [Android软件](https://LoneKingCode.github.io/panbox/tags/android软件/) (13)
 - [安卓软件](https://LoneKingCode.github.io/panbox/tags/安卓软件/) (13)
-- [Android软件](https://LoneKingCode.github.io/panbox/tags/android软件/) (12)
 - [去广告版](https://LoneKingCode.github.io/panbox/tags/去广告版/) (12)
 - [手机APP](https://LoneKingCode.github.io/panbox/tags/手机app/) (11)
 - [绿色版](https://LoneKingCode.github.io/panbox/tags/绿色版/) (9)
@@ -36,15 +36,15 @@ description: 所有资源标签，按热度排序
 - [Windows软件](https://LoneKingCode.github.io/panbox/tags/windows软件/) (159)
 - [免费版](https://LoneKingCode.github.io/panbox/tags/免费版/) (44)
 - [免费下载](https://LoneKingCode.github.io/panbox/tags/免费下载/) (31)
-- [实用工具](https://LoneKingCode.github.io/panbox/tags/实用工具/) (22)
+- [实用工具](https://LoneKingCode.github.io/panbox/tags/实用工具/) (23)
 - [绿色软件](https://LoneKingCode.github.io/panbox/tags/绿色软件/) (20)
 - [系统优化](https://LoneKingCode.github.io/panbox/tags/系统优化/) (18)
 - [开源软件](https://LoneKingCode.github.io/panbox/tags/开源软件/) (18)
 - [最新版](https://LoneKingCode.github.io/panbox/tags/最新版/) (17)
 - [无广告](https://LoneKingCode.github.io/panbox/tags/无广告/) (14)
 - [去广告](https://LoneKingCode.github.io/panbox/tags/去广告/) (14)
+- [Android软件](https://LoneKingCode.github.io/panbox/tags/android软件/) (13)
 - [安卓软件](https://LoneKingCode.github.io/panbox/tags/安卓软件/) (13)
-- [Android软件](https://LoneKingCode.github.io/panbox/tags/android软件/) (12)
 - [去广告版](https://LoneKingCode.github.io/panbox/tags/去广告版/) (12)
 - [手机APP](https://LoneKingCode.github.io/panbox/tags/手机app/) (11)
 - [绿色版](https://LoneKingCode.github.io/panbox/tags/绿色版/) (9)
@@ -185,6 +185,9 @@ description: 所有资源标签，按热度排序
 - [域名管理](https://LoneKingCode.github.io/panbox/tags/域名管理/) (2)
 - [移动源码](https://LoneKingCode.github.io/panbox/tags/移动源码/) (2)
 - [支付系统](https://LoneKingCode.github.io/panbox/tags/支付系统/) (2)
+- [心算训练](https://LoneKingCode.github.io/panbox/tags/心算训练/) (1)
+- [数学学习](https://LoneKingCode.github.io/panbox/tags/数学学习/) (1)
+- [趣味教育](https://LoneKingCode.github.io/panbox/tags/趣味教育/) (1)
 - [本地阅读](https://LoneKingCode.github.io/panbox/tags/本地阅读/) (1)
 - [纯净](https://LoneKingCode.github.io/panbox/tags/纯净/) (1)
 - [汉语字典](https://LoneKingCode.github.io/panbox/tags/汉语字典/) (1)
