@@ -5,7 +5,7 @@ description: "收录全面的手机APP资源，包括官方原版APP、破解版
 keywords: ["手机APP", "免费下载", "网盘资源"]
 category: "手机APP"
 category_slug: "software-apps"
-resource_count: 86
+resource_count: 93
 og_title: "手机APP - 资源分类"
 og_description: "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏"
 og_type: "website"
@@ -19,10 +19,17 @@ permalink: "/categories/software-apps/"
 
 <p>收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏</p>
 
-<h2>📦 资源列表（共 86 个）</h2>
+<h2>📦 资源列表（共 93 个）</h2>
 
 <ul class="resource-list">
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/497/">Android ATool 全能媒体处理工具_v1.09</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/504/">Android 亿万清 v1.0.0 创建习惯管理软件 - 提醒打卡</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/503/">Android 眼力测试 v1.0.8 下载 - 视力测试与脑力锻炼</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/502/">Android GO桌面S v1.21 - 个性化手机桌面定制</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/501/">Android 小鹿txt编辑器 v29.0 - 简洁高效的文本编辑工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/500/">Parallel Space v4.0.9553 Android 平行空间 - 多账号登录 克隆应用</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/499/">Android 橙子去水印 v3.1.15 - 无广告高效去水印工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/498/">Android 动作录制器 v2.0.4 - 实时操作录制与回放</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/497/">Android ATool 全能媒体处理工具 v1.09 - 多媒体处理神器</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/496/">Android 摸鱼侠 v1.0.1 带薪摸鱼计算器下载 - 实用有趣的安卓时间管理工具</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/495/">Android 图片压缩魔 v1.004 - 小巧高效的图片压缩工具</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/494/">Computer Science Calculations v4.2.7 安卓版下载 - IT工具</a></li>
@@ -65,13 +72,6 @@ permalink: "/categories/software-apps/"
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/374/">Android 表情包大全 v2.2.4 免费下载 - 极简设计 模糊搜索 DIY表情</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/358/">Android 监控相机 v1.2.12 - 行车记录+监控抓拍</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/357/">安卓彩云天气 v7.47 高级版 - 分钟级降水预报</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/350/">GKD v1.11.3 安卓开屏广告跳过软件 - 去广告神器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/330/">Google Play Store v48.5.26 官方版下载 - Android应用商店客户端</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/329/">Android Just Player 视频播放器 v0.170 免费版下载 - 开源无广告</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/310/">Breezy Weather v6.0.12 免费无广告天气APP - Android</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/266/">安卓博树Busuu v32.25.0 解锁高级破解版 - 多语言学习神器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/265/">安卓元气桌面壁纸 v3.56.4364 去广告会员版 - 美化桌面神器</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/264/">安卓3C一体工具箱 Pro v3.1.4e 高级专业版 - 全面设备管理工具</a></li>
 </ul>
 
 <div class="cta-section">
@@ -91,23 +91,86 @@ permalink: "/categories/software-apps/"
   "@type": "CollectionPage",
   "name": "手机APP - 资源分类",
   "description": "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏",
-  "numberOfItems": 86,
+  "numberOfItems": 93,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 86,
+    "numberOfItems": 93,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
         "item": {
           "@type": "SoftwareApplication",
-          "name": "Android ATool 全能媒体处理工具_v1.09",
-          "url": "https://panbox.cc/resources/497"
+          "name": "Android 亿万清 v1.0.0 创建习惯管理软件 - 提醒打卡",
+          "url": "https://panbox.cc/resources/504"
         }
       },
       {
         "@type": "ListItem",
         "position": 2,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android 眼力测试 v1.0.8 下载 - 视力测试与脑力锻炼",
+          "url": "https://panbox.cc/resources/503"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android GO桌面S v1.21 - 个性化手机桌面定制",
+          "url": "https://panbox.cc/resources/502"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android 小鹿txt编辑器 v29.0 - 简洁高效的文本编辑工具",
+          "url": "https://panbox.cc/resources/501"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Parallel Space v4.0.9553 Android 平行空间 - 多账号登录 克隆应用",
+          "url": "https://panbox.cc/resources/500"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android 橙子去水印 v3.1.15 - 无广告高效去水印工具",
+          "url": "https://panbox.cc/resources/499"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android 动作录制器 v2.0.4 - 实时操作录制与回放",
+          "url": "https://panbox.cc/resources/498"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android ATool 全能媒体处理工具 v1.09 - 多媒体处理神器",
+          "url": "https://panbox.cc/resources/497"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Android 摸鱼侠 v1.0.1 带薪摸鱼计算器下载 - 实用有趣的安卓时间管理工具",
@@ -116,74 +179,11 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 3,
+        "position": 10,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Android 图片压缩魔 v1.004 - 小巧高效的图片压缩工具",
           "url": "https://panbox.cc/resources/495"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 4,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Computer Science Calculations v4.2.7 安卓版下载 - IT工具",
-          "url": "https://panbox.cc/resources/494"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 5,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Android JM浏览器 v1.0.0 - 轻量级聚合搜索浏览器",
-          "url": "https://panbox.cc/resources/493"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 6,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "最强算数 v1.1.3 Android版下载 - 提升心算能力的趣味训练软件",
-          "url": "https://panbox.cc/resources/492"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 7,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Android 乐果字典 v1.0.5 离线汉语字典下载 - 全面支持现代汉语与文言文",
-          "url": "https://panbox.cc/resources/490"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "多钱浏览器 Android v1.0.2 - 小巧轻便 安全快速",
-          "url": "https://panbox.cc/resources/489"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 9,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "安卓离线听书随心听书 v1.0.1 - 离线听书应用",
-          "url": "https://panbox.cc/resources/473"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 10,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "安卓全免去水印大师 v1.7.6 免费版下载 - 视频图片去水印工具",
-          "url": "https://panbox.cc/resources/472"
         }
       }
     ]

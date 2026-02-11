@@ -1,11 +1,132 @@
 [
   {
-    "id": "497",
-    "title": "Android ATool 全能媒体处理工具_v1.09",
-    "description": "<article>\n<h3 id=\"header-0\"><strong>软件介绍</strong></h3>\n<p>Atool是一款专为安卓设备打造的多功能媒体处理工具，它的设计理念就是将所有常用的媒体处理功能整合到一个应用中，让用户无需在多个软件之间来回切换，一站式解决所有问题。这款软件界面简洁直观，采用深色主题设计，不仅美观大方，更适合长时间使用，不会造成视觉疲劳。</p>\n<p>在视频处理方",
+    "id": "504",
+    "title": "Android 亿万清 v1.0.0 创建习惯管理软件 - 提醒打卡",
+    "description": "<p>Android 亿万清是一款专为习惯管理设计的应用，帮助用户创建个性化习惯，设置专属提醒和打卡记录，有效管理时间，养成良好习惯。通过每日提醒和打卡日历功能，确保用户不会错过任何重要的习惯养成时间，轻松跟踪习惯养成进度。</p><p><img src=\"/upload/image/2026-02-11/external-1770802082781-vlzsi0.webp\"></p>\n<h3>主",
     "category": "手机APP",
     "category_slug": "software-apps",
-    "tags": [],
+    "tags": [
+      "手机APP",
+      "习惯管理",
+      "提醒工具",
+      "打卡日历",
+      "个性化服务"
+    ],
+    "created_at": "2026-02-11 09:28:50.499000",
+    "file_size": "7.85 MB"
+  },
+  {
+    "id": "503",
+    "title": "Android 眼力测试 v1.0.8 下载 - 视力测试与脑力锻炼",
+    "description": "<p>Android 眼力测试 v1.0.8 是一款集色盲色弱检测、数字敏感度测试、色盲种类测试于一体的视力测试软件，还提供脑力锻炼功能，帮助用户提升视力和反应速度。软件操作简单，适合需要了解自身视力状况和提升视力的人群。</p><p><img src=\"/upload/image/2026-02-11/external-1770802024749-hlspoy.webp\"></p>",
+    "category": "手机APP",
+    "category_slug": "software-apps",
+    "tags": [
+      "手机APP",
+      "视力测试",
+      "脑力锻炼",
+      "色盲测试",
+      "数字敏感度测试"
+    ],
+    "created_at": "2026-02-11 09:27:54.086000",
+    "file_size": "16.97 MB"
+  },
+  {
+    "id": "502",
+    "title": "Android GO桌面S v1.21 - 个性化手机桌面定制",
+    "description": "<p>GO桌面S是一款高度自定义的Android桌面软件，用户可根据个人喜好自由选择和更换主题，打造个性化手机界面。丰富的主题库满足各种审美需求，同时优化操作流畅性和提供智能整理、一键清理等功能，提升使用效率。</p><p><img src=\"/upload/image/2026-02-11/external-1770801962200-tn00x2.webp\"></p>",
+    "category": "手机APP",
+    "category_slug": "software-apps",
+    "tags": [
+      "手机APP",
+      "个性化桌面",
+      "自定义主题",
+      "智能整理",
+      "安卓软件"
+    ],
+    "created_at": "2026-02-11 09:26:57.957000",
+    "file_size": "34.16 MB"
+  },
+  {
+    "id": "501",
+    "title": "Android 小鹿txt编辑器 v29.0 - 简洁高效的文本编辑工具",
+    "description": "<p>小鹿txt编辑器是一款专为安卓用户设计的简洁高效的文本编辑工具。它支持.txt格式的文本文件，帮助用户轻松记录笔记、编写备忘录或进行简单的文档编辑。软件界面简洁直观，无多余复杂功能，让用户专注于文本内容本身，提高编辑效率。安装包仅12.6M，运行流畅，适用于各种配置的安卓设备。</p><p><img src=\"/upload/image/2026-02-11/external-1770801",
+    "category": "手机APP",
+    "category_slug": "software-apps",
+    "tags": [
+      "手机APP",
+      "文本编辑",
+      "轻量级",
+      "安卓14",
+      "高效编辑"
+    ],
+    "created_at": "2026-02-11 09:22:50.892000",
+    "file_size": "12.59 MB"
+  },
+  {
+    "id": "500",
+    "title": "Parallel Space v4.0.9553 Android 平行空间 - 多账号登录 克隆应用",
+    "description": "<p>Parallel Space是一款强大的Android应用，允许用户在同一设备上登录多个应用账号，支持微信、QQ、Telegram等常用应用的克隆，有效保护隐私并避免数据干扰。支持24种语言，提供通知管理和应用锁功能，增强安全性。支持快速切换，极大提升使用效率。适合需要多账号管理的用户。</p><p><img src=\"/upload/image/2026-02-11/external-17",
+    "category": "手机APP",
+    "category_slug": "software-apps",
+    "tags": [
+      "Android应用",
+      "多账号登录",
+      "克隆应用",
+      "隐私保护",
+      "应用锁",
+      "快速切换"
+    ],
+    "created_at": "2026-02-11 09:21:50.453000",
+    "file_size": "48.19 MB"
+  },
+  {
+    "id": "499",
+    "title": "Android 橙子去水印 v3.1.15 - 无广告高效去水印工具",
+    "description": "<p>“橙子去水印”是一款专为Android用户设计的高效去水印工具，支持150多个热门短视频平台的无水印视频提取，一键去除视频和图片中的水印，界面简洁易用，支持批量处理，大大提高工作效率，无广告无会员，纯净使用环境。</p><p><img src=\"/upload/image/2026-02-11/external-1770801585735-m4zy8s.webp\"></p>",
+    "category": "手机APP",
+    "category_slug": "software-apps",
+    "tags": [
+      "去水印工具",
+      "Android软件",
+      "视频处理",
+      "图片处理",
+      "无广告",
+      "高效"
+    ],
+    "created_at": "2026-02-11 09:20:45.460000",
+    "file_size": "28.06 MB"
+  },
+  {
+    "id": "498",
+    "title": "Android 动作录制器 v2.0.4 - 实时操作录制与回放",
+    "description": "<p>Android 动作录制器 v2.0.4 是一款专为安卓用户设计的自动连点器软件，支持实时录制并自动重复执行手机上的各种操作，无需root权限，即下即用，非常方便。适用于各种操作流程的自动化需求，提升工作效率。</p><p><img src=\"/upload/image/2026-02-11/external-1770800483985-5b5ki4.webp\"></p><h3>主要内容</",
+    "category": "手机APP",
+    "category_slug": "software-apps",
+    "tags": [
+      "Android软件",
+      "自动连点器",
+      "操作录制",
+      "无需root",
+      "实用工具"
+    ],
+    "created_at": "2026-02-11 09:02:24.457000",
+    "file_size": "20.28 MB"
+  },
+  {
+    "id": "497",
+    "title": "Android ATool 全能媒体处理工具 v1.09 - 多媒体处理神器",
+    "description": "<p>Atool是一款专为安卓设备打造的全能媒体处理工具，整合了丰富的媒体处理功能，界面简洁直观，深色主题设计，适合长时间使用。它支持视频提取为MP3音频、片头片尾裁剪、视频合并、转GIF、压缩、格式转换、倒放和AI修复等功能，满足各种多媒体处理需求。此外，还具备噪音检测辅助功能。</p><p><img src=\"/upload/image/2026-02-11/external-17707978",
+    "category": "手机APP",
+    "category_slug": "software-apps",
+    "tags": [
+      "Android软件",
+      "媒体处理",
+      "视频编辑",
+      "音频提取",
+      "AI修复",
+      "多功能工具"
+    ],
     "created_at": "2026-02-11 08:19:37.922000",
     "file_size": "58.40 MB"
   },
