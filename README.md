@@ -2,7 +2,7 @@
 
 > **专业的资源索引和导航平台** - 提供海量免费AI资源、源码下载、软件工具、学习课程等优质内容 | [访问主站获取完整功能](https://panbox.cc)
 
-![资源总数](https://img.shields.io/badge/资源总数-313-blue)
+![资源总数](https://img.shields.io/badge/资源总数-316-blue)
 ![分类数量](https://img.shields.io/badge/分类数量-10-green)
 ![最后更新](https://img.shields.io/badge/最后更新-20260211-orange)
 ![今日更新](https://img.shields.io/badge/今日更新-30-success)
@@ -18,7 +18,7 @@
 
 ## ✨ 特色功能
 
-- 🎯 **海量资源**: 超过 313 个免费资源，涵盖AI、源码、软件、课程等
+- 🎯 **海量资源**: 超过 316 个免费资源，涵盖AI、源码、软件、课程等
 - 📂 **分类清晰**: 10 个专业分类，快速定位所需资源
 - 🔍 **搜索便捷**: 支持全文搜索和高级筛选
 - 📱 **移动友好**: 完美适配移动端，随时随地访问
@@ -56,36 +56,36 @@
 
 | 序号 | 资源标题 | 分类 | 更新时间 |
 |------|---------|------|---------|
-| 1 | <a href="https://panbox.cc/resources/504" target="_blank">Android 亿万清 v1.0.0 创建习惯管理软件 - 提醒打卡</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/504/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 2 | <a href="https://panbox.cc/resources/503" target="_blank">Android 眼力测试 v1.0.8 下载 - 视力测试与脑力锻炼</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/503/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 3 | <a href="https://panbox.cc/resources/502" target="_blank">Android GO桌面S v1.21 - 个性化手机桌面定制</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/502/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 4 | <a href="https://panbox.cc/resources/501" target="_blank">Android 小鹿txt编辑器 v29.0 - 简洁高效的文本编辑工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/501/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 5 | <a href="https://panbox.cc/resources/500" target="_blank">Parallel Space v4.0.9553 Android 平行空间 - 多账号登录 克隆应用</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/500/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 6 | <a href="https://panbox.cc/resources/499" target="_blank">Android 橙子去水印 v3.1.15 - 无广告高效去水印工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/499/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 7 | <a href="https://panbox.cc/resources/498" target="_blank">Android 动作录制器 v2.0.4 - 实时操作录制与回放</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/498/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 8 | <a href="https://panbox.cc/resources/497" target="_blank">Android ATool 全能媒体处理工具 v1.09 - 多媒体处理神器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/497/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 9 | <a href="https://panbox.cc/resources/496" target="_blank">Android 摸鱼侠 v1.0.1 带薪摸鱼计算器下载 - 实用有趣的安卓时间管理工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/496/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 10 | <a href="https://panbox.cc/resources/495" target="_blank">Android 图片压缩魔 v1.004 - 小巧高效的图片压缩工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/495/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 11 | <a href="https://panbox.cc/resources/494" target="_blank">Computer Science Calculations v4.2.7 安卓版下载 - IT工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/494/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 12 | <a href="https://panbox.cc/resources/493" target="_blank">Android JM浏览器 v1.0.0 - 轻量级聚合搜索浏览器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/493/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 13 | <a href="https://panbox.cc/resources/492" target="_blank">最强算数 v1.1.3 Android版下载 - 提升心算能力的趣味训练软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/492/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 14 | <a href="https://panbox.cc/resources/491" target="_blank">Windows 清墨 v1.18.3 纯净小说阅读器 - 无广告本地阅读体验</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/491/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 15 | <a href="https://panbox.cc/resources/490" target="_blank">Android 乐果字典 v1.0.5 离线汉语字典下载 - 全面支持现代汉语与文言文</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/490/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 16 | <a href="https://panbox.cc/resources/489" target="_blank">多钱浏览器 Android v1.0.2 - 小巧轻便 安全快速</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/489/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
-| 17 | <a href="https://panbox.cc/resources/488" target="_blank">GIF播放器 GIF Playe 单文件版 - 实用GIF编辑工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/488/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 18 | <a href="https://panbox.cc/resources/487" target="_blank">EmEditor Professional v26.0.1 绿色版 - 最快的Windows文本编辑...</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/487/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 19 | <a href="https://panbox.cc/resources/486" target="_blank">ObviousIdea Light Image Resizer v7.5.1 免费版下载 - 图片批...</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/486/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 20 | <a href="https://panbox.cc/resources/485" target="_blank">WinRAR v7.20 中文版免费下载 - Windows压缩解压工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/485/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 21 | <a href="https://panbox.cc/resources/484" target="_blank">Windows UniGetUI v3.3.7 软件包管理器 - 整合Winget等多款包管理器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/484/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 22 | <a href="https://panbox.cc/resources/483" target="_blank">Oracle VM VirtualBox v7.2.6 Windows版下载 - 虚拟机软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/483/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 23 | <a href="https://panbox.cc/resources/482" target="_blank">Windows 综合下载器 v1.0 百度网盘免费下载 - 多平台视频下载工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/482/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 24 | <a href="https://panbox.cc/resources/481" target="_blank">IsMyMemoryOK v1.28 内存条健康检测与诊断工具 - Windows软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/481/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 25 | <a href="https://panbox.cc/resources/480" target="_blank">番茄简谱 Windows 版在线简谱制作工具 - 免费高效</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/480/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 26 | <a href="https://panbox.cc/resources/479" target="_blank">CompressO视频压缩软件 V1.4.0 免费版下载 - 跨平台视频压缩工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/479/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 27 | <a href="https://panbox.cc/resources/478" target="_blank">NipaPlay视频播放器 v1.8.7 绿色版下载 - Windows软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/478/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 28 | <a href="https://panbox.cc/resources/477" target="_blank">Sucrose Wallpaper Engine v26.2.5.0 免费动态壁纸引擎下载 - 开源...</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/477/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 29 | <a href="https://panbox.cc/resources/476" target="_blank">SuperStart OpenShell v4.4.197 - 经典开始菜单恢复工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/476/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
-| 30 | <a href="https://panbox.cc/resources/475" target="_blank">MousePlus右键增强工具 v5.6.18.0 免费版下载 - 单文件绿色软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/475/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 1 | <a href="https://panbox.cc/resources/507" target="_blank">中医之家 v1.7 Android版 - 学习中医知识、中药识别</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/507/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 2 | <a href="https://panbox.cc/resources/506" target="_blank">Android 中医古籍宝典 v5 - 中药大全 健康养生</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/506/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 3 | <a href="https://panbox.cc/resources/505" target="_blank">Android 天数倒计时 v1.3.1.3 无广告版下载 - 简约风格 日程管理</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/505/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 4 | <a href="https://panbox.cc/resources/504" target="_blank">Android 亿万清 v1.0.0 创建习惯管理软件 - 提醒打卡</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/504/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 5 | <a href="https://panbox.cc/resources/503" target="_blank">Android 眼力测试 v1.0.8 下载 - 视力测试与脑力锻炼</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/503/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 6 | <a href="https://panbox.cc/resources/502" target="_blank">Android GO桌面S v1.21 - 个性化手机桌面定制</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/502/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 7 | <a href="https://panbox.cc/resources/501" target="_blank">Android 小鹿txt编辑器 v29.0 - 简洁高效的文本编辑工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/501/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 8 | <a href="https://panbox.cc/resources/500" target="_blank">Parallel Space v4.0.9553 Android 平行空间 - 多账号登录 克隆应用</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/500/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 9 | <a href="https://panbox.cc/resources/499" target="_blank">Android 橙子去水印 v3.1.15 - 无广告高效去水印工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/499/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 10 | <a href="https://panbox.cc/resources/498" target="_blank">Android 动作录制器 v2.0.4 - 实时操作录制与回放</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/498/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 11 | <a href="https://panbox.cc/resources/497" target="_blank">Android ATool 全能媒体处理工具 v1.09 - 多媒体处理神器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/497/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 12 | <a href="https://panbox.cc/resources/496" target="_blank">Android 摸鱼侠 v1.0.1 带薪摸鱼计算器下载 - 实用有趣的安卓时间管理工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/496/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 13 | <a href="https://panbox.cc/resources/495" target="_blank">Android 图片压缩魔 v1.004 - 小巧高效的图片压缩工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/495/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 14 | <a href="https://panbox.cc/resources/494" target="_blank">Computer Science Calculations v4.2.7 安卓版下载 - IT工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/494/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 15 | <a href="https://panbox.cc/resources/493" target="_blank">Android JM浏览器 v1.0.0 - 轻量级聚合搜索浏览器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/493/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 16 | <a href="https://panbox.cc/resources/492" target="_blank">最强算数 v1.1.3 Android版下载 - 提升心算能力的趣味训练软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/492/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 17 | <a href="https://panbox.cc/resources/491" target="_blank">Windows 清墨 v1.18.3 纯净小说阅读器 - 无广告本地阅读体验</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/491/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 18 | <a href="https://panbox.cc/resources/490" target="_blank">Android 乐果字典 v1.0.5 离线汉语字典下载 - 全面支持现代汉语与文言文</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/490/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 19 | <a href="https://panbox.cc/resources/489" target="_blank">多钱浏览器 Android v1.0.2 - 小巧轻便 安全快速</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-apps/489/" target="_blank">索引</a>)</small> | 手机APP | 2026-02-11 |
+| 20 | <a href="https://panbox.cc/resources/488" target="_blank">GIF播放器 GIF Playe 单文件版 - 实用GIF编辑工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/488/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 21 | <a href="https://panbox.cc/resources/487" target="_blank">EmEditor Professional v26.0.1 绿色版 - 最快的Windows文本编辑...</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/487/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 22 | <a href="https://panbox.cc/resources/486" target="_blank">ObviousIdea Light Image Resizer v7.5.1 免费版下载 - 图片批...</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/486/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 23 | <a href="https://panbox.cc/resources/485" target="_blank">WinRAR v7.20 中文版免费下载 - Windows压缩解压工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/485/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 24 | <a href="https://panbox.cc/resources/484" target="_blank">Windows UniGetUI v3.3.7 软件包管理器 - 整合Winget等多款包管理器</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/484/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 25 | <a href="https://panbox.cc/resources/483" target="_blank">Oracle VM VirtualBox v7.2.6 Windows版下载 - 虚拟机软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/483/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 26 | <a href="https://panbox.cc/resources/482" target="_blank">Windows 综合下载器 v1.0 百度网盘免费下载 - 多平台视频下载工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/482/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 27 | <a href="https://panbox.cc/resources/481" target="_blank">IsMyMemoryOK v1.28 内存条健康检测与诊断工具 - Windows软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/481/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 28 | <a href="https://panbox.cc/resources/480" target="_blank">番茄简谱 Windows 版在线简谱制作工具 - 免费高效</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/480/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 29 | <a href="https://panbox.cc/resources/479" target="_blank">CompressO视频压缩软件 V1.4.0 免费版下载 - 跨平台视频压缩工具</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/479/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
+| 30 | <a href="https://panbox.cc/resources/478" target="_blank">NipaPlay视频播放器 v1.8.7 绿色版下载 - Windows软件</a> <small>(<a href="https://LoneKingCode.github.io/panbox/resources/software-windows/478/" target="_blank">索引</a>)</small> | Windows软件 | 2026-02-11 |
 
 > 👉 **[查看更多最新资源 →](https://panbox.cc/resources)** | **[访问主站获取完整功能](https://panbox.cc)**
 
@@ -103,9 +103,9 @@
 
 ## 📊 统计信息
 
-- **总资源数**: 313 个
+- **总资源数**: 316 个
 - **分类数量**: 10 个
-- **最后更新**: 2026-02-11 09:30:03
+- **最后更新**: 2026-02-11 10:00:03
 - **今日更新**: 30 个
 
 ---
@@ -142,6 +142,6 @@
 
 ---
 
-**最后更新**: 2026-02-11 09:30:03  
+**最后更新**: 2026-02-11 10:00:03  
 **主站点**: [https://panbox.cc](https://panbox.cc)  
 **GitHub Pages**: [https://LoneKingCode.github.io/panbox](https://LoneKingCode.github.io/panbox)

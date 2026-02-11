@@ -5,7 +5,7 @@ description: "收录全面的手机APP资源，包括官方原版APP、破解版
 keywords: ["手机APP", "免费下载", "网盘资源"]
 category: "手机APP"
 category_slug: "software-apps"
-resource_count: 93
+resource_count: 96
 og_title: "手机APP - 资源分类"
 og_description: "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏"
 og_type: "website"
@@ -19,9 +19,12 @@ permalink: "/categories/software-apps/"
 
 <p>收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏</p>
 
-<h2>📦 资源列表（共 93 个）</h2>
+<h2>📦 资源列表（共 96 个）</h2>
 
 <ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/507/">中医之家 v1.7 Android版 - 学习中医知识、中药识别</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/506/">Android 中医古籍宝典 v5 - 中药大全 健康养生</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/505/">Android 天数倒计时 v1.3.1.3 无广告版下载 - 简约风格 日程管理</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/504/">Android 亿万清 v1.0.0 创建习惯管理软件 - 提醒打卡</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/503/">Android 眼力测试 v1.0.8 下载 - 视力测试与脑力锻炼</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/502/">Android GO桌面S v1.21 - 个性化手机桌面定制</a></li>
@@ -69,9 +72,6 @@ permalink: "/categories/software-apps/"
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/377/">安卓蒙太奇影视 v1.1.2 去广告纯净版 - 海量免费高清影视资源</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/376/">Android AR Draw v1.0 AR绘画素描软件 - 免费版下载</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/375/">Android 万年历日历大字版 v1.0.9 - 大字大图标设计</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/374/">Android 表情包大全 v2.2.4 免费下载 - 极简设计 模糊搜索 DIY表情</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/358/">Android 监控相机 v1.2.12 - 行车记录+监控抓拍</a></li>
-<li><a href="https://LoneKingCode.github.io/panbox/resources/software-apps/357/">安卓彩云天气 v7.47 高级版 - 分钟级降水预报</a></li>
 </ul>
 
 <div class="cta-section">
@@ -91,14 +91,41 @@ permalink: "/categories/software-apps/"
   "@type": "CollectionPage",
   "name": "手机APP - 资源分类",
   "description": "收录全面的手机APP资源，包括官方原版APP、破解版、去广告版及汉化版应用与游戏",
-  "numberOfItems": 93,
+  "numberOfItems": 96,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 93,
+    "numberOfItems": 96,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "中医之家 v1.7 Android版 - 学习中医知识、中药识别",
+          "url": "https://panbox.cc/resources/507"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android 中医古籍宝典 v5 - 中药大全 健康养生",
+          "url": "https://panbox.cc/resources/506"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Android 天数倒计时 v1.3.1.3 无广告版下载 - 简约风格 日程管理",
+          "url": "https://panbox.cc/resources/505"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Android 亿万清 v1.0.0 创建习惯管理软件 - 提醒打卡",
@@ -107,7 +134,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 2,
+        "position": 5,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Android 眼力测试 v1.0.8 下载 - 视力测试与脑力锻炼",
@@ -116,7 +143,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 3,
+        "position": 6,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Android GO桌面S v1.21 - 个性化手机桌面定制",
@@ -125,7 +152,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 4,
+        "position": 7,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Android 小鹿txt编辑器 v29.0 - 简洁高效的文本编辑工具",
@@ -134,7 +161,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 5,
+        "position": 8,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Parallel Space v4.0.9553 Android 平行空间 - 多账号登录 克隆应用",
@@ -143,7 +170,7 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 6,
+        "position": 9,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Android 橙子去水印 v3.1.15 - 无广告高效去水印工具",
@@ -152,38 +179,11 @@ permalink: "/categories/software-apps/"
       },
       {
         "@type": "ListItem",
-        "position": 7,
+        "position": 10,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Android 动作录制器 v2.0.4 - 实时操作录制与回放",
           "url": "https://panbox.cc/resources/498"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 8,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Android ATool 全能媒体处理工具 v1.09 - 多媒体处理神器",
-          "url": "https://panbox.cc/resources/497"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 9,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Android 摸鱼侠 v1.0.1 带薪摸鱼计算器下载 - 实用有趣的安卓时间管理工具",
-          "url": "https://panbox.cc/resources/496"
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 10,
-        "item": {
-          "@type": "SoftwareApplication",
-          "name": "Android 图片压缩魔 v1.004 - 小巧高效的图片压缩工具",
-          "url": "https://panbox.cc/resources/495"
         }
       }
     ]
