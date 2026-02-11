@@ -1,5 +1,262 @@
 [
   {
+    "id": "489",
+    "title": "多钱浏览器 Android v1.0.2 - 小巧轻便 安全快速",
+    "description": "<p>多钱浏览器是一款专为安卓系统设计的移动浏览器，安装包体积极小，不会占用过多的手机存储空间，即使是存储空间有限的旧款手机也能轻松安装使用。软件运行快速流畅，启动和页面加载速度出色，提供高效的搜索引擎接入，让用户快速检索全网信息，享受丝滑的网页浏览体验。注重用户隐私保护，无广告推送，让用户安心上网。</p><p><img src=\"/upload/image/2026-02-11/externa",
+    "category": "AI课程",
+    "category_slug": "ai-courses",
+    "tags": [
+      "Android浏览器",
+      "小巧轻便",
+      "快速浏览",
+      "安全上网",
+      "隐私保护"
+    ],
+    "created_at": "2026-02-11 07:29:46.472000",
+    "file_size": "6.59 MB"
+  },
+  {
+    "id": "488",
+    "title": "GIF播放器 GIF Playe 单文件版 - 实用GIF编辑工具",
+    "description": "<p>GIF播放器 GIF Playe 是一款单文件版的实用GIF编辑工具，支持预览GIF动图，滑块查看每一帧图片，提示GIF状态信息；上一帧、播放/暂停、下一帧、停止；调整播放速度；可保存当前帧图片，导出所有帧到指定文件夹，设置帧率导出新的GIF。</p><p><img src=\"/upload/image/2026-02-11/external-1770794688393-60n161.web",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "GIF播放器",
+      "单文件版",
+      "GIF编辑",
+      "实用工具",
+      "Windows软件"
+    ],
+    "created_at": "2026-02-11 07:05:43.050000",
+    "file_size": "17.69 MB"
+  },
+  {
+    "id": "487",
+    "title": "EmEditor Professional v26.0.1 绿色版 - 最快的Windows文本编辑器",
+    "description": "<p>EmEditor是一款快速、轻巧、可扩展的Windows文本编辑器，支持宏、Unicode、代码段插件，能高效处理大数据和CSV文件，号称世界上最快的文本编辑器。软件自带简体中文，支持32位和64位版，适合程序员、数据分析师等用户使用，能够大幅提升工作效率。</p><p><img src=\"/upload/image/2026-02-11/external-1770794696522-jb2",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "文本编辑器",
+      "代码编辑器",
+      "CSV编辑器",
+      "绿色版"
+    ],
+    "created_at": "2026-02-11 07:05:42.789000",
+    "file_size": "35.35 MB"
+  },
+  {
+    "id": "486",
+    "title": "ObviousIdea Light Image Resizer v7.5.1 免费版下载 - 图片批量处理工具",
+    "description": "<p>ObviousIdea Light Image Resizer是一款高效的图片批量处理工具，支持调整图片大小、添加水印、转换格式、裁剪缩放等功能。无需许可证密钥，解锁注册版，方便快捷地处理图片。单文件支持传递参数，拖拽桌面图片即可快速处理。</p><p><img src=\"/upload/image/2026-02-11/external-1770794701228-wgjoya.jpg\">",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "图片处理",
+      "批量处理",
+      "免费版",
+      "图像编辑"
+    ],
+    "created_at": "2026-02-11 07:05:42.530000",
+    "file_size": "36.39 MB"
+  },
+  {
+    "id": "485",
+    "title": "WinRAR v7.20 中文版免费下载 - Windows压缩解压工具",
+    "description": "<p>WinRAR 是一款老牌压缩软件，提供RAR和ZIP文件的完整支持，支持多种格式文件解压，包括ARJ、CAB、LZH、ACE、TAR、GZ、UUE、BZ2、JAR、ISO等。最新版WinRAR v7.20新增深色模式，终止对Windows Vista和32位系统的支持，最低要求为Windows 7 x64。支持大内存页优化，提升压缩解压速度，支持64个逻辑处理器。</p><p><img sr",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "压缩解压",
+      "免费下载",
+      "多格式支持",
+      "系统优化"
+    ],
+    "created_at": "2026-02-11 07:05:42.263000",
+    "file_size": "3.84 MB"
+  },
+  {
+    "id": "484",
+    "title": "Windows UniGetUI v3.3.7 软件包管理器 - 整合Winget等多款包管理器",
+    "description": "<p>Windows UniGetUI是一款专为Windows设计的软件包管理器图形界面工具，整合了Winget、Scoop、Chocolatey、Pip等多个主流包管理器，支持统一管理和操作软件包的安装、更新和卸载。提供增强的软件包搜索功能和已安装软件管理功能，界面直观易用，让Windows平台的软件管理更加高效便捷。</p><p><img src=\"/upload/image/2026-02-",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "软件包管理器",
+      "开源软件",
+      "Winget",
+      "高效管理"
+    ],
+    "created_at": "2026-02-11 07:05:42.014000",
+    "file_size": "70.24 MB"
+  },
+  {
+    "id": "483",
+    "title": "Oracle VM VirtualBox v7.2.6 Windows版下载 - 虚拟机软件",
+    "description": "<p>Oracle VM VirtualBox是一款由德国Innotek公司开发的开源虚拟机软件，支持Intel VT-x和AMD-V硬件虚拟化扩展，提供接近原生性能的虚拟机运行体验。支持VMDK和VHD虚拟磁盘格式，方便数据迁移。多世代快照管理功能让用户可以保存虚拟机的不同状态，随时回滚到之前的快照，非常适合软件测试和系统实验。</p><p><img src=\"/upload/image/202",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "虚拟机",
+      "开源软件",
+      "硬件虚拟化",
+      "系统测试"
+    ],
+    "created_at": "2026-02-11 07:05:41.752000",
+    "file_size": "165.56 MB"
+  },
+  {
+    "id": "482",
+    "title": "Windows 综合下载器 v1.0 百度网盘免费下载 - 多平台视频下载工具",
+    "description": "<p>Windows 综合下载器是一款专为Windows系统开发的多平台内容下载工具，支持小红书、B站和抖音三大主流平台。软件设计简洁，自动识别链接和平台，简化下载流程，满足多样化下载需求。支持B站1080P和4K画质下载，适合视频爱好者和内容创作者使用。</p><p><img src=\"/upload/image/2026-02-11/external-1770794766199-elsspp.",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "视频下载",
+      "多平台",
+      "免费下载",
+      "便捷工具"
+    ],
+    "created_at": "2026-02-11 07:05:41.502000",
+    "file_size": "78.07 MB"
+  },
+  {
+    "id": "481",
+    "title": "IsMyMemoryOK v1.28 内存条健康检测与诊断工具 - Windows软件",
+    "description": "<p>IsMyMemoryOK是一款专业的内存检测软件，主要用于检测计算机内存的健康状况、性能参数和潜在错误。无论是普通用户想要检查电脑稳定性，还是硬件爱好者需要测试新购买的内存条，这款工具都能提供专业可靠的检测结果。支持多种测试模式，包括地址测试、随机数测试、读写速度测试等，确保内存稳定性和性能。</p><p><img src=\"/upload/image/2026-02-11/external",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "内存检测",
+      "性能监控",
+      "硬件测试",
+      "系统工具"
+    ],
+    "created_at": "2026-02-11 07:05:41.260000",
+    "file_size": "222.04 KB"
+  },
+  {
+    "id": "480",
+    "title": "番茄简谱 Windows 版在线简谱制作工具 - 免费高效",
+    "description": "<p>番茄简谱是一款基于Web技术的在线简谱制作工具，支持永久免费使用，无任何功能限制。其创新的脚本输入方式让用户通过简单的脚本代码快速生成复杂简谱，大幅提升创作效率。采用云端架构，用户可在多设备间无缝访问和编辑乐谱，实现随时随地创作。</p><p><img src=\"/upload/image/2026-02-11/external-1770794789199-atk1g6.webp\"></p>",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "音乐创作",
+      "免费工具",
+      "在线制谱",
+      "高效输入"
+    ],
+    "created_at": "2026-02-11 07:05:40.995000",
+    "file_size": "27.08 MB"
+  },
+  {
+    "id": "479",
+    "title": "CompressO视频压缩软件 V1.4.0 免费版下载 - 跨平台视频压缩工具",
+    "description": "<p>CompressO是一款免费的开源跨平台视频压缩应用程序，由FFmpeg提供支持。实测将近3G的视频压缩成90mb左右，视频播放画质依然很不错。适合需要内网汇报上传到内网云盘的用户，轻松压缩大文件。</p><p><img src=\"/upload/image/2026-02-11/external-1770794795635-bqp23l.webp\"></p>",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "视频压缩",
+      "开源软件",
+      "FFmpeg",
+      "跨平台"
+    ],
+    "created_at": "2026-02-11 07:05:22.956000",
+    "file_size": "32.96 MB"
+  },
+  {
+    "id": "478",
+    "title": "NipaPlay视频播放器 v1.8.7 绿色版下载 - Windows软件",
+    "description": "<p>NipaPlay视频播放器是一款绿色版视频播放器，支持多种视频格式，无需安装即可使用。该版本为v1.8.7，适合喜欢简洁界面和快速播放体验的用户。</p><p><img src=\"/upload/image/2026-02-11/external-1770794318651-njpdv8.webp\"></p>",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "视频播放器",
+      "绿色版",
+      "无广告",
+      "高效播放"
+    ],
+    "created_at": "2026-02-11 07:05:22.700000",
+    "file_size": "72.00 MB"
+  },
+  {
+    "id": "477",
+    "title": "Sucrose Wallpaper Engine v26.2.5.0 免费动态壁纸引擎下载 - 开源项目",
+    "description": "<p>Sucrose Wallpaper Engine是一款开源的动态壁纸引擎，能够为用户桌面带来生动活力。作为一款完全免费的软件，它正逐渐成为许多用户的首选。本文详细介绍其功能特点和使用体验。</p><p><img src=\"/upload/image/2026-02-11/external-1770794327327-xxxgzl.webp\"></p><h3>主要内容</h3><ul><li>",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "动态壁纸",
+      "开源项目",
+      "Windows软件",
+      "免费软件",
+      "桌面美化"
+    ],
+    "created_at": "2026-02-11 07:05:22.448000",
+    "file_size": "281.62 MB"
+  },
+  {
+    "id": "476",
+    "title": "SuperStart OpenShell v4.4.197 - 经典开始菜单恢复工具",
+    "description": "<p>SuperStart是一款基于OpenShell开发的简化版经典开始菜单恢复工具，专为Windows 7/8/10设计，支持黑白主题，提供多种皮肤和自定义修改功能，完全免费。它移除了经典资源管理器和IE扩展组件，仅保留经典开始菜单模块，帮助用户恢复WinXP/Win7样式的开始菜单风格。</p><p><img src=\"/upload/image/2026-02-11/external-17",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "开始菜单",
+      "经典风格",
+      "免费软件",
+      "系统优化"
+    ],
+    "created_at": "2026-02-11 07:05:22.200000",
+    "file_size": "8.28 MB"
+  },
+  {
+    "id": "475",
+    "title": "MousePlus右键增强工具 v5.6.18.0 免费版下载 - 单文件绿色软件",
+    "description": "<p>MousePlus是一款鼠标右键增强工具，使用鼠标右键拖动即可唤醒鼠标轮盘，实现相关功能，操作界面与Quicker一致，体积小巧，单文件绿色版，完全免费使用。适合需要提升鼠标操作效率的用户。</p><p><img src=\"/upload/image/2026-02-11/external-1770794351651-4zqed6.webp\"></p><h3>主要内容</h3><ul><li",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "绿色软件",
+      "鼠标工具",
+      "右键增强",
+      "单文件"
+    ],
+    "created_at": "2026-02-11 07:05:21.939000",
+    "file_size": "3.56 MB"
+  },
+  {
+    "id": "474",
+    "title": "AB Download Manager v1.8.5 绿色版 - 多平台下载管理神器",
+    "description": "<p>AB Download Manager 是一款开源、免费的下载管理软件，支持 Windows 和 Linux 操作系统，提供浏览器插件，支持 HTTP、FTP 协议，支持文件类型分类，现代化 UI 界面，支持暗黑、现代模式，可设置下载平均速度、下载线程、计划任务等功能。</p><p><img src=\"/upload/image/2026-02-11/external-17707943582",
+    "category": "Windows软件",
+    "category_slug": "software-windows",
+    "tags": [
+      "Windows软件",
+      "Linux软件",
+      "下载管理",
+      "开源软件",
+      "免费版",
+      "多平台"
+    ],
+    "created_at": "2026-02-11 07:05:21.677000",
+    "file_size": "66.27 MB"
+  },
+  {
     "id": "473",
     "title": "安卓离线听书随心听书 v1.0.1 - 离线听书应用",
     "description": "<p>随心听书是一款离线听书应用，让用户可以随时随地享受阅读的乐趣。无需网络连接，即可畅听有声书籍，不论是上下班途中还是休息时刻，都能充分利用碎片时间，进行听书，体验如同真人朗读般的流畅感受。</p><p><img src=\"/upload/image/2026-02-11/external-1770792795613-ovmaf9.webp\"></p>\n<h3>主要内容</h3>\n<ul>\n<l",
