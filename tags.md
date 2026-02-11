@@ -6,17 +6,17 @@ description: 所有资源标签，按热度排序
 
 # 🏷️ 标签云
 
-共 821 个标签
+共 820 个标签
 
 ## 热门标签
 
-- [Windows软件](https://LoneKingCode.github.io/panbox/tags/windows软件/) (142)
-- [免费版](https://LoneKingCode.github.io/panbox/tags/免费版/) (41)
-- [免费下载](https://LoneKingCode.github.io/panbox/tags/免费下载/) (28)
+- [Windows软件](https://LoneKingCode.github.io/panbox/tags/windows软件/) (143)
+- [免费版](https://LoneKingCode.github.io/panbox/tags/免费版/) (42)
+- [免费下载](https://LoneKingCode.github.io/panbox/tags/免费下载/) (29)
 - [实用工具](https://LoneKingCode.github.io/panbox/tags/实用工具/) (21)
-- [绿色软件](https://LoneKingCode.github.io/panbox/tags/绿色软件/) (18)
+- [绿色软件](https://LoneKingCode.github.io/panbox/tags/绿色软件/) (19)
 - [最新版](https://LoneKingCode.github.io/panbox/tags/最新版/) (17)
-- [系统优化](https://LoneKingCode.github.io/panbox/tags/系统优化/) (15)
+- [系统优化](https://LoneKingCode.github.io/panbox/tags/系统优化/) (16)
 - [去广告](https://LoneKingCode.github.io/panbox/tags/去广告/) (14)
 - [开源软件](https://LoneKingCode.github.io/panbox/tags/开源软件/) (14)
 - [安卓软件](https://LoneKingCode.github.io/panbox/tags/安卓软件/) (13)
@@ -33,13 +33,13 @@ description: 所有资源标签，按热度排序
 
 ## 所有标签
 
-- [Windows软件](https://LoneKingCode.github.io/panbox/tags/windows软件/) (142)
-- [免费版](https://LoneKingCode.github.io/panbox/tags/免费版/) (41)
-- [免费下载](https://LoneKingCode.github.io/panbox/tags/免费下载/) (28)
+- [Windows软件](https://LoneKingCode.github.io/panbox/tags/windows软件/) (143)
+- [免费版](https://LoneKingCode.github.io/panbox/tags/免费版/) (42)
+- [免费下载](https://LoneKingCode.github.io/panbox/tags/免费下载/) (29)
 - [实用工具](https://LoneKingCode.github.io/panbox/tags/实用工具/) (21)
-- [绿色软件](https://LoneKingCode.github.io/panbox/tags/绿色软件/) (18)
+- [绿色软件](https://LoneKingCode.github.io/panbox/tags/绿色软件/) (19)
 - [最新版](https://LoneKingCode.github.io/panbox/tags/最新版/) (17)
-- [系统优化](https://LoneKingCode.github.io/panbox/tags/系统优化/) (15)
+- [系统优化](https://LoneKingCode.github.io/panbox/tags/系统优化/) (16)
 - [去广告](https://LoneKingCode.github.io/panbox/tags/去广告/) (14)
 - [开源软件](https://LoneKingCode.github.io/panbox/tags/开源软件/) (14)
 - [安卓软件](https://LoneKingCode.github.io/panbox/tags/安卓软件/) (13)
@@ -68,6 +68,7 @@ description: 所有资源标签，按热度排序
 - [多格式支持](https://LoneKingCode.github.io/panbox/tags/多格式支持/) (6)
 - [AI课程](https://LoneKingCode.github.io/panbox/tags/ai课程/) (6)
 - [PHP源码](https://LoneKingCode.github.io/panbox/tags/php源码/) (6)
+- [安卓应用](https://LoneKingCode.github.io/panbox/tags/安卓应用/) (5)
 - [音乐播放器](https://LoneKingCode.github.io/panbox/tags/音乐播放器/) (5)
 - [多功能](https://LoneKingCode.github.io/panbox/tags/多功能/) (5)
 - [免费软件](https://LoneKingCode.github.io/panbox/tags/免费软件/) (5)
@@ -78,7 +79,6 @@ description: 所有资源标签，按热度排序
 - [卸载工具](https://LoneKingCode.github.io/panbox/tags/卸载工具/) (4)
 - [高效管理](https://LoneKingCode.github.io/panbox/tags/高效管理/) (4)
 - [VIP会员](https://LoneKingCode.github.io/panbox/tags/vip会员/) (4)
-- [安卓应用](https://LoneKingCode.github.io/panbox/tags/安卓应用/) (4)
 - [Mac软件](https://LoneKingCode.github.io/panbox/tags/mac软件/) (4)
 - [图像处理](https://LoneKingCode.github.io/panbox/tags/图像处理/) (4)
 - [单文件版](https://LoneKingCode.github.io/panbox/tags/单文件版/) (4)
@@ -178,12 +178,11 @@ description: 所有资源标签，按热度排序
 - [域名管理](https://LoneKingCode.github.io/panbox/tags/域名管理/) (2)
 - [移动源码](https://LoneKingCode.github.io/panbox/tags/移动源码/) (2)
 - [支付系统](https://LoneKingCode.github.io/panbox/tags/支付系统/) (2)
+- [离线听书](https://LoneKingCode.github.io/panbox/tags/离线听书/) (1)
+- [有声书籍](https://LoneKingCode.github.io/panbox/tags/有声书籍/) (1)
+- [听书应用](https://LoneKingCode.github.io/panbox/tags/听书应用/) (1)
 - [去水印工具](https://LoneKingCode.github.io/panbox/tags/去水印工具/) (1)
-- [['Windows软件'](https://LoneKingCode.github.io/panbox/tags/windows软件/) (1)
-- ['系统优化'](https://LoneKingCode.github.io/panbox/tags/系统优化/) (1)
-- ['免费版'](https://LoneKingCode.github.io/panbox/tags/免费版/) (1)
-- ['绿色软件'](https://LoneKingCode.github.io/panbox/tags/绿色软件/) (1)
-- ['Win11优化']](https://LoneKingCode.github.io/panbox/tags/win11优化/) (1)
+- [Win11优化](https://LoneKingCode.github.io/panbox/tags/win11优化/) (1)
 - [映像文件处理](https://LoneKingCode.github.io/panbox/tags/映像文件处理/) (1)
 - [备份恢复](https://LoneKingCode.github.io/panbox/tags/备份恢复/) (1)
 - [磁盘分区](https://LoneKingCode.github.io/panbox/tags/磁盘分区/) (1)

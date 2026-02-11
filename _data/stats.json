@@ -1,9 +1,9 @@
 {
-  "total_resources": 281,
+  "total_resources": 282,
   "total_categories": 10,
-  "today_updates": 2,
+  "today_updates": 3,
   "category_counts": {
-    "ai-courses": 9,
+    "ai-courses": 10,
     "software-windows": 141,
     "software-apps": 75,
     "software-mac": 1,
@@ -13,5 +13,5 @@
     "courses-side-business": 12,
     "source-code-mobile": 10
   },
-  "last_updated": "2026-02-11T06:30:02.494806"
+  "last_updated": "2026-02-11T07:00:03.628476"
 }
