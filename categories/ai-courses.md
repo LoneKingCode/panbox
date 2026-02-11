@@ -5,7 +5,7 @@ description: "提供从入门到精通的AI课程，包括机器学习、深度�
 keywords: ["AI课程", "免费下载", "网盘资源"]
 category: "AI课程"
 category_slug: "ai-courses"
-resource_count: 7
+resource_count: 9
 og_title: "AI课程 - 资源分类"
 og_description: "提供从入门到精通的AI课程，包括机器学习、深度学习、AI应用开发等方向的技术培训和实践教程"
 og_type: "website"
@@ -19,9 +19,11 @@ permalink: "/categories/ai-courses/"
 
 <p>提供从入门到精通的AI课程，包括机器学习、深度学习、AI应用开发等方向的技术培训和实践教程</p>
 
-<h2>📦 资源列表（共 7 个）</h2>
+<h2>📦 资源列表（共 9 个）</h2>
 
 <ul class="resource-list">
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/472/">安卓全免去水印大师 v1.7.6 免费版下载 - 视频图片去水印工具</a></li>
+<li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/471/">Yamicsoft Windows Manager 2.3.2 中文破解版下载 - Windows10/11系统优化工具</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/345/">AI音乐创作实战技能 - 掌握AI+音乐起号核心技能 月入轻松破万</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/344/">职场AI效率提升课 - 全面提升工作效率与竞争力</a></li>
 <li><a href="https://LoneKingCode.github.io/panbox/resources/ai-courses/340/">最新电商AI实操课 - 快速上手电商AI工具</a></li>
@@ -48,14 +50,32 @@ permalink: "/categories/ai-courses/"
   "@type": "CollectionPage",
   "name": "AI课程 - 资源分类",
   "description": "提供从入门到精通的AI课程，包括机器学习、深度学习、AI应用开发等方向的技术培训和实践教程",
-  "numberOfItems": 7,
+  "numberOfItems": 9,
   "mainEntity": {
     "@type": "ItemList",
-    "numberOfItems": 7,
+    "numberOfItems": 9,
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "安卓全免去水印大师 v1.7.6 免费版下载 - 视频图片去水印工具",
+          "url": "https://panbox.cc/resources/472"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "SoftwareApplication",
+          "name": "Yamicsoft Windows Manager 2.3.2 中文破解版下载 - Windows10/11系统优化工具",
+          "url": "https://panbox.cc/resources/471"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
         "item": {
           "@type": "SoftwareApplication",
           "name": "AI音乐创作实战技能 - 掌握AI+音乐起号核心技能 月入轻松破万",
@@ -64,7 +84,7 @@ permalink: "/categories/ai-courses/"
       },
       {
         "@type": "ListItem",
-        "position": 2,
+        "position": 4,
         "item": {
           "@type": "SoftwareApplication",
           "name": "职场AI效率提升课 - 全面提升工作效率与竞争力",
@@ -73,7 +93,7 @@ permalink: "/categories/ai-courses/"
       },
       {
         "@type": "ListItem",
-        "position": 3,
+        "position": 5,
         "item": {
           "@type": "SoftwareApplication",
           "name": "最新电商AI实操课 - 快速上手电商AI工具",
@@ -82,7 +102,7 @@ permalink: "/categories/ai-courses/"
       },
       {
         "@type": "ListItem",
-        "position": 4,
+        "position": 6,
         "item": {
           "@type": "SoftwareApplication",
           "name": "3D动漫视频制作教程 - 新手快速上手 + MJ垫图 + 参考提示词",
@@ -91,7 +111,7 @@ permalink: "/categories/ai-courses/"
       },
       {
         "@type": "ListItem",
-        "position": 5,
+        "position": 7,
         "item": {
           "@type": "SoftwareApplication",
           "name": "小妙招图片+动态视频起号玩法教学 - AI涨粉秘籍",
@@ -100,7 +120,7 @@ permalink: "/categories/ai-courses/"
       },
       {
         "@type": "ListItem",
-        "position": 6,
+        "position": 8,
         "item": {
           "@type": "SoftwareApplication",
           "name": "Coze扣子工作流一键生成人物前半生独白短视频 - 保姆级搭建教程",
@@ -109,7 +129,7 @@ permalink: "/categories/ai-courses/"
       },
       {
         "@type": "ListItem",
-        "position": 7,
+        "position": 9,
         "item": {
           "@type": "SoftwareApplication",
           "name": "AI写作论文课 - 让论文写作更轻松高效",
