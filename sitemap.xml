@@ -56,6 +56,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://LoneKingCode.github.io/panbox/resources/software-apps/520/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://LoneKingCode.github.io/panbox/resources/software-apps/519/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://LoneKingCode.github.io/panbox/resources/software-apps/518/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://LoneKingCode.github.io/panbox/resources/software-apps/517/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
