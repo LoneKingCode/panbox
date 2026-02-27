@@ -4,8 +4,8 @@
 
 ![资源总数](https://img.shields.io/badge/资源总数-329-blue)
 ![分类数量](https://img.shields.io/badge/分类数量-10-green)
-![最后更新](https://img.shields.io/badge/最后更新-20260226-orange)
-![今日更新](https://img.shields.io/badge/今日更新-3-success)
+![最后更新](https://img.shields.io/badge/最后更新-20260227-orange)
+
 
 ## 📋 目录
 
@@ -105,8 +105,8 @@
 
 - **总资源数**: 329 个
 - **分类数量**: 10 个
-- **最后更新**: 2026-02-26 23:30:02
-- **今日更新**: 3 个
+- **最后更新**: 2026-02-27 00:00:04
+
 
 ---
 
@@ -142,6 +142,6 @@
 
 ---
 
-**最后更新**: 2026-02-26 23:30:02  
+**最后更新**: 2026-02-27 00:00:04  
 **主站点**: [https://panbox.cc](https://panbox.cc)  
 **GitHub Pages**: [https://LoneKingCode.github.io/panbox](https://LoneKingCode.github.io/panbox)
